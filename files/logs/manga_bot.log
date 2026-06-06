@@ -1,0 +1,29 @@
+2026-06-06 17:11:04,811  [INFO]  ==================================================
+2026-06-06 17:11:04,811  [INFO]    MANGA BOT — 1 video/day → YouTube + Instagram
+2026-06-06 17:11:04,811  [INFO]  ==================================================
+2026-06-06 17:11:04,811  [INFO]  ⏰ Manga scheduled at 13:00
+2026-06-06 17:11:04,812  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 17:11:04,812  [INFO]  📖 Manga pipeline starting…
+2026-06-06 17:11:04,812  [INFO]  📖 Lookism | action | query: battle dramatic sky
+2026-06-06 17:11:05,552  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 17:11:05,567  [INFO]  ✅ Manga script: 37 words
+2026-06-06 17:11:34,159  [INFO]  ✅ Manga clip: assets/manga/11733622.mp4
+2026-06-06 17:12:35,688  [INFO]  🎤 Audio: 27.2s
+2026-06-06 17:12:56,534  [INFO]  ✅ Manga video: output\manga_20260606_171104.mp4
+2026-06-06 17:12:57,769  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 17:12:57,772  [INFO]  📤 Uploading to YouTube: Why Lookism is more than just a beauty story. #Shorts
+2026-06-06 17:13:22,837  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/t1q-jaFYH_s
+2026-06-06 17:13:22,837  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/t1q-jaFYH_s
+2026-06-06 17:13:36,499  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-06 17:14:07,938  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1780746248/autoshorts/gw9pg8tiy0gersi4mkr8.mp4
+2026-06-06 17:14:07,938  [INFO]  📤 Creating Instagram Reel container…
+2026-06-06 17:14:09,157  [INFO]  📦 Container created: 18112363666714875
+2026-06-06 17:14:14,891  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 17:14:20,431  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 17:14:26,173  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 17:14:31,936  [INFO]  ⏳ Container status: FINISHED
+2026-06-06 17:14:39,450  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17944921872206293/
+2026-06-06 17:14:39,452  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/17944921872206293/
+2026-06-06 17:14:39,453  [INFO]  🎉 Manga Done! YouTube: https://www.youtube.com/shorts/t1q-jaFYH_s | Instagram: https://www.instagram.com/reel/17944921872206293/
+2026-06-06 17:14:39,467  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 17:14:39,467  [INFO]  🤖 Manga Bot running.

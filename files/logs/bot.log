@@ -1,0 +1,983 @@
+2026-06-05 00:11:41,984  [INFO]  ============================================================
+2026-06-05 00:11:41,984  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 00:11:41,984  [INFO]    Posting 3 video(s) per day
+2026-06-05 00:11:41,985  [INFO]    Niches: facts
+2026-06-05 00:11:41,985  [INFO]  ============================================================
+2026-06-05 00:11:41,985  [INFO]  ⏰ Scheduled post #1 at 09:50
+2026-06-05 00:11:41,985  [INFO]  ⏰ Scheduled post #2 at 15:14
+2026-06-05 00:11:41,986  [INFO]  ⏰ Scheduled post #3 at 19:00
+2026-06-05 00:11:41,986  [INFO]  --now flag detected, posting immediately…
+2026-06-05 00:11:41,986  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:11:41,986  [INFO]  🚀 Starting pipeline…
+2026-06-05 00:11:45,156  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 00:11:45,159  [INFO]  📌 Topic: This time trick changed everything for me  |  Niche: life hacks
+2026-06-05 00:11:45,973  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:11:45,982  [INFO]  ✅ Script written (59 words)
+2026-06-05 00:11:45,983  [INFO]  📝 Script:
+Wait until you hear what they found out about time.
+ 
+It boosts 30% productivity and saves 2 hours daily.
+ 
+Scientists found 90% of people use it wrong.
+ 
+4 minutes a day is all you need to change.
+ 
+…
+2026-06-05 00:11:45,984  [INFO]  🎬 Building video: This time trick changed everything for me
+2026-06-05 00:11:48,453  [INFO]  🎤 Audio generated
+2026-06-05 00:13:05,135  [INFO]  ✅ Video saved → output\20260605_001145_This time trick changed everything for m.mp4
+2026-06-05 00:13:05,743  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:13:05,991  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 00:13:06,006  [INFO]  📤 Uploading to YouTube: This Time Trick Changed Everything For Me #Shorts
+2026-06-05 00:13:10,570  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/SES6U0ktucg
+2026-06-05 00:13:19,942  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 00:13:21,104  [INFO]  anime_community447 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:13:25,908  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 00:13:29,962  [INFO]  anime_community447 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:13:30,963  [INFO]  https://i.instagram.com/api/v1/challenge/AXJ4Nyc4N20pa5-krRsYtBxqrIsbqvGIdZmYAAXIvCky4HYraOa0HlH2szJUygS55UlrwEw/Af19CrcEkNS2-NLoWelAIeHDf1zlYfBpnsq-OdtBP3QyoRfyoFxoJe6GS77djOx5ktQrTEViGmS4mw/
+2026-06-05 00:13:31,472  [INFO]  anime_community447 [200] GET https://i.instagram.com/api/v1/challenge/AXJ4Nyc4N20pa5-krRsYtBxqrIsbqvGIdZmYAAXIvCky4HYraOa0HlH2szJUygS55UlrwEw/Af19CrcEkNS2-NLoWelAIeHDf1zlYfBpnsq-OdtBP3QyoRfyoFxoJe6GS77djOx5ktQrTEViGmS4mw/?guid=916d7d6a-136b-433b-ac5b-d33922f7d56b&device_id=android-869c8507c2e2be12&challenge_context=Q9y1BQGWBRE4J-GPnq5kSnpbbrDAYu_eCVPl40aX7P4RnfeVpEDH6NsUP3KMo4x1_MjK3d3ONWkLQwt7kFPEzmiCWugDKIg7Uqy4w9gQwUpeh4C1UOw-Yvxm6fqZrQJv_Pc5g0de7SWoC6IcaNiir0e8bFZq97OC9RGN6HyPaj2fnYCvazLpcfKy_DIM1j7vkV45xETpEPAPGmNm1ETA0rfDDcH9lX87nAkXqMccXjBBa_cJLNMu9VQvVrUrTCtzLdlOdlqyh6IAajSj2PgE6Ga9zkORCQl7uokNTAVDv-bnlT14AZ4fkuqMkGrh4DKk9RntFEQWnfAOvQXJZQQynGaQf0l3O2UnWmvMTqdW5MztkWFwKjgwzFtq2EouQTgoYqAmt8XgOnIUSQL4CsmaSeC2L1CNsHZZKrJ6Se14rYcmHWyGECZQXmfQTQsgoSVsZtjn8aq7G7O3O9kZiiSEmThO6wyl40AJmmABnJ0TIlnJcE8dI3xBiW56NKbdC1NJXRDXU-UAt1Dw_z-Yg1XWJ-zT9t0cU9_IpUnAUOjFTyNfuKsJ59VCXrvFEd6T5uVxDVFuhz12vioRzIriXZfBvFPgk1GceBskqwtSZNcHFzIkB17IIWXaaQzEQgNS68mtm5VXhl0GjKIX1UrSOLBTJNNLYPWtdnjlbPKS5oNgeQobL2YCIEHq2j0pu8pYoTdOKhk7uUPWQiVGaNKZ52PAI9jI92GgvEZG45SFdHB-ZJ2FYtJaqTOWFVO1KQlbKGz_gPWaZj8lklwZjsJN5ZN6yKtXAjisAwT0o-IROK6-NCabv9ySmCiWNsR69g (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:13:31,473  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "anime_community447" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQH08wLw_1zRsPYFV7I_E-HvGrJjoEdijVx0eZ3rLorjtbw_f0lRWWYu6mcgLe-uCDXbYNkmtQ6lEqTiR-kVOHbciXjPam1KY3OaHxykO6zJycjn55YnoRuSuOIEx306zTxh0Xcqdb66tRmUNMEm2gCeXxkKY8XxoFRNvu36BBHjrYsFKdBglWrzjfnjlS6B729NKKSN7UYapb1upHc61naPxghnw1VLD0usEp3najpR8c0U7X5TIZhhrtmXG-Phdo4QFJwMHHX_H-kIKZP5juxMLSdy0xhlkiqwOrFT3zhqyltoJpy5OdtQo5EyoOUJLrz1YuCus1fIojXPHPu5eyb_Hdeui7PVvd5edbtvUmrSon4RKs_HMIO0aNuAdPhj4fU9oVyE7MusKUzV4yRNSG_eH89b3pi_L8hpnQ6gWKLrKH9UOQwZ5_6kQcnsJXWYtBjYP0zA3rdFrf9UmOFshKHECef2-2X3hJkOJObds-c0Rjd7xo2fYHZlO_UzrJNjnnf2PNo4Rp893075xUXC9sLy7Gu15GlhVkmEUckafDIlwCYqppnbDKk_3oORTc8k2DP5H4dibUXOn8aPRlDPOOX1SYifWccTKHUB3fUGGkYMRhs6cYTMCNmo_3FjtjA2Hbo2Ba_Zilvg8ypxelG-nVstJpHH0d_KP2xt1agZhQQbKgt_VLrphaMunh7x9rX_Ssrlb2PSvPCk87fWF8vB_SMApYq5SQC9QzFZ2ERVbs3G_tsX2fgahPysoDL6E0Q7n7-lQuvic-KJwQXAaidivGRLOyLhXJJAQzMhy3_XDw3hA-dbFcSH1Hwi8Bpi35wTeeWmKWGGUqS_j4iwTdWTzOY2JfXZIcFfIsE1laxOdlzMXqzcJkuexwXs92tg19AtF2rhLzRIrXO8ZmPblqwtjo_k3DGNP4uol8ET5Ghu2oGC0Tr6pwlaso_ap6l1OApXE-KDmJkxKPBPg3lxEr6vVX1UCkPr7B4t-EiwH0t19CCovXLkIIH3QyibDE0vNRCLSyaCyqB3pjRcIQATa3cES4tAvs4WeWGqfD48DyVXqBsG6m0IWetcbf-ySFEXHDWC7knemYrAWCNGFiUnvKzHhN72R3gNRYRS7xscxDL6AvB2PbpxCyyc_0udlt9efDOoGpsJSD_I4M953yRFUfM9PrSgfDUb', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwE6ptd5UtCMppx1Rg3E6SMAfzdZ7KU3RLP2AaEGzm-S--_p80uaq5QEOaOECL7d9-f94zR0HzKmlQ', 'status': 'ok'}
+2026-06-05 00:13:31,475  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/SES6U0ktucg  |  Instagram: N/A
+2026-06-05 00:13:31,475  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:13:31,475  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 00:21:06,610  [INFO]  ============================================================
+2026-06-05 00:21:06,610  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 00:21:06,610  [INFO]    Posting 3 video(s) per day
+2026-06-05 00:21:06,610  [INFO]    Niches: facts
+2026-06-05 00:21:06,610  [INFO]  ============================================================
+2026-06-05 00:21:06,611  [INFO]  ⏰ Scheduled post #1 at 09:57
+2026-06-05 00:21:06,611  [INFO]  ⏰ Scheduled post #2 at 15:00
+2026-06-05 00:21:06,611  [INFO]  ⏰ Scheduled post #3 at 18:50
+2026-06-05 00:21:06,611  [INFO]  --now flag detected, posting immediately…
+2026-06-05 00:21:06,611  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:21:06,611  [INFO]  🚀 Starting pipeline…
+2026-06-05 00:21:09,298  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 00:21:09,299  [INFO]  📌 Topic: Nobody tells you this about your DNA  |  Niche: science
+2026-06-05 00:21:10,263  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:21:10,271  [INFO]  ✅ Script written (49 words)
+2026-06-05 00:21:10,272  [INFO]  📝 Script:
+Scientists just discovered something insane about DNA.
+ 
+You have 8% alien DNA in you.
+Your body is not fully human.
+ 
+97% of your genes are not human made.
+They came from viruses and bacteria.
+ 
+This…
+2026-06-05 00:21:10,272  [INFO]  🎬 Building video: Nobody tells you this about your DNA
+2026-06-05 00:21:13,112  [INFO]  🎤 Audio generated
+2026-06-05 00:22:32,114  [INFO]  ✅ Video saved → output\20260605_002110_Nobody tells you this about your DNA.mp4
+2026-06-05 00:22:33,511  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:22:33,727  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 00:22:33,729  [INFO]  📤 Uploading to YouTube: Nobody Tells You This About Your Dna #Shorts
+2026-06-05 00:22:37,726  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/w3HHNfyv3yU
+2026-06-05 00:22:50,739  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 00:22:51,951  [INFO]  anime_community447 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:22:57,210  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 00:23:01,160  [INFO]  anime_community447 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:23:02,161  [INFO]  https://i.instagram.com/api/v1/challenge/AXIdu3mZ7CnujwbKO6thIvrQulcoLrYYcuNRHA3h_o_9f34CdrUa_Nw5UTqKLrsuTedVBsA/Af2j52SLUsSpUoz_Dr85HQ2sM8Rg8vCOrcAZ4g1EGPdLaT2j-eOMUlPapT936h0wCuymCiJlxaRqXw/
+2026-06-05 00:23:02,949  [INFO]  anime_community447 [200] GET https://i.instagram.com/api/v1/challenge/AXIdu3mZ7CnujwbKO6thIvrQulcoLrYYcuNRHA3h_o_9f34CdrUa_Nw5UTqKLrsuTedVBsA/Af2j52SLUsSpUoz_Dr85HQ2sM8Rg8vCOrcAZ4g1EGPdLaT2j-eOMUlPapT936h0wCuymCiJlxaRqXw/?guid=e4e963b7-8832-4857-9f9c-1270886d8f11&device_id=android-153a6f7ed2107cff&challenge_context=Q9y1BQHDCrnFhhkJ4WpXo4uylrle28QNz0ojXc7g86vXeneEKfmPE9MtiF6q_OwhCaGoIdKBO3ARhWTbVMAiEgdb3ADhun9qg1pPhT1-P2_HTbDVAgdl45U1VVxTRjpoTsjVbibM_4d8VtQ27kWjAmuGgufQ6Y6v9qVyQ9M5p-5ErvXg-oygmfHwquSX9Hxp7XWIJU59XEw-L7w7cm0TiwJt8WkPkFRanArxbpLO5BWZblKzABL_8YN2aIphBWpaH403Sy0gGo07CuB1Gy55TKdDEeDp3axsRDVDroiiSouxJK7RXpCPvjnmfs2mWBkxEN6ZBUmxpjw2n4QxjkHZcdtr8i5OWeeLtfUXFUs1zislj_GvFmjaQLvZT4-mLFZ8pcZYd-3blg8XIY85Iq7LF4U9_zdnJy2sVgSQd4zEF7gbGhrNkwD3Hy3jzVPfhhxyrrP7b9k_0DXIBYIDazxz2v2qPevmlSNlUCZEWYIHtFw7u-A8ZklcLpusv0JIKk_2NfclERDcY9tg3IwDb8Ib98N7o6qZ3ZSzeKuYu3L3aKVymaYl4touuT65_MhKCHQDlY-JbpRZtMZSqQZ8vXIMuGc473MugQOrEopD3nyjPLHFMfK0LmP2nAyiingwKm_2pyBUd4Eet4-dXV4_gD-YCsyoxhejPh7Xu8HEvM700pM20GW5w7HmGs41YQ7NfWO-olKxdcoSXCfnl1TTd1LW6o8YvrBfuIu-c_rbonrb4MIEBYBWA6xHa2g-27ODgPgOHvjwlORL9z5Ndb8yULUJb8avgC-TPHlFBTkWeJpuo8pxFHBbA3GadE7mbg (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:23:02,950  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "anime_community447" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQEm2fzDanSQyWedUF1F2GpJ2EM8pmqPakljMXK2JiVj4OQWbpwmWGKyySjAgBQdVm7NDh_s8E0nBaSpeemY7qa2qZiPQ_vlepoLrUKMpfvfqoBsGZeReKvLfGClasvIwy2xMwJigddTxKSSWbKlc2hlLsKNXH-GfoQ4jlBFoaoEh0sYtrB5gf2SdsBwJG1zjPAvfeZ1g9QWs93uXSCTgfamiaUzfAPbG6L815qsiarU1Fa-88fCShoCrt1wo9UjPT_XFXev5WSd--exRt5TFDBKg9h1glK-fUA0POWI_b9SIGzmo2x925xCDnYaRkWFaxntKXbPopi9DWYEmAZsQwT3eWgmyN_v4H35SCnKI4HMG4DzDS_4-oD5IfoQ3hTlI7uXvX79FWyuCiGTEPVFrkg6MupNQ6wx4uiLPmAXilTFp4RWCqAstB1CXESub_OwfniRjs33FpVwl9Jg3mL4CZ_hW67smqcIebSdmdmmSW5hU6lNnH_1G9ZBUAlko34LDsbna05VYoGx_L4rPH9ge8c1fWzmmsuA57oU5mcdyJX4QSsYGAuXVcNLQb4YRBpSKPO_znuNBVqZebynuX3uDPC-kZSPkKdeK0B0gkUohspghRogTEBmmtqMXjn8UtEEQxD2E58G3az0U11agDmtcrJ6CaUxR70wsG25j85G_8mf7hA_pQbSVxFYVfVRM0frbENdXGU5cbJn0J7Musb9wUr1mpNoGglNMYSFAtEIQd-jQK7p7E6Kkl1f31dnEfy1-ZScKs0KzWTeojIEG9nssIwzMPe7Qcta2UiCe-Y4eTd7wkfHx_k9fSw-qCVs4_hCjb7gx4HpQGqm_fJXYNeRwb43WGnCJzlKpcNCdRkT-PXrwteUc4rVSH17ZLxl8jrFJwsY5WaFfjXbRfgWC5TiRFk3rK-0LJOTib1gW77KteCmCvj-iQAT4JfiLTQakBD9ffUjye0FpLiV4noMUZw9GXInlgF9NJ-0utR5Arpm-eb5w_LzBYWWv5mjmG_jFBAAssyJv3NZssBX0zive_vva3vMCJddqeglhxXXOEMXnEDMJqCWP2pdHxyGEGcFpMJbEVUpIwWHFaNC6--tiMo6IxsUibBfQpucFbXyv2LfXEe5MXCqPewgxWXFMOId2U65CDKD5WUJlnEn8_hl7CgP8N1ZdDDV', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwGD1Y8iISwSMGbSKPcG_6euFibnw_se40cDbzSRSIYi0xWxycCLcuvWT2NG_nixSoMUidKxKScyxg', 'status': 'ok'}
+2026-06-05 00:23:02,960  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/w3HHNfyv3yU  |  Instagram: N/A
+2026-06-05 00:23:02,960  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:23:02,960  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 00:23:25,811  [INFO]  ============================================================
+2026-06-05 00:23:25,811  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 00:23:25,811  [INFO]    Posting 3 video(s) per day
+2026-06-05 00:23:25,811  [INFO]    Niches: facts
+2026-06-05 00:23:25,811  [INFO]  ============================================================
+2026-06-05 00:23:25,812  [INFO]  ⏰ Scheduled post #1 at 10:13
+2026-06-05 00:23:25,812  [INFO]  ⏰ Scheduled post #2 at 14:53
+2026-06-05 00:23:25,812  [INFO]  ⏰ Scheduled post #3 at 19:15
+2026-06-05 00:23:25,812  [INFO]  --now flag detected, posting immediately…
+2026-06-05 00:23:25,812  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:23:25,813  [INFO]  🚀 Starting pipeline…
+2026-06-05 00:23:27,323  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 00:23:27,324  [INFO]  📌 Topic: What happens to your your heart after beating 3 billion times in your life  |  Niche: tech
+2026-06-05 00:23:27,942  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:23:27,953  [INFO]  ✅ Script written (43 words)
+2026-06-05 00:23:27,953  [INFO]  📝 Script:
+This fact made me stop and stare.
+ 
+It happens at 80 years old.
+Your heart is worn out.
+
+Scientists say 3 billion beats kill.
+40% of heart cells are dead.
+
+This changes your life forever.
+You must tak…
+2026-06-05 00:23:27,953  [INFO]  🎬 Building video: What happens to your your heart after beating 3 billion times in your life
+2026-06-05 00:23:29,931  [INFO]  🎤 Audio generated
+2026-06-05 00:24:18,968  [INFO]  ✅ Video saved → output\20260605_002327_What happens to your your heart after be.mp4
+2026-06-05 00:24:20,022  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:24:20,183  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 00:24:20,186  [INFO]  📤 Uploading to YouTube: What Happens To Your Your Heart After Beating 3 Billion Times In Your Life #Shorts
+2026-06-05 00:24:24,006  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/qXxPWkI-XuU
+2026-06-05 00:24:41,414  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 00:24:42,968  [INFO]  anime_community447 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:24:45,847  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 00:24:49,044  [INFO]  anime_community447 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:24:50,046  [INFO]  https://i.instagram.com/api/v1/challenge/AXLLLH7x_vAqzMWT5ZzD_O-9sMeEZ3IbcG-6QbxBs_-6Zr0lGzpXlZK3Ic-g5lcne7LQ-T4/Af3GnzyCniwhqDbCecGeY6zlMaCwLs0WhaoUfrE5HOk6P2R5BHgunMc-w7stwiDK0mG_6SX6EPaUeA/
+2026-06-05 00:24:50,531  [INFO]  anime_community447 [200] GET https://i.instagram.com/api/v1/challenge/AXLLLH7x_vAqzMWT5ZzD_O-9sMeEZ3IbcG-6QbxBs_-6Zr0lGzpXlZK3Ic-g5lcne7LQ-T4/Af3GnzyCniwhqDbCecGeY6zlMaCwLs0WhaoUfrE5HOk6P2R5BHgunMc-w7stwiDK0mG_6SX6EPaUeA/?guid=6d414760-91fe-4359-be6c-40919209de77&device_id=android-888a1bf5211fbf8a&challenge_context=Q9y1BQFlTfWI5BFokaeLa764hOhMx-a0IA_9xXDlUoHBeUtKLEu7M-sEC05JV3ntMK23-OXotEt-YbxH-IDwhrYtNfCY3HX9VrcO_W2QeDQXPIDKtxL8T-y7rGuXlks6D_AHsjWhdmTGy1prp8bSoAqZfT1vZRbSrJ4eldZa5eAeeLihQVi15CPDu9-TkBoLxm0sLFC3g91O_rL02JSk8agNFTtH3SkuLT1OkCX5W8PdAy7L07klIXZLx2SzNexy8dO4jH40qtOfP0wdYMytp3t3ZLA9lbn8QnheT_Y1RlpZMcoF7FYYRHMG65pzlCfK1GimLVvQIuayhGfUCafSfStdvo6IG6ZtbVXByy0__FM22JLa3ulM2ZORlJ97TibaLt1dnnx2eJGuBUVNivI_ioEHwrbDOJvWFTW5_MTxWdRNlvYO2yKXutHcAdWoobiDaCAofA3shH7KWdZOkUSuNKUA6AWEvynJYHrJArBYeAIRyNL1IrX1987QuXIJ0ZpA4BU4kQEzvtxDTbFYShmmpuUUyUWo9fg8NG3eWeL3ZM68ldjoh6NM9CjBA_sCPvIV8QJYVg9d046kkwq7HVpP_Y_mBJ1djTTzkCVViH3wBKaZb8h51ZLLTxCrC1R1UtpRMQ46I8i7skuUcUXhIL4gVqn3vGpLJ1PEU8qKfrvyDiWAkX7wLvGQlTdUtEaN9b_xoewWd9YrhswCEp77Uoa8gz9-94133Ptfps6JGuaKTAmXqDeAOC-WH3bwJJCjQpCJHK57Osa1zkMmAqt53HN3V7LYdRs6fM1YH5dHVqicxYDr5IKb2DM2TG02FQ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:24:50,532  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "anime_community447" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQEqjwkI_5Texmxrz2VL8cC5zHUmbc0Gb3PSEEfUJMIYvTJHTngAgL9jOogpzJp3ncHV-_g8D3PuIoUzSceavJ7BTlYYNU0hcSe5HO8TTr44IDXoCcO4HzCweM5UfLuTCnpx47NqKUB4hTTXXDfJhzrJiZK0mCp62ufu7GpqFT1KCZiA_J3Ola_9pEdcdYMSc06e-M2PBOq0xptdRnjEZ3lVezPIGUjfmACP3idOZliuRX6_3UA7g9CM4Qboag5seR7w9HzTYQkcf95pp24T9q57hIE1ia4OsXd-KUSfG3urFDGC6HxrwjdRCRBT2zVPd2M9c5loO5bTZcnmJ6vYzmSXJb8DqKLayuHUIMbm9TUtTO2wTCQfPwefGEm2XPcFySSlf3GyJa8ITcPWfBZDl135uRDA0onCYx_UczIkxQDBYRCnR6Cl88I6rTdPxooSIq3LJ96xtg9MzWwbtJq92xnfRY8T93iLC7-mb82__88jQ4JbCzKUmFrz2BUut45MrWw8N82pmXGVs2-wNCTiJgsj1e181gQBWaEGzE8caUkHrQx3PL22E6TBAya5gye7hd7nj-ATNrKekKLa-Jkd7Z-IlrXonfrBtHYTDBCLWEE4fwRrwP4avVd7N4VIbzRnc5ICbFLZRLWzE1p8y07URQLaK4pVfe89kd5TRA2OLADFSMw6eHAf5VZQWZznvlvCCLS6YRgRA-KDMSBi3uJMjxIwoq94zJ8-FXyWL6tOFVgLwIf_V3d1NtZRuHIqgMxpCjo3qyCTlJzMLwvfw1Q0t-JrZOZzdtKyPTrgjyb3nPwTYbG04KxX-g_4jgb61UqSibrPMjbRVjRG8iH-qoW5wFIoZIDah4dMWa9lWNxzd83QVOwl4cnLaE2M1NvFouYFIrdxViygVvoqIPW8am0WFT1EOo0TG5rFXR1vLzcuooA-DwjnMYkmGijp11TQKkAezoNfue9hI70gbia_b_-9AQpOS0Qc0FmN-ns-w3hsFfhijTvGneIC3u3VKO870WzSTGHpFXtiC9VzzIp4oXKd7C3QHF3Yj0c-jArTC4Qsh4zhld79T9-HRc5igui9REnMbjaY9GiiSORKeF0bNLsbI3qnxRguWkuyKGiD5MLc43fLH9Om6SQBipT872dip7urjKKkky426MkPKfzTdzYiqgogN2ft', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwHspUUnLTZRhkxroIheHO24MM8LPHaSKVCEg22w7p7Wz1CrImCRBaCg-eVNc-XeghfhOOvKBfeAlg', 'status': 'ok'}
+2026-06-05 00:24:50,547  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/qXxPWkI-XuU  |  Instagram: N/A
+2026-06-05 00:24:50,547  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:24:50,547  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 00:25:59,398  [INFO]  ============================================================
+2026-06-05 00:25:59,398  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 00:25:59,398  [INFO]    Posting 3 video(s) per day
+2026-06-05 00:25:59,399  [INFO]    Niches: facts
+2026-06-05 00:25:59,399  [INFO]  ============================================================
+2026-06-05 00:25:59,399  [INFO]  ⏰ Scheduled post #1 at 09:46
+2026-06-05 00:25:59,399  [INFO]  ⏰ Scheduled post #2 at 15:03
+2026-06-05 00:25:59,399  [INFO]  ⏰ Scheduled post #3 at 18:59
+2026-06-05 00:25:59,400  [INFO]  --now flag detected, posting immediately…
+2026-06-05 00:25:59,400  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:25:59,400  [INFO]  🚀 Starting pipeline…
+2026-06-05 00:26:01,228  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 00:26:01,229  [INFO]  📌 Topic: This your DNA trick changed everything for me  |  Niche: science
+2026-06-05 00:26:02,041  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:26:02,050  [INFO]  ✅ Script written (62 words)
+2026-06-05 00:26:02,050  [INFO]  📝 Script:
+This is the most shocking fact I've ever found.
+ 
+Scientists say 90% of DNA is useless.
+ 
+4% controls our traits, but 6% is unknown, hidden.
+ 
+Experts found 23 genes hold our destiny keys.
+ 
+5 genes c…
+2026-06-05 00:26:02,050  [INFO]  🎬 Building video: This your DNA trick changed everything for me
+2026-06-05 00:26:04,613  [INFO]  🎤 Audio generated
+2026-06-05 00:27:37,224  [INFO]  ✅ Video saved → output\20260605_002602_This your DNA trick changed everything f.mp4
+2026-06-05 00:27:37,992  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 00:27:38,162  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 00:27:38,165  [INFO]  📤 Uploading to YouTube: This Your Dna Trick Changed Everything For Me #Shorts
+2026-06-05 00:27:42,465  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/uhcysWQS7JM
+2026-06-05 00:27:57,051  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 00:27:58,358  [INFO]  anime_community447 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:28:02,635  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 00:28:06,069  [INFO]  anime_community447 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:28:07,070  [INFO]  https://i.instagram.com/api/v1/challenge/AXKJU9vGnL9Pt8mEECtIilUe51CoZqcjyugtD0hCysT3tvHWnMBJXi0nJLpI4EzZUPMgdF8/Af3IdxB60Ww8xWrtajX08SaFGKLz-mRmysa0MqSOBZfqIfcimok1Zc6_IXLURoDnvunGCEIJXcXUSg/
+2026-06-05 00:28:07,452  [INFO]  anime_community447 [200] GET https://i.instagram.com/api/v1/challenge/AXKJU9vGnL9Pt8mEECtIilUe51CoZqcjyugtD0hCysT3tvHWnMBJXi0nJLpI4EzZUPMgdF8/Af3IdxB60Ww8xWrtajX08SaFGKLz-mRmysa0MqSOBZfqIfcimok1Zc6_IXLURoDnvunGCEIJXcXUSg/?guid=0033529a-f296-4e65-a744-1834e976e6cd&device_id=android-0bf02916523ae97b&challenge_context=Q9y1BQHcSnE51J8YJFEPgWlYX6J0-BT5wCAyNyexcbs_BC0WMlczjc4FLIAQkPBVFiHU_z-oWw4ZSjt_FIF9JkQ1F3ezqsyDdYP9qRit7LDFMKkXVPtgUZxjXIDUI_NWMwsJMJ_AZD3xa6-l_nLE4HTSaVfxXL_GR1y8E7ykQuRJ1t9LSP_2dXLJlEPBu-EH4fycms4-WJzHdVfqmmyTYQWBRKD98hfjy1A6UHwyQ6JoRD9_NJAFfNO3wzYfiCluGs0D2hW1HydEybYwN8hhUz7fKvbB33NrGUZOO9I3gpx3yhreCZm-sulQRSZ09HnBxq7DcY1POCvDuIZwFvUHAPLhCaYlth6GgIDIYRUwhrFOqk0euk4mhKKSj-PN0RnODAZBhfXGyqeKSGPnujqnvqgi4gCNpSPB8_RxWFV4KUCA1KwVmBmJcmeETVg_wIxcbZ87_R69tFw1i9wGWYkTA4Uab485dWjbF7i5oC_2lya6IVxlg26ij5khp8loQdqXtnHwWEvhN94dRXd-7NYtFSp3HIxetqMt9jJA7QDz3KSLD7qhtmcrW4z4xI4KAEAptZ3zHcPI_vC-06FugOxIWoVbIBVmyh-KcpNwPWHfSj0Ud8BeUiQVLS_uO0wvGLuPkilFRhlT-syoOGAXAO9JEraxFAjd1ZpStZMkUyE6gYGIiNbipCNjEbfkrKIawKe6JInXKD6jXvN80ArV45RvAlTCT7zMWiRg2CBOz7DurQVeAKNTcfE_wGPdHttPyjQSzLDQZ85znKVKmtkEQpX3XtUhBkkvVveTO6k33bCAtoMcHgAwbRZ1mzLjzA (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 00:28:07,453  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "anime_community447" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQGtQXvX4NIu-Z2aGDSe9w-Cvp7CqsSZbO1TpAnhnfqK2W-yxGnK3DgRN9euHxNld8e_RlDGK_J3PFRizZnx7Oj2aBnPqR34lsd-edacAnWywcbpvCqNH5vGpro2BQWZlrmdoqnlepBo3pzSGdXV15YzN1DwHO5O_pEqtdHAEMSBJp5dcfxQdHiZNZKeeyALmTaF4aPFthe1MdlwuF2Ydp7VC5LN7w-Nz7Xyf3a2W6GSiYYcnUq2Glx4UVBvWIn6Oa8DN_OxOGjCP6E28e7q3c0YTBkB8jRqjLmbrNyIyrwOHEkKeEQT6IiE3kIDssTdoWiYKJIakFpmBV9xhH7_ZEMRas8CUqZ84fq02fmf_x0oT8FxrHKpjQMDnMh1Y5lp9v8SDppcKGxYHvBGZ_tyh8aEW3t7S97CeMRfoQdoA-WKMC1-7eQUUO8S7ff5ors1o4wZ2baleqbk1dDXMPXa4HaEPxgifDhr2-a6sTNSv7P4LAuhUbYJj_iv0iQ5McHkuLAyQNlgdcyPLS7-YP7TnJjyGDUmZtGgV7qRIZ19IDYRbJvv0iY6x49Wo2EoInHkfI5YholDjeB_mNhsJkdwWMwDPMs4p278VtQzMgT0bth4SN60SQkm2QQN0V3WGtqGLyjkri2IcMrSsctLZAeuZVkZHRsmE51EGqc84_HOeCnm6Sg3kOeYES5A0limbRXxvfAxQp7j8ZO9h0lTo2yVAT3q5l1xmmceOuG6_Vz32KeZYv1WwO9PN8YyB_alSilKccju1TItKZtWVzAKWw_Dp0PDMO-JuibesnJIpNGCHm3WP2YU6zCGr6RmPE5kZm8GvYduNO__LISMWnnJBRdt5V8uivO0tdu_EG9JbLD1FmPegZ8UUpN7A4BLNRLkJCQsQZ_F4GGXFm8pPnAptgO4e_UO_K2ZpfbDimli0dyvDqiUg6HquKBiO9R0kt3bL6LGTcOJfAbTkeIlweKWgS0-XHq07EjGpggzf2QrRj6acGCAljSHL5ajP7c7iSsAKtHeP6RSfHfNhYvxKhGir6A-vOraSzTjR13yIAwe1sBmqljBp3BKUJtXff5_ZALObvCP4hRPP5pnSCXRUf_hQlaXjFtMGlxgl_0kkPCp-sBkgiHmc6gChnH7HfQKERvQ1HR6Vu7zxW744yXruwBsGcs8bdg9Yf3G', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwHCGe92WS4egwjWRIdnnQT1OYXbEp3GA5scnwVyur1HghpBtBOlNZGwKVcgVQbO_joILIUwnMBsPg', 'status': 'ok'}
+2026-06-05 00:28:07,467  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/uhcysWQS7JM  |  Instagram: N/A
+2026-06-05 00:28:07,467  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 00:28:07,467  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 08:49:35,983  [INFO]  ============================================================
+2026-06-05 08:49:35,984  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 08:49:35,984  [INFO]    Posting 3 video(s) per day
+2026-06-05 08:49:35,984  [INFO]    Niches: facts
+2026-06-05 08:49:35,984  [INFO]  ============================================================
+2026-06-05 08:49:35,985  [INFO]  ⏰ Scheduled post #1 at 09:47
+2026-06-05 08:49:35,985  [INFO]  ⏰ Scheduled post #2 at 14:48
+2026-06-05 08:49:35,985  [INFO]  ⏰ Scheduled post #3 at 19:09
+2026-06-05 08:49:35,985  [INFO]  --now flag detected, posting immediately…
+2026-06-05 08:49:35,985  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 08:49:35,985  [INFO]  🚀 Starting pipeline…
+2026-06-05 08:49:38,820  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 08:49:38,821  [INFO]  📌 Topic: The the ocean secret nobody talks about  |  Niche: facts
+2026-06-05 08:49:39,557  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:49:39,565  [INFO]  ✅ Script written (43 words)
+2026-06-05 08:49:39,565  [INFO]  📝 Script:
+This is the most shocking ocean secret fact.
+ 
+It's 95% unexplored, 5% mapped.
+ 
+Scientists found 750 species hidden.
+ 
+Only 226,000 explored, 3 million left.
+ 
+75% of trash is plastic, 8 million tons…
+2026-06-05 08:49:39,566  [INFO]  🎬 Building animated video: The the ocean secret nobody talks about
+2026-06-05 08:49:41,724  [INFO]  🎤 Audio: 26.8s
+2026-06-05 09:13:32,017  [INFO]  ============================================================
+2026-06-05 09:13:32,017  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 09:13:32,017  [INFO]    Posting 3 video(s) per day
+2026-06-05 09:13:32,017  [INFO]    Niches: facts
+2026-06-05 09:13:32,018  [INFO]  ============================================================
+2026-06-05 09:13:32,018  [INFO]  ⏰ Scheduled post #1 at 10:03
+2026-06-05 09:13:32,018  [INFO]  ⏰ Scheduled post #2 at 14:52
+2026-06-05 09:13:32,019  [INFO]  ⏰ Scheduled post #3 at 19:13
+2026-06-05 09:13:32,019  [INFO]  --now flag detected, posting immediately…
+2026-06-05 09:13:32,019  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 09:13:32,019  [INFO]  🚀 Starting pipeline…
+2026-06-05 09:13:33,643  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 09:13:33,644  [INFO]  📌 Topic: Nobody tells you this about your heart  |  Niche: facts
+2026-06-05 09:13:34,553  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 09:13:34,562  [INFO]  ✅ Script written (67 words)
+2026-06-05 09:13:34,562  [INFO]  📝 Script:
+This Nobody tells you this about your heart fact made me stop and stare at the screen.
+
+Your heart beats 100k times daily, 3 billion times.
+It pumps 2,000 gallons of blood.
+
+Experts found 1 in 100 peo…
+2026-06-05 09:13:34,562  [INFO]  🎬 Building animated video: Nobody tells you this about your heart
+2026-06-05 09:13:37,720  [INFO]  🎤 Audio: 29.6s
+2026-06-05 09:20:41,709  [INFO]  ============================================================
+2026-06-05 09:20:41,710  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 09:20:41,710  [INFO]    Posting 3 video(s) per day
+2026-06-05 09:20:41,710  [INFO]    Niches: facts
+2026-06-05 09:20:41,710  [INFO]  ============================================================
+2026-06-05 09:20:41,710  [INFO]  ⏰ Scheduled post #1 at 10:02
+2026-06-05 09:20:41,711  [INFO]  ⏰ Scheduled post #2 at 15:14
+2026-06-05 09:20:41,711  [INFO]  ⏰ Scheduled post #3 at 19:15
+2026-06-05 09:20:41,711  [INFO]  --now flag detected, posting immediately…
+2026-06-05 09:20:41,711  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 09:20:41,711  [INFO]  🚀 Starting pipeline…
+2026-06-05 09:20:43,335  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 09:20:43,337  [INFO]  📌 Topic: Why you've been doing the human brain wrong your whole life  |  Niche: tech
+2026-06-05 09:20:44,256  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 09:20:44,264  [INFO]  ✅ Script written (58 words)
+2026-06-05 09:20:44,264  [INFO]  📝 Script:
+Nobody talks about this, but 
+You've been doing the human brain wrong your whole life will change how you see everything.
+
+90% of brain power is wasted, 
+Every 8 minutes you're distracted.
+
+Scientists…
+2026-06-05 09:20:44,264  [INFO]  🎬 Building animated video: Why you've been doing the human brain wrong your whole life
+2026-06-05 09:20:47,269  [INFO]  🎤 Audio: 29.6s
+2026-06-05 09:20:48,124  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-05 09:21:09,576  [INFO]  ✅ Downloaded: assets/videos\35010179.mp4
+2026-06-05 09:21:09,578  [INFO]  🎥 Scene 1 bg: 'brain neuron mind'
+2026-06-05 09:21:09,769  [WARNING]  Scene 1 composite failed: module 'PIL.Image' has no attribute 'ANTIALIAS', using gradient fallback for this scene
+2026-06-05 09:22:16,813  [INFO]  ============================================================
+2026-06-05 09:22:16,813  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 09:22:16,813  [INFO]    Posting 3 video(s) per day
+2026-06-05 09:22:16,813  [INFO]    Niches: facts
+2026-06-05 09:22:16,813  [INFO]  ============================================================
+2026-06-05 09:22:16,814  [INFO]  ⏰ Scheduled post #1 at 09:48
+2026-06-05 09:22:16,814  [INFO]  ⏰ Scheduled post #2 at 14:53
+2026-06-05 09:22:16,814  [INFO]  ⏰ Scheduled post #3 at 19:13
+2026-06-05 09:22:16,814  [INFO]  --now flag detected, posting immediately…
+2026-06-05 09:22:16,814  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 09:22:16,814  [INFO]  🚀 Starting pipeline…
+2026-06-05 09:22:18,348  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 09:22:18,349  [INFO]  📌 Topic: What happens to your water after having a memory  |  Niche: tech
+2026-06-05 09:22:19,188  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 09:22:19,197  [INFO]  ✅ Script written (45 words)
+2026-06-05 09:22:19,197  [INFO]  📝 Script:
+This fact made me stop and stare.
+ 
+Scientists found 98% of water changes.
+ 
+New research reveals 75% of brain cells.
+ 
+Water molecules hold 90% of memories.
+ 
+This changes 100% of what we know.
+ 
+Our…
+2026-06-05 09:22:19,197  [INFO]  🎬 Building animated video: What happens to your water after having a memory
+2026-06-05 09:22:21,131  [INFO]  🎤 Audio: 23.9s
+2026-06-05 09:22:22,212  [INFO]  ⬇️  Downloading Pexels video: made stop stare
+2026-06-05 09:22:32,558  [INFO]  ✅ Downloaded: assets/videos\30488739.mp4
+2026-06-05 09:22:32,559  [INFO]  🎥 Scene 1 bg: 'made stop stare'
+2026-06-05 09:22:35,357  [INFO]  ⬇️  Downloading Pexels video: water flow liquid
+2026-06-05 09:22:47,970  [INFO]  ✅ Downloaded: assets/videos\6180383.mp4
+2026-06-05 09:22:47,972  [INFO]  🎥 Scene 2 bg: 'water flow liquid'
+2026-06-05 09:22:51,305  [INFO]  📦 Using cached video: assets/videos\35010179.mp4
+2026-06-05 09:22:51,306  [INFO]  🎥 Scene 3 bg: 'brain neuron mind'
+2026-06-05 09:22:54,565  [INFO]  ⬇️  Downloading Pexels video: water flow liquid
+2026-06-05 09:25:17,563  [INFO]  ✅ Downloaded: assets/videos\26793259.mp4
+2026-06-05 09:25:17,565  [INFO]  🎥 Scene 4 bg: 'water flow liquid'
+2026-06-05 09:25:21,934  [INFO]  ⬇️  Downloading Pexels video: changes 100% know
+2026-06-05 09:25:29,092  [INFO]  ✅ Downloaded: assets/videos\36092426.mp4
+2026-06-05 09:25:29,093  [INFO]  🎥 Scene 5 bg: 'changes 100% know'
+2026-06-05 09:25:32,007  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-05 09:25:38,679  [INFO]  ✅ Downloaded: assets/videos\7213091.mp4
+2026-06-05 09:25:38,682  [INFO]  🎥 Scene 6 bg: 'brain neuron mind'
+2026-06-05 09:25:42,402  [INFO]  ⬇️  Downloading Pexels video: comment knew this
+2026-06-05 09:25:51,279  [INFO]  ✅ Downloaded: assets/videos\6520663.mp4
+2026-06-05 09:25:51,292  [INFO]  🎥 Scene 7 bg: 'comment knew this'
+2026-06-05 09:25:54,271  [INFO]  🎞️  Concatenating scenes…
+2026-06-05 09:25:55,431  [INFO]  💾 Rendering final video…
+2026-06-05 09:31:22,781  [INFO]  ✅ Done → output\20260605_092219_What happens to your water after having .mp4
+2026-06-05 09:31:23,754  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 09:31:25,906  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 09:31:25,939  [INFO]  📤 Uploading to YouTube: What Happens To Your Water After Having A Memory #Shorts
+2026-06-05 09:31:44,324  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/hVQi4xBAFuw
+2026-06-05 09:32:00,975  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 09:32:01,919  [INFO]  anime_community447 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 09:32:06,585  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 09:32:12,377  [INFO]  anime_community447 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 09:32:13,378  [INFO]  https://i.instagram.com/api/v1/challenge/AXLUFPQXpGN-M61170x7Tq7ND934DmTij4RxSbnEA1ttonqZykjgRp3JoK2qA-2Mbr5Zs-Q/Af0llnYwWvP5R3Egf_wtrSrwpEI_mD-LxqDa8jZpb8yGebIa23AHUQhEMxLq6aTXEseu0JMoYz_V9A/
+2026-06-05 09:32:13,925  [INFO]  anime_community447 [200] GET https://i.instagram.com/api/v1/challenge/AXLUFPQXpGN-M61170x7Tq7ND934DmTij4RxSbnEA1ttonqZykjgRp3JoK2qA-2Mbr5Zs-Q/Af0llnYwWvP5R3Egf_wtrSrwpEI_mD-LxqDa8jZpb8yGebIa23AHUQhEMxLq6aTXEseu0JMoYz_V9A/?guid=64a7ee11-2ee4-44e8-b7a6-8235d00c159d&device_id=android-dccc0ba624b5f61f&challenge_context=Q9y1BQFbpBNoncYgCXtezpTb3V3B29cxNqPzeCCHRtWxD5mksXsFlBWx2jW6AGGGOzyQKnQ1ajnSeSKhIf0aJdJmVccWRGbu3LdfMG95CfZHlozh6dsIRij-ag7CfHCTW6GRG5XMq4Bmjk0WdmB9Mwll9YXOMrhQjwaDx07wWe_dmEw4jQye5sJ7R7OrpOlUyvmCWxASXovydrJdc3rRHv5ZhloZ_xhneBkjJMyq5OLSVYoEuvV3GgujFtpZuj0rCn0HjYI2n_XhK50uJtZ3-9Yd6TqN36em3TVFL5_gUr6NFz-NTbyTP8pCjKjqezbuzNYAKDq94NYJ0LXyDfzEjpBBR8WYaNj9rDOqBa82rq5Ut1qkiQUoyr93hjujfIbADhNEJbJKtGtyZVNbQ3CP4Pz6o1mobfsDjwVxnWe47jFTmE63tdIZtfhyuBeMrmZfWgz5hhWJkK7LAEcQdROi4atXjMf-ZJOYiMoBTPTJ-ij88hYiMjj-zfGFeKDd5bWddz3uT-o7hVkarpEnQ2mCaA-Dre-kkwGiVkW9_Nx9mszkyK9113p1Yo7i4E55BOP2Is7NULRcq5Cr1DZLsliYXTME6RBaOxu7jqij3J91E3ad63aW0BTejnl2IVEuMDI9viQLOoXZdDjqY07_kCxt66UyT_gwpf1aGgUz7CHZaRo_QkRvCi90GoNAtK-PNrpe8WKL2Qkm8j_F4onHCw_eOx2T1nq9NHI9bJLSSz3lqjEwMBagB0RHsEObZkVeUKhDDW9eE0bZOZE8hJbv7W1cBrxsxcX8YqbaTWAReI2pjly-CyOrWumNBotLOw (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 09:32:13,926  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "anime_community447" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQH4dgl1hTmEp5enoHwDCkjjGCR5aAOuiTUGc3c2cSwdsC1LXkyLV-eFIqJ5kfSy-U0Ny75LF9tYueHq7y3DarRtSrk_6GDMFpvTmd2s2olfUKr-37ZctAsV50rUY90dOl9TOLB-x9UMCDYe3x7dUaZu2-ynad6cgy6Qx3iXEB4n6OWXLaI8cQQbqs8sPnEMck1hKNRUj3eincacnhXpUpy758NIDCXJfxYrO70q0k78cjbwVq0m21Hfs9SqVQ7y1bHLDZXLS43oaLSLGcq8Y1Vg4HddCVswDhXvvxuzjqDYaS1saRPfwFsA4_nTdRnFc8PCfYLOPTztS0vR1nmszsAvZTiZYsX0ph9NeWVZlKuXrqwAKoO4uK2Vo3jWkqlXGxctbvN9RvEjcnkbGFO0_QavlEdvZ7Gh2-8sOs9nmGUZuJhdsVJ9CAi5Pw876F-gv6C2ztUBwPT-cInoJthTW5p1NEQeH42Q7gleR99Oz1cf6IX_OsAg_aUnZ6a7_XIKHn-uTY37Hp5LTHkgEksPKl7td-TET117ptoME5CAEY2ZAecU5GLBewL38qHjks94LP6HGBuTRMjxjn5tKUm3DVZ2fz-Ep_bcTvVXc494w10IdBLWFKWdPX0gtC41AiI_fWHpiFNEgeFZLpgKkOsesKj5spHQY9ETI3JbT0dAGFWf3AuyeFi_6hoTQkZu6w_qcPfYmMO7DiMHeBhCJpK5MJgoSQH2S1YQI62KomOBNPZbO96b4pUR7eXn-9NIgwndNBrnGt2z3EJgB8kqmcC76zZbiMmLvau7QxSn8lKjG5C2s4JzBQPM8L98Kaym5DC3tQ7dP-ZNKi1DhY_wvZYnc_nWl47uNWbPgX3agLpjxfO-f5kglrqmAfXnXloy33204qoyacMCKGAK25EmE-iboQd_RluJIM2JJmGziTdwPDTUE8EJUnXJao7NCqL6jCrNfLyaVitLMA8aOHpq5BCsGKrILfOqv8L3sf8s7sfurOQrp08DTeTIAtzZwYoLZRGwbbCTlHJ65JFVl9kyJwSN8tFE2nU_WjkrrTVJhMl_dvTewdKDvEPGBg_VvUbLqSe-apMTFtELFb2t0COgL1EuOiwfedkXGhCu8R7sH5hmfHVvruwApFwEOlRUtJxzVl4c6XSP3gEGEfNVIeWGfivrprgJynbu', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwEFIag1wlEdvCutIhLj7w4TGMEOJ2BQLtsPdJpNbn5tKUXDY15V7fz_rTMY_wUYxeglnyaMD5LuqA', 'status': 'ok'}
+2026-06-05 09:32:13,940  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/hVQi4xBAFuw  |  Instagram: N/A
+2026-06-05 09:32:13,940  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 09:32:13,941  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 09:49:43,249  [INFO]  ============================================================
+2026-06-05 09:49:43,249  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 09:49:43,249  [INFO]    Posting 5 video(s) per day
+2026-06-05 09:49:43,249  [INFO]    Niches: relatable, psychology, relationships, mystery
+2026-06-05 09:49:43,249  [INFO]  ============================================================
+2026-06-05 09:49:43,250  [INFO]  ⏰ Scheduled post #1 at 09:15
+2026-06-05 09:49:43,250  [INFO]  ⏰ Scheduled post #2 at 12:03
+2026-06-05 09:49:43,250  [INFO]  ⏰ Scheduled post #3 at 14:54
+2026-06-05 09:49:43,251  [INFO]  ⏰ Scheduled post #4 at 16:50
+2026-06-05 09:49:43,251  [INFO]  ⏰ Scheduled post #5 at 19:58
+2026-06-05 09:49:43,251  [INFO]  --now flag detected, posting immediately…
+2026-06-05 09:49:43,251  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 09:49:43,251  [INFO]  🚀 Starting pipeline…
+2026-06-05 09:49:44,896  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 09:49:44,898  [INFO]  📌 Topic: Scientists just discovered this about why people stay  |  Niche: relatable
+2026-06-05 09:49:45,644  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 09:49:45,653  [INFO]  ✅ Script written (67 words)
+2026-06-05 09:49:45,653  [INFO]  📝 Script:
+Most people misunderstand Scientists just discovered this about why people stay completely.
+
+You feel trapped, stuck in a cycle.
+It's not love, it's 27% fear.
+
+Scientists found people stay due to 4 ma…
+2026-06-05 09:49:45,654  [INFO]  🎬 Building animated video: Scientists just discovered this about why people stay
+2026-06-05 09:49:50,084  [INFO]  🎤 Audio: 29.7s
+2026-06-05 09:49:50,811  [INFO]  ⬇️  Downloading Pexels video: sunrise sunset golden
+2026-06-05 09:50:23,633  [INFO]  ✅ Downloaded: assets/videos\27807783.mp4
+2026-06-05 09:50:23,635  [INFO]  🎥 Scene 1 bg: 'sunrise sunset golden'
+2026-06-05 09:50:23,797  [WARNING]  Scene 1 composite failed: resize() got an unexpected keyword argument 'apply_to', using gradient fallback for this scene
+2026-06-05 14:56:08,892  [INFO]  ============================================================
+2026-06-05 14:56:08,892  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 14:56:08,892  [INFO]    Posting 5 video(s) per day
+2026-06-05 14:56:08,892  [INFO]    Niches: relatable, psychology, relationships, mystery
+2026-06-05 14:56:08,893  [INFO]  ============================================================
+2026-06-05 14:56:08,893  [INFO]  ⏰ Scheduled post #1 at 09:03
+2026-06-05 14:56:08,893  [INFO]  ⏰ Scheduled post #2 at 12:08
+2026-06-05 14:56:08,893  [INFO]  ⏰ Scheduled post #3 at 14:50
+2026-06-05 14:56:08,893  [INFO]  ⏰ Scheduled post #4 at 16:56
+2026-06-05 14:56:08,893  [INFO]  ⏰ Scheduled post #5 at 19:53
+2026-06-05 14:56:08,893  [INFO]  --now flag detected, posting immediately…
+2026-06-05 14:56:08,893  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 14:56:08,894  [INFO]  🚀 Starting pipeline…
+2026-06-05 14:56:10,556  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 14:56:10,557  [INFO]  📌 Topic: why people cheat fact that will change how you see everything  |  Niche: relationships
+2026-06-05 14:56:11,410  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 14:56:11,418  [INFO]  ✅ Script written (57 words)
+2026-06-05 14:56:11,419  [INFO]  📝 Script:
+Here's what they hide from you about why people cheat fact that will change how you see everything.
+
+They say it's love, but it's not. 
+They crave control, not passion.
+
+70% cheat due to low self-este…
+2026-06-05 14:56:11,419  [INFO]  🎬 Building animated video: why people cheat fact that will change how you see everything
+2026-06-05 14:56:13,605  [INFO]  🎤 Audio: 25.1s
+2026-06-05 14:56:14,556  [INFO]  ⬇️  Downloading Pexels video: here's hide people
+2026-06-05 14:57:14,650  [INFO]  ✅ Downloaded: assets/videos\28464396.mp4
+2026-06-05 14:57:14,652  [INFO]  🎥 Scene 1 bg: 'here's hide people'
+2026-06-05 14:57:23,284  [INFO]  ⬇️  Downloading Pexels video: it's love it's
+2026-06-05 14:57:33,808  [INFO]  ✅ Downloaded: assets/videos\29855187.mp4
+2026-06-05 14:57:33,810  [INFO]  🎥 Scene 2 bg: 'it's love it's'
+2026-06-05 14:57:38,377  [INFO]  ⬇️  Downloading Pexels video: cheat self-esteem fill
+2026-06-05 14:57:52,811  [INFO]  ✅ Downloaded: assets/videos\35782217.mp4
+2026-06-05 14:57:52,813  [INFO]  🎥 Scene 3 bg: 'cheat self-esteem fill'
+2026-06-05 14:57:57,620  [INFO]  ⬇️  Downloading Pexels video: you're cheated it's
+2026-06-05 14:59:08,456  [INFO]  ✅ Downloaded: assets/videos\7181724.mp4
+2026-06-05 14:59:08,457  [INFO]  🎥 Scene 4 bg: 'you're cheated it's'
+2026-06-05 14:59:15,191  [INFO]  ⬇️  Downloading Pexels video: follow different
+2026-06-05 14:59:38,290  [INFO]  ✅ Downloaded: assets/videos\34849808.mp4
+2026-06-05 14:59:38,306  [INFO]  🎥 Scene 5 bg: 'follow different'
+2026-06-05 14:59:40,801  [INFO]  🎞️  Concatenating scenes…
+2026-06-05 14:59:41,669  [INFO]  💾 Rendering final video…
+2026-06-05 15:05:59,035  [INFO]  ✅ Done → output\20260605_145611_why people cheat fact that will change h.mp4
+2026-06-05 15:06:00,038  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 15:06:02,087  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 15:06:02,092  [INFO]  📤 Uploading to YouTube: Why People Cheat Fact That Will Change How You See Everything #Shorts
+2026-06-05 15:06:36,975  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/LNaq6NGr0rw
+2026-06-05 15:06:55,346  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 15:06:56,254  [INFO]  anime_community447 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 15:06:59,285  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 15:07:05,469  [INFO]  anime_community447 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 15:07:06,470  [INFO]  https://i.instagram.com/api/v1/challenge/AXKuNi2PHTXFGswI9A3PoAa5QhLDL4zQiAa3xGKCyXx6MPSlu3ylRwIon33SPox4jhqheYU/Af2nqIkEI-bHfb_Oq0M63s5OvRyYRU-9v8kZhMDUmWi9Rk4eBBk-59Aa8yN9b6oifHApn3ykOLUEBA/
+2026-06-05 15:07:06,908  [INFO]  anime_community447 [200] GET https://i.instagram.com/api/v1/challenge/AXKuNi2PHTXFGswI9A3PoAa5QhLDL4zQiAa3xGKCyXx6MPSlu3ylRwIon33SPox4jhqheYU/Af2nqIkEI-bHfb_Oq0M63s5OvRyYRU-9v8kZhMDUmWi9Rk4eBBk-59Aa8yN9b6oifHApn3ykOLUEBA/?guid=9edc0a20-69d1-4672-8ade-9ed57f321dea&device_id=android-4128e6f3fe652860&challenge_context=Q9y1BQF0SFqsCs1WB1_BNrXKJGkJqATm9ZetiFfwbECjwV7tIRcUJB4dQcn-v4qpTk0e0NSZG6l-yRtyCIX1XSb1bn8ZYeWiFhhvbQ37r97WogP5qMAGyZQEoAxGn4Ir7KHtcZENhRS6ugEfLBchgUJ8KD0m0FP2c4LGVgjG3nrFx6SX0ePrhU9peDHlleNH9wmuIhTa-Je-NIyA2vawQeGUTe8YDrd_r7YDRDP-OWH_-ym72UthP3fhpgGOUhE-GJYdB025hAgh_XlWCm8rjLWcZVkmhmkjDwTcCLoX2KlXYStrPPjVgUsgnKyI3Gx3LbfwyKGBXp5pVJ1TUxA88iAhoebm-oSAwPBk2Yflw1fWWFCcVILX3PqhP5UGScAXX5Aom6dMZTOnd202aOyQbXjk1w8wGD_7ECwr0U7H-_P0wEoIFibbOUFiH_kLr19VhuRth9oNLS0UWtGjH3w4oBYU3LdzuZ9CmbsiiY6Hyo3nkkpsyn2_9Bu-Oy3_5J2Sl4V0KUL7HPv-LnjKj2HSTd8DSVn5m5IdSEPGjKeQs5jpPDley4iagYsVlVvm3IhO2FdhxFWIsv3iqIER_NKoX30sbi3svH7T1pS9guakdIehqeMdEm1D_VORBAvm-gFWZ9gkUZqayCujXcRwbz2VM2rChTf15NNtqQdBaSMF2KzUA12cqPjhr4bDKkAl8ltsQ2tk1DlgZKCB9aP07UA-ZweNWPhwMBpfuc0EEdF7mJFIRLw2QpRXl5GNGEVaOZmSA-3hzukWbkwF7l1ckTkpC7LQTYrli4BoKlp7ApqdytVGga7TncghIZDd2g (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 15:07:06,909  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "anime_community447" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQHFJhsCehMHcNYaxAF2z9WP0b19s20sLqKptgwADx_YuMqMJjwbs37H6GHLzhOq5OnKu7hXkbVPNz-6PByEGiorbAY2IJGMfDdlPQfqnJxDp-S2NlFWtRF__8tHuTvn7AWFG5NM6ogRKdTBtv8yzn6H3nMbYfBA7f5kbdAYt2cyoyeAdmHOkTB8HoDoDVo9PpNEOeSC0lSKsZBSrfade1yvFGsZ1trFA4YRX2JfpVEERL6lRbxn047ncnmMB7lg3QVK8Cxa16s8hL5hNJMmz_t9XGCK_WQlsyQAkVssJuL8-KOP86v1Bj812VEsbiEllGGIQFJMQZlOsi-F_XcXlMwwiV7bL0qtwQLUDtUNzVcxdbAw-ypzbXo635V2zHJSFVLIphE8V6ZuVzf1eKxehiX9yfZL6FydrKqFZ1SPOo1mE_qBvgRn_1RnvayhKX2ZHsSotI3-c2HS83UELKRZqMfoE6gp9UZ6DwWrPH81CXeQOVFJMGenwstK7Crn_RLPYB1VyaNa4SBeDxM6kzBQZ7T5uDVkXbylFQteF_DhlQqzcPfWNr8w4mvDgI4IvRVHRgYob01eC2YtN6GZREvRKRwP5s45kKABl7IXhuTe-b_Skaju0ww65JCI_fO3GC7yfRwSRj6oVtarkiKwo7WXK6VSu5tCjS_VZiq9pSydyC3lbsvzpwPBlNRLlnDz2bdhHmR9DK6LUQW4xkgiO-oi6xo6CglxZm5KsX11qawH9akpLxq282E5zpaLhsLGZhwGl3rZaGCpnXG0tGeuvX8MagTGPELm8jxJZQClRqbwr_VfccDo1bvTbuovds-D4XovQ7JDBXP7yvkwzrMRyfaM0POx80nWdMNnen9OHUzJjM0WdKolKhKyntdGC2FPXAdAsQeFQbODhKB00L7MYkhozeL1TM-7EOXc1_x8eiIvAs6mx2GBgkgJZ2d5eWZZ_LIIDt7huWq-b2YA0YlG4QYjrOb2P3eXKH2gr4YolbBh2SWLrXCiiyqJ9WLpG-Ug4dfzeI5EUqCaX2WfGqYsJnucNDZU_nNtaDMhIaeYo3vqeA1EUCcDBr7g8is1LnUiOzh41shp1AXHVUZWWNwGg8eSLAlipN2TPM_8jkzIBuFsDSChHs2vVD5ij1iN0W5XrHXme4ghn3QtymiV780_---iaP34UPf_', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwE9WVTEjc8-rJpuBn_WELmqc-hcmT6l3B_UK0ef9i19-zTXRTylf3W0XKMy3Mv8OXy7i_xgNT2Cfg', 'status': 'ok'}
+2026-06-05 15:07:06,942  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/LNaq6NGr0rw  |  Instagram: N/A
+2026-06-05 15:07:06,943  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 15:07:06,943  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 15:19:15,313  [INFO]  ============================================================
+2026-06-05 15:19:15,313  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 15:19:15,313  [INFO]    Posting 5 video(s) per day
+2026-06-05 15:19:15,313  [INFO]    Niches: relatable, psychology, relationships, mystery
+2026-06-05 15:19:15,313  [INFO]  ============================================================
+2026-06-05 15:19:15,314  [INFO]  ⏰ Scheduled post #1 at 09:00
+2026-06-05 15:19:15,314  [INFO]  ⏰ Scheduled post #2 at 11:56
+2026-06-05 15:19:15,314  [INFO]  ⏰ Scheduled post #3 at 15:12
+2026-06-05 15:19:15,314  [INFO]  ⏰ Scheduled post #4 at 16:57
+2026-06-05 15:19:15,314  [INFO]  ⏰ Scheduled post #5 at 20:09
+2026-06-05 15:19:15,314  [INFO]  --now flag detected, posting immediately…
+2026-06-05 15:19:15,315  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 15:19:15,315  [INFO]  🚀 Starting pipeline…
+2026-06-05 15:19:17,119  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 15:19:17,121  [INFO]  📌 Topic: the dark web fact that will change how you see everything  |  Niche: psychology
+2026-06-05 15:19:17,942  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 15:19:17,952  [INFO]  ✅ Script written (40 words)
+2026-06-05 15:19:17,952  [INFO]  📝 Script:
+You're being watched.
+ 
+Your darkest thoughts are online.
+ 
+You're not anonymous, you're tracked.
+ 
+Your deepest fears fuel it.
+ 
+You're the product, not the user.
+ 
+Your life is data to sell.
+ 
+You'r…
+2026-06-05 15:19:17,952  [INFO]  🎬 Building animated video: the dark web fact that will change how you see everything
+2026-06-05 15:19:21,898  [INFO]  🎤 Audio: 15.9s
+2026-06-05 15:19:22,682  [INFO]  ⬇️  Downloading Pexels video: you're being watched
+2026-06-05 15:19:24,153  [INFO]  ✅ Downloaded: assets/videos\7763611.mp4
+2026-06-05 15:19:24,155  [INFO]  🎥 Scene 1 bg: 'you're being watched'
+2026-06-05 15:19:26,226  [INFO]  ⬇️  Downloading Pexels video: darkest thoughts online
+2026-06-05 15:19:50,280  [INFO]  ✅ Downloaded: assets/videos\10472901.mp4
+2026-06-05 15:19:50,282  [INFO]  🎥 Scene 2 bg: 'darkest thoughts online'
+2026-06-05 15:19:52,805  [INFO]  ⬇️  Downloading Pexels video: you're anonymous you're
+2026-06-05 15:20:11,777  [INFO]  ✅ Downloaded: assets/videos\9484902.mp4
+2026-06-05 15:20:11,778  [INFO]  🎥 Scene 3 bg: 'you're anonymous you're'
+2026-06-05 15:20:14,717  [INFO]  ⬇️  Downloading Pexels video: deepest fears fuel
+2026-06-05 15:20:56,448  [INFO]  ✅ Downloaded: assets/videos\33802057.mp4
+2026-06-05 15:20:56,449  [INFO]  🎥 Scene 4 bg: 'deepest fears fuel'
+2026-06-05 15:20:58,876  [INFO]  ⬇️  Downloading Pexels video: you're product user
+2026-06-05 15:21:01,955  [INFO]  ✅ Downloaded: assets/videos\37116270.mp4
+2026-06-05 15:21:01,957  [INFO]  🎥 Scene 5 bg: 'you're product user'
+2026-06-05 15:21:04,141  [INFO]  ⬇️  Downloading Pexels video: life data sell
+2026-06-05 15:21:26,021  [INFO]  ✅ Downloaded: assets/videos\8480279.mp4
+2026-06-05 15:21:26,023  [INFO]  🎥 Scene 6 bg: 'life data sell'
+2026-06-05 15:21:28,096  [INFO]  ⬇️  Downloading Pexels video: you're living simulation
+2026-06-05 15:21:55,016  [INFO]  ✅ Downloaded: assets/videos\6498263.mp4
+2026-06-05 15:21:55,018  [INFO]  🎥 Scene 7 bg: 'you're living simulation'
+2026-06-05 15:21:56,825  [INFO]  ⬇️  Downloading Pexels video: follow different
+2026-06-05 15:23:54,325  [INFO]  ✅ Downloaded: assets/videos\36625678.mp4
+2026-06-05 15:23:54,327  [INFO]  🎥 Scene 8 bg: 'follow different'
+2026-06-05 15:23:57,389  [INFO]  🎞️  Concatenating scenes…
+2026-06-05 15:23:58,057  [INFO]  💾 Rendering final video…
+2026-06-05 15:27:49,498  [INFO]  ✅ Done → output\20260605_151917_the dark web fact that will change how y.mp4
+2026-06-05 15:27:50,473  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 15:27:51,628  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 15:27:51,636  [INFO]  📤 Uploading to YouTube: The Dark Web Fact That Will Change How You See Everything #Shorts
+2026-06-05 15:28:03,814  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/g0PpcJ-Fihc
+2026-06-05 15:28:20,946  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 15:28:22,021  [INFO]  b2hkrishna12 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 15:28:26,039  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 15:28:30,630  [INFO]  b2hkrishna12 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 15:28:31,632  [INFO]  https://i.instagram.com/api/v1/challenge/AXIeFxBI74oCo2DWxMo80HvtGDNNLy6kVMLatgP8YjeqIBWaOi8_q6KDkxgFhZnipZSAsIc/Af1Z405hS7V7aWhWgk0wcedsvZo5T7GrwsRawr3phDsARWpg5VOg5SPYVIpazMKhCk3hmEJA74hfEw/
+2026-06-05 15:28:32,002  [INFO]  b2hkrishna12 [200] GET https://i.instagram.com/api/v1/challenge/AXIeFxBI74oCo2DWxMo80HvtGDNNLy6kVMLatgP8YjeqIBWaOi8_q6KDkxgFhZnipZSAsIc/Af1Z405hS7V7aWhWgk0wcedsvZo5T7GrwsRawr3phDsARWpg5VOg5SPYVIpazMKhCk3hmEJA74hfEw/?guid=a5aa2061-3301-494d-b974-687e42096bf9&device_id=android-4c3c5dc3a296f1f4&challenge_context=Q9y1BQGrMi9c41IJK4ChFPhNd52PocNh7SsJPwQqHKtkcgoks_nPWwqHMv7Da43PPO9z0RHcf39EuPUE4fjf8ow2jQeHHUoN3hxPGAVerS-mXejVvHU6n58YM7Jt2AallASuepAPYmQtWjCBCPV3kSkdbUaBDdjNRh1VRw_DBb3V1Y8k3ZrORdcoYC9-phqas9ebwtdOfyMbmGB9WwVV4eFyBdmAJI8FXKmnjcRCYcI69zM8FeQhY9pukGHKYX3Kg_C88E0OIt8cqD1N8TRkyvrAwGDJIIXmsQ6YQn357EihPfyejxpc1JJUp1SMAF4IgWfHbfrbxvZTLfl0GDrB3R1reHTtuc7Oi4a-ZYn9MzROA8JCPjUbM7_U4qKIskUzHi5lE9P0IwxGqb21wrvUMV3nGplC00JYrgTFtQJTYtZylW50ay1tq3VQjtu2pPJJnlw1zISt5mZ_buYI_1Tj892LU1C0zCkr7Knc9tkqDL_f6-JN_mEoKDQa0G1pwsqpLBuWbxfSKtIwmM50QVTb1PgzT0nf1CNXRuItNRdt7TGbMJHqQjnlSeb8d4hY9aP-0e-ycmwfg22IAGuek9EQ6jX3MCyAxxmi9YgL7_jv7xzPGgIlBGl-zAnlmqWVqSgrcJqig8cfzrqyO-13KNVNh9OCovoEe9Z-FQjz57FzT9QZK6zxQisriW1WZWRoQ6n-WPYK8p7x1PCBOc1UVGPHdLaflIO-zf1iKwUzGI7LoP_Y92FhR_5HpJGcUrF0-nzqimPTQ1QtYfZ83UpMQAAooL0ZjCZBawXSUjiQKFEymV2O6rSWd84ejPpruafL (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 15:28:32,002  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "b2hkrishna12" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQEpHv-FhAZZ-zf5WarnOdmCwENKGhC-s3ViZJKllFHuKkCAeBAYzsJKSvnrc2eXIZj9_NIzSsD2ENFbTdUhmwE9N39Dg6QVmDdNfdbBXjPlEklC7JvA5AHIehDu9T3Pg03wypgWRoJExOPCMSG7kSVFEMRoCQ9rdsoCgPtiSAXyAkyWeEY_9KbRUVWai73Z7tk-PMDpYa7pS_AGiDP2PfsV5ZlcmV1jVFVLpg4RllWVFEsiLljSbO-vT9i68DJh9hdpWv9lizJhY6lg73v1aB1AdlhxQ8isl9PoILPDedS2K9CM5l79WLEOc6uq9p4o5X3n-smfMu4UhRuBqIRCJQY7teEHH25fYzFs0OWSHIa7Coy0aDPZfhuAoy5lGEF9p3h2vBeR-I1B9s6KB0HBgYk4KIO3JvwnPf2_A8naLa2H8vWo2QJ0QTt-eM0muIQQTpzobKdI5Ugrp7VHYmXqWFlMzzQWft_lV8BOFj9kmwZMqo3MtSuHSPluWoFFNYJkeIQZv1JDJFASYIdQK1hyGzwBE8aKHXeEqi8WVjne7qLjBFEk-BNWePI5j3suE7lYCAMbqn8FiWOJcQrh5LKXev-QnXFtpTm-sc0So92nkO7l2jKMpbioODSqwfDiFBa3cfGWKKp7FyPhNmdGxZrLi3eH-zOiir3pXY_iZw9bI0B3cLKC3pb8mydJ73Rb5XETJRBWDboernJ3p5o6UQiR1GocH31SYdjMW2PeHh4ZT3MfGS8AUDklper806PM7YE2FfOCsi0-FUYy1wct39UcjtdbXhIIqQvtEQYyMkQuqWCdF2xoxTBMGVKFCAZ-WAhrOUHZiNS3BcudSpZRqTTDF9lK4RzF3oar9VQPClPNgl9pFmrIMwVYmPeT3bd2DpaR5PJzKEP89y5oRoC5JPiypyWqub9nfU1UC8aGRWGjzpJ5mLBuDSki_kM7Jyky52p90EdVict0WJNTHwN2oH4RX8cZLHO4Dl6aFeDgxv1iUrwuzKtn1Pbath_Qd4ImsgvX_3C_LTcFWra89DIiXoY2ijkOmWNoEu1u-m_s8BT7WxulXImwDQyY9gj0KD3YbIil0zlEVm3c5SXFWECFr7LNtdDTfo1GAlEGxuFrW88F6IfurHoDEhq7lfhdSqjHp2ggntjoWDysiEgMWscrHPTix-3JQe_b9uc', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwFzpTy2eEGS7QTfOtpVyV3biNw1uixpH_P2zmsko_QE9NQMO1AnielFdOE_Vtab6_8ASaL3dGABjA', 'status': 'ok'}
+2026-06-05 15:28:32,061  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/g0PpcJ-Fihc  |  Instagram: N/A
+2026-06-05 15:28:32,064  [INFO]  🗑️  Deleted output: 20260605_151917_the dark web fact that will change how y.mp4
+2026-06-05 15:28:32,137  [INFO]  🗑️  Cleared Pexels cache — freed 777.4 MB
+2026-06-05 15:28:32,137  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 15:28:32,137  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 15:53:41,801  [INFO]  ============================================================
+2026-06-05 15:53:41,801  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 15:53:41,801  [INFO]    Posting 5 video(s) per day
+2026-06-05 15:53:41,802  [INFO]    Niches: relatable, psychology, relationships, mystery, horror
+2026-06-05 15:53:41,802  [INFO]  ============================================================
+2026-06-05 15:53:41,802  [INFO]  ⏰ Scheduled post #1 at 09:02
+2026-06-05 15:53:41,802  [INFO]  ⏰ Scheduled post #2 at 12:12
+2026-06-05 15:53:41,802  [INFO]  ⏰ Scheduled post #3 at 14:45
+2026-06-05 15:53:41,803  [INFO]  ⏰ Scheduled post #4 at 16:56
+2026-06-05 15:53:41,803  [INFO]  ⏰ Scheduled post #5 at 20:02
+2026-06-05 15:53:41,803  [INFO]  --now flag detected, posting immediately…
+2026-06-05 15:53:41,803  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 15:53:41,803  [INFO]  🚀 Starting pipeline…
+2026-06-05 15:53:43,574  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 15:53:43,576  [INFO]  📌 Topic: What really happened with a true ghost encounter  |  Niche: horror
+2026-06-05 15:53:44,386  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 15:53:44,397  [INFO]  ✅ Script written (45 words)
+2026-06-05 15:53:44,397  [INFO]  📝 Script:
+What they found about What really happened with a true ghost encounter was never made public.
+
+Darkness hides secrets.
+Evil lurks within.
+
+On December 15, 1978, Emily died.
+Her ghost still screams.
+
+Y…
+2026-06-05 15:53:44,397  [INFO]  🎬 Building animated video: What really happened with a true ghost encounter
+2026-06-05 15:53:47,182  [INFO]  🎤 Audio: 18.5s
+2026-06-05 15:53:48,107  [INFO]  ⬇️  Downloading Pexels video: found really happened
+2026-06-05 15:55:02,376  [INFO]  ✅ Downloaded: assets/videos\30241101.mp4
+2026-06-05 15:55:02,379  [INFO]  🎥 Scene 1 bg: 'found really happened'
+2026-06-05 15:55:09,954  [INFO]  ⬇️  Downloading Pexels video: darkness hides secrets
+2026-06-05 15:55:26,598  [INFO]  ✅ Downloaded: assets/videos\9943145.mp4
+2026-06-05 15:55:26,600  [INFO]  🎥 Scene 2 bg: 'darkness hides secrets'
+2026-06-05 15:55:29,943  [INFO]  ⬇️  Downloading Pexels video: december 1978 emily
+2026-06-05 15:55:58,343  [INFO]  ✅ Downloaded: assets/videos\35066203.mp4
+2026-06-05 15:55:58,345  [INFO]  🎥 Scene 3 bg: 'december 1978 emily'
+2026-06-05 15:56:03,209  [INFO]  ⬇️  Downloading Pexels video: you're alone now
+2026-06-05 15:56:22,877  [INFO]  ✅ Downloaded: assets/videos\7280524.mp4
+2026-06-05 15:56:22,879  [INFO]  🎥 Scene 4 bg: 'you're alone now'
+2026-06-05 15:56:26,267  [INFO]  ⬇️  Downloading Pexels video: like haunted you
+2026-06-05 15:56:32,163  [INFO]  ✅ Downloaded: assets/videos\14517238.mp4
+2026-06-05 15:56:32,165  [INFO]  🎥 Scene 5 bg: 'like haunted you'
+2026-06-05 15:56:34,362  [INFO]  🎞️  Concatenating scenes…
+2026-06-05 15:56:35,622  [INFO]  💾 Rendering final video…
+2026-06-05 16:01:39,982  [INFO]  ✅ Done → output\20260605_155344_What really happened with a true ghost e.mp4
+2026-06-05 16:01:40,939  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 16:01:42,331  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 16:01:42,342  [INFO]  📤 Uploading to YouTube: What Really Happened With A True Ghost Encounter #Shorts
+2026-06-05 16:01:53,706  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/HBfu5sJ8Wkg
+2026-06-05 16:02:04,107  [INFO]  https://i.instagram.com/api/v1/launcher/sync/
+2026-06-05 16:02:05,720  [INFO]  anime_community447 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 16:02:10,176  [INFO]  https://i.instagram.com/api/v1/accounts/login/
+2026-06-05 16:02:13,808  [INFO]  anime_community447 [400] POST https://i.instagram.com/api/v1/accounts/login/ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 16:02:14,810  [INFO]  https://i.instagram.com/api/v1/challenge/AXJV30NpWng69-KfJlg-rCOieArW8MveYGc-mZ8gu8f-5TJ5D4l0hWZ1RgsU1Q85Mef0m3E/Af2L5gftgDNFzQKwtIjSa7N8SfQXXCwiBooGKO7z5wE2arnDpchH1fF4SV0mj3wPTnQGV6WTGHRbQA/
+2026-06-05 16:02:15,249  [INFO]  anime_community447 [200] GET https://i.instagram.com/api/v1/challenge/AXJV30NpWng69-KfJlg-rCOieArW8MveYGc-mZ8gu8f-5TJ5D4l0hWZ1RgsU1Q85Mef0m3E/Af2L5gftgDNFzQKwtIjSa7N8SfQXXCwiBooGKO7z5wE2arnDpchH1fF4SV0mj3wPTnQGV6WTGHRbQA/?guid=ca2a5153-1373-4c3f-949d-19d139d58c96&device_id=android-7deee3ea93f46156&challenge_context=Q9y1BQGlZNb8bYm42-B15o_J7oCmJD_u_RvaoHMVzcTFyQJ8HJsCgnswfubXgVN_dY30FKS6J8rLDGhmJ__hFyt6ocV6VQMc4Rjdp1PGYepwKhyK0LFfYSKx-HrfDiuq4OZyZ_lz1US8Rl6xegw0aXblI_KazopLx-AE12OWYlyqWKfKGBrfdPruDLqXaeEQZASjjz277sNyzBzQXqf5P1zwmpw_gtUpu0s5fKgWGg6-FHok8j1nTHsDf6PPQIdGl94NW1f-cpZeHx21zSEzC6DIWrx0-0fyW7HXBriGSgLfclFuFOosl6MdKtS7dPO7TWC8PwnvYrCKaBju9IsJVENdYp0dD1GJSV9OYHmmuKHNoraefJ8mqngmrS1eBtTQPSOYgckXmK9b3TEqU7oE-tPOjekTuuUUoFdMSFzx9bzuYp59WLjwe3LR-Yzy-HQrLLYH9XrmvGOT0OaH-TCEvjl94rgM5hhV6VaqcAwhHOOiuUpFvPZ6B2e9CggKZkWcqmBft0TRJUjw40kv1HD-Za0vl1IpBTgVALEc1JuoKELVWgbdDpHcq1-c91VLlfLMhLx_YBhsNtS02mhesirLfFXYSPWHd49jXpKFSwh9qKzuPhy-gunwmJ9vNDQN1wQ0UEzORsqT2BlpJMH9v1d0iOy7b3j0sRiddf3nHIm4n7nwCgqM_4WnaqJINAyC-y4Swu9Ae9WoO0gc_PpWTMDqvbfwlrepcVkn855TjHu7-gIN6QSRdG43vcju6can84SVUch_uGU3cp_9xq-5BhnsV_u9ku-5subJ_cR1o2wd4LFtI6hASVPTDJRsCQ (428.0.0.47.67, Google/google Pixel 8 Pro)
+2026-06-05 16:02:15,249  [ERROR]  ❌ Instagram upload failed: ChallengeResolve: Unknown step_name "STEP_NAME" for "anime_community447" in challenge resolver: {'flow_render_type': 3, 'bloks_action': 'com.bloks.www.ig.challenge.redirect.async', 'challenge_context': 'Q9y1BQECmvjh16oDUn6hQgqcuO9B9IT4ZRT_5HdRJsMfnlraie7ac_HqzslIe4X2qd_oq3eEQgY2rIBJOs6xFpfrNMTKvCiltQHr5YLAywGqwHPoWnqeFyqjPZPc6i3v2BNVX0GzEtm1EhyiMnrsP60d8aEGtqVOFd17XPmhRWpBqmfn3orG_KJBxFTZMfd9L21X5SHFQQN1P_A1YHx7WT14ZBxcKY-mmGGfHW-4W0StCsdMQ54jyxuXCgvyWVh60ZuUYYa7OwawZz62CU8Kp0OmgQ6ZXsv3xmK7oa3D0Lcbv0BrEN14jY82vwpVSuCdtmdW0ZWqstkvTk6O7CDTckYw73Mvv_x5lK9h_fE-tD_h6HlBQuK40qhcnYi1frlhQVrcMzXZRy478XlWCToBJYP83pcDcUNjUX4iUokz99o_cvQj4WxTGjsHX9Sk2B8AjezFcARn4UDx1O-3Qsvl9ps8vwJiBl6qIXGusW23RSphWWhRH9zxj_YT5R8p6LDf5KYEsrlU5PB-5LfvE9gbFE2Y6D0QOYpEO5IUXvI54k_R-esbOkRDaBGRNDnDmDWzthiGfvXSiWreCXLd8TUcZzqkZUfoDxNaVwFMp2l5yYk1sOl8UgCPdYzzZCQolhfs7olYMFuFvRXs34FLMFAOJ1QJb2RA4CG9-3H9lizeM6yb-QpIZtqgM6VudNZpMCKLmmkDUE3gst0r4RTOa2eD5cPPfIOsmOykyw15GTp98yxqha-8xykXzagqKXXKjAi3T27eYVIIGB2LeyBlSVK0qM0zd8jOs-DFIEqwoaxyqUTgQmXNFrIdrFLwNW_A_0O4lPhyldBy8AJfBR-wjufrIxbgIIcVugIc-xb4-IqRgVwJB20oI2_5COMZIIefISqwsK0Pxxn7fJ-Qy7mmBqP9EHcK8rs8Mqe1saN8xLCbRO2RYoKIAytfDXa9DSjUjDc5GVVby3u0NtvyxQrUMMV40RpNGZSpFLjObK6IOF5_Skv6y3TcCG6nRjxnDbvAvSWzIufoeJYSc_c56vcHfNR1x9q1wQFw4LfUpw7eh2_sb5kymCTW1D_UHimU9ylRGCZLy9ZKrg7jmVkUfGFMAwVAiKGY6XQeoDnKTDMtTicDzHXIHzfEa8bg9FEAxL8BnqJGLgpy1jADWk7Vk7pfZEV7SmzCVEXk5Yx-', 'step_name': 'STEP_NAME', 'challenge_type_enum_str': 'ect_Q7DvBwGgaXbQ0M9XO2Es8SxRr9V57N1ndNKrC4sVS1KbNZnL9EBvnV5Kv5NIfwNTCjZlknS2B-diQ-xfpQ', 'status': 'ok'}
+2026-06-05 16:02:15,292  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/HBfu5sJ8Wkg  |  Instagram: N/A
+2026-06-05 16:02:15,295  [INFO]  🗑️  Deleted output: 20260605_155344_What really happened with a true ghost e.mp4
+2026-06-05 16:02:15,321  [INFO]  🗑️  Cleared Pexels cache — freed 178.9 MB
+2026-06-05 16:02:15,321  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 16:02:15,322  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-05 18:53:57,964  [INFO]  ============================================================
+2026-06-05 18:53:57,964  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-05 18:53:57,965  [INFO]    Posting 5 video(s) per day
+2026-06-05 18:53:57,965  [INFO]    Niches: relatable, psychology, relationships, mystery, horror
+2026-06-05 18:53:57,965  [INFO]  ============================================================
+2026-06-05 18:53:57,966  [INFO]  ⏰ Scheduled post #1 at 09:11
+2026-06-05 18:53:57,966  [INFO]  ⏰ Scheduled post #2 at 12:13
+2026-06-05 18:53:57,966  [INFO]  ⏰ Scheduled post #3 at 14:55
+2026-06-05 18:53:57,967  [INFO]  ⏰ Scheduled post #4 at 17:14
+2026-06-05 18:53:57,967  [INFO]  ⏰ Scheduled post #5 at 20:04
+2026-06-05 18:53:57,967  [INFO]  --now flag detected, posting immediately…
+2026-06-05 18:53:57,967  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 18:53:57,967  [INFO]  🚀 Starting pipeline…
+2026-06-05 18:54:00,105  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-05 18:54:00,106  [INFO]  📌 Topic: What really happened with the silent treatment  |  Niche: mystery
+2026-06-05 18:54:01,031  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 18:54:01,043  [INFO]  ✅ Script written (62 words)
+2026-06-05 18:54:01,043  [INFO]  📝 Script:
+The real story behind What really happened with the silent treatment will horrify you.
+
+Dark secrets hidden, lies told, 
+Silent screams echo, pain unfolds
+
+Abuse masked as love, control 
+Gaslighting t…
+2026-06-05 18:54:01,043  [INFO]  🎬 Building animated video: What really happened with the silent treatment
+2026-06-05 18:54:03,469  [INFO]  🎤 Audio: 24.7s
+2026-06-05 18:54:04,421  [INFO]  ⬇️  Downloading Pexels video: real story behind
+2026-06-05 18:54:35,668  [INFO]  ✅ Downloaded: assets/videos\10475255.mp4
+2026-06-05 18:54:35,670  [INFO]  🎥 Scene 1 bg: 'real story behind'
+2026-06-05 18:54:46,603  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-05 18:55:59,377  [INFO]  ✅ Downloaded: assets/videos\8087073.mp4
+2026-06-05 18:55:59,380  [INFO]  🎥 Scene 2 bg: 'artificial intelligence robot'
+2026-06-05 18:56:04,436  [INFO]  ⬇️  Downloading Pexels video: abuse masked love
+2026-06-05 18:56:12,718  [INFO]  ✅ Downloaded: assets/videos\6973649.mp4
+2026-06-05 18:56:12,721  [INFO]  🎥 Scene 3 bg: 'abuse masked love'
+2026-06-05 18:56:16,839  [INFO]  ⬇️  Downloading Pexels video: you're victim abuser
+2026-06-05 18:56:45,290  [INFO]  ✅ Downloaded: assets/videos\7423839.mp4
+2026-06-05 18:56:45,293  [INFO]  🎥 Scene 4 bg: 'you're victim abuser'
+2026-06-05 18:56:50,347  [INFO]  ⬇️  Downloading Pexels video: you're alone story
+2026-06-05 18:57:53,325  [INFO]  ✅ Downloaded: assets/videos\34704915.mp4
+2026-06-05 18:57:53,326  [INFO]  🎥 Scene 5 bg: 'you're alone story'
+2026-06-05 18:57:57,794  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-05 18:58:00,742  [INFO]  ✅ Downloaded: assets/videos\7326651.mp4
+2026-06-05 18:58:00,744  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-05 18:58:02,899  [INFO]  🎞️  Concatenating scenes…
+2026-06-05 18:58:04,908  [INFO]  💾 Rendering final video…
+2026-06-05 19:05:29,506  [INFO]  ✅ Done → output\20260605_185401_What really happened with the silent tre.mp4
+2026-06-05 19:05:30,625  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 19:05:33,497  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-05 19:05:33,506  [INFO]  📤 Uploading to YouTube: What Really Happened With The Silent Treatment #Shorts
+2026-06-05 19:05:52,315  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/B7u0T84zMGY
+2026-06-05 19:06:02,340  [INFO]  📤 Creating Instagram Reel container…
+2026-06-05 19:06:17,307  [ERROR]  ❌ Instagram upload failed: Container creation failed: {'error': {'message': 'The parameter video_url is required', 'type': 'IGApiException', 'code': 100, 'fbtrace_id': 'Af89N6fzE708OxdkMlaGB4q'}}
+2026-06-05 19:06:17,342  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/B7u0T84zMGY  |  Instagram: N/A
+2026-06-05 19:06:17,347  [INFO]  🗑️  Deleted output: 20260605_185401_What really happened with the silent tre.mp4
+2026-06-05 19:06:17,386  [INFO]  🗑️  Cleared Pexels cache — freed 260.8 MB
+2026-06-05 19:06:17,388  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-05 19:06:17,389  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 00:48:21,861  [INFO]  ============================================================
+2026-06-06 00:48:21,862  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 00:48:21,862  [INFO]    Posting 5 video(s) per day
+2026-06-06 00:48:21,862  [INFO]    Niches: relatable, psychology, relationships, mystery, horror
+2026-06-06 00:48:21,863  [INFO]  ============================================================
+2026-06-06 00:48:21,863  [INFO]  ⏰ Scheduled post #1 at 08:49
+2026-06-06 00:48:21,863  [INFO]  ⏰ Scheduled post #2 at 11:50
+2026-06-06 00:48:21,863  [INFO]  ⏰ Scheduled post #3 at 14:54
+2026-06-06 00:48:21,864  [INFO]  ⏰ Scheduled post #4 at 16:53
+2026-06-06 00:48:21,864  [INFO]  ⏰ Scheduled post #5 at 19:52
+2026-06-06 00:48:21,864  [INFO]  --now flag detected, posting immediately…
+2026-06-06 00:48:21,864  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 00:48:21,864  [INFO]  🚀 Starting pipeline…
+2026-06-06 00:48:25,268  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-06 00:48:25,269  [INFO]  📌 Topic: The dark truth about the 3pm energy crash  |  Niche: mystery
+2026-06-06 00:48:26,085  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 00:48:26,096  [INFO]  ✅ Script written (57 words)
+2026-06-06 00:48:26,097  [INFO]  📝 Script:
+This story will keep you up tonight.
+ 
+Your body betrays you daily.
+Your mind numbs at 3pm exactly.
+ 
+Adrenaline drops, cortisol spikes.
+Your brain is hijacked now.
+ 
+Your willpower is stolen then.
+Yo…
+2026-06-06 00:48:26,097  [INFO]  🎬 Building animated video: The dark truth about the 3pm energy crash
+2026-06-06 00:48:28,682  [INFO]  🎤 Audio: 22.1s
+2026-06-06 00:48:29,637  [INFO]  ⬇️  Downloading Pexels video: story keep tonight
+2026-06-06 00:49:26,239  [INFO]  ✅ Downloaded: assets/videos\10387428.mp4
+2026-06-06 00:49:26,241  [INFO]  🎥 Scene 1 bg: 'story keep tonight'
+2026-06-06 00:49:29,293  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-06 00:50:09,265  [INFO]  ✅ Downloaded: assets/videos\8087014.mp4
+2026-06-06 00:50:09,267  [INFO]  🎥 Scene 2 bg: 'artificial intelligence robot'
+2026-06-06 00:50:12,320  [INFO]  ⬇️  Downloading Pexels video: mind numbs exactly
+2026-06-06 00:50:29,566  [INFO]  ✅ Downloaded: assets/videos\33632180.mp4
+2026-06-06 00:50:29,569  [INFO]  🎥 Scene 3 bg: 'mind numbs exactly'
+2026-06-06 00:50:32,925  [INFO]  ⬇️  Downloading Pexels video: adrenaline drops cortisol
+2026-06-06 00:50:58,171  [INFO]  ✅ Downloaded: assets/videos\6658286.mp4
+2026-06-06 00:50:58,174  [INFO]  🎥 Scene 4 bg: 'adrenaline drops cortisol'
+2026-06-06 00:51:02,313  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-06 00:51:09,584  [INFO]  ✅ Downloaded: assets/videos\7213091.mp4
+2026-06-06 00:51:09,588  [INFO]  🎥 Scene 5 bg: 'brain neuron mind'
+2026-06-06 00:51:13,048  [INFO]  ⬇️  Downloading Pexels video: willpower stolen then
+2026-06-06 00:51:24,510  [INFO]  ✅ Downloaded: assets/videos\5885466.mp4
+2026-06-06 00:51:24,544  [INFO]  🎥 Scene 6 bg: 'willpower stolen then'
+2026-06-06 00:51:28,063  [INFO]  ⬇️  Downloading Pexels video: you're slave instincts
+2026-06-06 00:53:08,255  [INFO]  ✅ Downloaded: assets/videos\9463348.mp4
+2026-06-06 00:53:08,258  [INFO]  🎥 Scene 7 bg: 'you're slave instincts'
+2026-06-06 00:53:12,614  [INFO]  ⬇️  Downloading Pexels video: crash natural it's
+2026-06-06 00:53:20,575  [INFO]  ✅ Downloaded: assets/videos\11637753.mp4
+2026-06-06 00:53:20,577  [INFO]  🎥 Scene 8 bg: 'crash natural it's'
+2026-06-06 00:53:24,700  [INFO]  ⬇️  Downloading Pexels video: you're designed tired
+2026-06-06 00:53:30,194  [INFO]  ✅ Downloaded: assets/videos\8048438.mp4
+2026-06-06 00:53:30,217  [INFO]  🎥 Scene 9 bg: 'you're designed tired'
+2026-06-06 00:53:33,302  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-06 00:54:48,850  [INFO]  ✅ Downloaded: assets/videos\35782228.mp4
+2026-06-06 00:54:48,853  [INFO]  🎥 Scene 10 bg: 'follow kept'
+2026-06-06 00:54:51,928  [INFO]  🎞️  Concatenating scenes…
+2026-06-06 00:54:53,425  [INFO]  💾 Rendering final video…
+2026-06-06 01:00:55,771  [INFO]  ✅ Done → output\20260606_004826_The dark truth about the 3pm energy cras.mp4
+2026-06-06 01:00:56,810  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 01:00:59,888  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 01:00:59,968  [INFO]  📤 Uploading to YouTube: The Dark Truth About The 3Pm Energy Crash #Shorts
+2026-06-06 01:01:24,343  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/rXSDBQnzW7w
+2026-06-06 01:01:34,936  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-06 01:02:14,332  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1780687930/autoshorts/ujilsy762es4ymbmnchf.mp4
+2026-06-06 01:02:14,333  [INFO]  📤 Creating Instagram Reel container…
+2026-06-06 01:02:15,358  [INFO]  📦 Container created: 17971339602061986
+2026-06-06 01:02:21,190  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 01:02:26,995  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 01:02:32,792  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 01:02:38,590  [INFO]  ⏳ Container status: FINISHED
+2026-06-06 01:02:48,316  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17891213220521036/
+2026-06-06 01:02:48,361  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/rXSDBQnzW7w  |  Instagram: https://www.instagram.com/reel/17891213220521036/
+2026-06-06 01:02:48,366  [INFO]  🗑️  Deleted output: 20260606_004826_The dark truth about the 3pm energy cras.mp4
+2026-06-06 01:02:48,418  [INFO]  🗑️  Cleared Pexels cache — freed 379.0 MB
+2026-06-06 01:02:48,418  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 01:02:48,419  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 01:04:39,345  [INFO]  ============================================================
+2026-06-06 01:04:39,345  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 01:04:39,345  [INFO]    Posting 5 video(s) per day
+2026-06-06 01:04:39,345  [INFO]    Niches: relatable, psychology, relationships, mystery, horror
+2026-06-06 01:04:39,345  [INFO]  ============================================================
+2026-06-06 01:04:39,346  [INFO]  ⏰ Scheduled post #1 at 08:51
+2026-06-06 01:04:39,346  [INFO]  ⏰ Scheduled post #2 at 12:14
+2026-06-06 01:04:39,346  [INFO]  ⏰ Scheduled post #3 at 14:52
+2026-06-06 01:04:39,346  [INFO]  ⏰ Scheduled post #4 at 17:03
+2026-06-06 01:04:39,346  [INFO]  ⏰ Scheduled post #5 at 20:06
+2026-06-06 01:04:39,346  [INFO]  --now flag detected, posting immediately…
+2026-06-06 01:04:39,347  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 01:04:39,347  [INFO]  🚀 Starting pipeline…
+2026-06-06 01:04:43,070  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-06 01:04:43,071  [INFO]  📌 Topic: The shocking truth about a 911 call  |  Niche: relatable
+2026-06-06 01:04:44,134  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 01:04:44,143  [INFO]  ✅ Script written (74 words)
+2026-06-06 01:04:44,143  [INFO]  📝 Script:
+Most people never recover after learning this about a 911 call.
+
+You feel safe, don't you, thinking help is one call away.
+Your emergency is their priority, right.
+
+But what if your call is ignored, l…
+2026-06-06 01:04:44,143  [INFO]  🎬 Building animated video: The shocking truth about a 911 call
+2026-06-06 01:04:46,516  [INFO]  🎤 Audio: 24.9s
+2026-06-06 01:04:47,617  [INFO]  ⬇️  Downloading Pexels video: most people recover
+2026-06-06 01:05:13,871  [INFO]  ✅ Downloaded: assets/videos\5858752.mp4
+2026-06-06 01:05:13,873  [INFO]  🎥 Scene 1 bg: 'most people recover'
+2026-06-06 01:05:18,336  [INFO]  ⬇️  Downloading Pexels video: feel safe don't
+2026-06-06 01:05:19,441  [INFO]  ✅ Downloaded: assets/videos\4057950.mp4
+2026-06-06 01:05:19,443  [INFO]  🎥 Scene 2 bg: 'feel safe don't'
+2026-06-06 01:05:24,888  [INFO]  ⬇️  Downloading Pexels video: call ignored left
+2026-06-06 01:06:09,742  [INFO]  ✅ Downloaded: assets/videos\7123970.mp4
+2026-06-06 01:06:09,744  [INFO]  🎥 Scene 3 bg: 'call ignored left'
+2026-06-06 01:06:15,782  [INFO]  ⬇️  Downloading Pexels video: alone fear real
+2026-06-06 01:06:50,923  [INFO]  ✅ Downloaded: assets/videos\8458594.mp4
+2026-06-06 01:06:50,925  [INFO]  🎥 Scene 4 bg: 'alone fear real'
+2026-06-06 01:06:59,828  [INFO]  ⬇️  Downloading Pexels video: follow kept wondering
+2026-06-06 01:07:35,716  [INFO]  ✅ Downloaded: assets/videos\36204276.mp4
+2026-06-06 01:07:35,720  [INFO]  🎥 Scene 5 bg: 'follow kept wondering'
+2026-06-06 01:07:39,598  [INFO]  🎞️  Concatenating scenes…
+2026-06-06 01:07:41,508  [INFO]  💾 Rendering final video…
+2026-06-06 01:16:19,577  [INFO]  ✅ Done → output\20260606_010444_The shocking truth about a 911 call.mp4
+2026-06-06 01:16:20,584  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 01:16:22,211  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 01:16:22,221  [INFO]  📤 Uploading to YouTube: The Shocking Truth About A 911 Call #Shorts
+2026-06-06 01:16:37,360  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/9bwdg_Zcji4
+2026-06-06 01:16:46,864  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-06 01:17:08,400  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1780688822/autoshorts/fiobev8ihzdow1y2ic14.mp4
+2026-06-06 01:17:08,401  [INFO]  📤 Creating Instagram Reel container…
+2026-06-06 01:17:09,427  [INFO]  📦 Container created: 17971340712061986
+2026-06-06 01:17:15,175  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 01:17:20,862  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-06 01:17:26,619  [INFO]  ⏳ Container status: FINISHED
+2026-06-06 01:17:33,528  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18416369971178045/
+2026-06-06 01:17:33,574  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/9bwdg_Zcji4  |  Instagram: https://www.instagram.com/reel/18416369971178045/
+2026-06-06 01:17:33,579  [INFO]  🗑️  Deleted output: 20260606_010444_The shocking truth about a 911 call.mp4
+2026-06-06 01:17:33,611  [INFO]  🗑️  Cleared Pexels cache — freed 183.6 MB
+2026-06-06 01:17:33,612  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 01:17:33,613  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 01:55:21,026  [INFO]  ============================================================
+2026-06-06 01:55:21,027  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 01:55:21,027  [INFO]    Posting 5 video(s) per day
+2026-06-06 01:55:21,027  [INFO]    Niches: relatable, psychology, relationships, mystery, horror
+2026-06-06 01:55:21,027  [INFO]  ============================================================
+2026-06-06 01:55:21,028  [INFO]  ⏰ Scheduled post #1 at 08:48
+2026-06-06 01:55:21,028  [INFO]  ⏰ Scheduled post #2 at 12:01
+2026-06-06 01:55:21,028  [INFO]  ⏰ Scheduled post #3 at 15:05
+2026-06-06 01:55:21,029  [INFO]  ⏰ Scheduled post #4 at 17:00
+2026-06-06 01:55:21,029  [INFO]  ⏰ Scheduled post #5 at 20:11
+2026-06-06 01:55:21,029  [INFO]  --now flag detected, posting immediately…
+2026-06-06 01:55:21,029  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 01:55:21,029  [INFO]  🚀 Starting pipeline…
+2026-06-06 01:55:22,796  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-06 01:55:22,797  [INFO]  📌 Topic: The why people cheat secret nobody talks about  |  Niche: relationships
+2026-06-06 01:55:23,574  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 01:55:23,585  [INFO]  ✅ Script written (58 words)
+2026-06-06 01:55:23,585  [INFO]  📝 Script:
+This story will keep you up tonight.
+ 
+You feel empty, so you seek validation.
+ 
+Your partner doesn't notice, you feel alone.
+ 
+You find comfort in someone who listens, Emily did.
+ 
+She cheated on her…
+2026-06-06 01:55:23,586  [INFO]  🎬 Building animated video: The why people cheat secret nobody talks about
+2026-06-06 01:55:26,513  [INFO]  🎤 Audio: 21.6s
+2026-06-06 01:55:27,064  [INFO]  ⬇️  Downloading Pexels video: story keep tonight
+2026-06-06 01:55:32,146  [INFO]  ✅ Downloaded: assets/videos\6851613.mp4
+2026-06-06 01:55:32,147  [INFO]  🎥 Scene 1 bg: 'story keep tonight'
+2026-06-06 01:55:35,205  [INFO]  ⬇️  Downloading Pexels video: feel empty seek
+2026-06-06 01:56:22,159  [INFO]  ✅ Downloaded: assets/videos\3712752.mp4
+2026-06-06 01:56:22,161  [INFO]  🎥 Scene 2 bg: 'feel empty seek'
+2026-06-06 01:56:25,738  [INFO]  ⬇️  Downloading Pexels video: partner doesn't notice
+2026-06-06 01:56:47,549  [INFO]  ✅ Downloaded: assets/videos\35847580.mp4
+2026-06-06 01:56:47,551  [INFO]  🎥 Scene 3 bg: 'partner doesn't notice'
+2026-06-06 01:56:51,103  [INFO]  ⬇️  Downloading Pexels video: find comfort someone
+2026-06-06 01:56:57,859  [INFO]  ✅ Downloaded: assets/videos\6381021.mp4
+2026-06-06 01:56:57,861  [INFO]  🎥 Scene 4 bg: 'find comfort someone'
+2026-06-06 01:57:01,287  [INFO]  ⬇️  Downloading Pexels video: cheated husband denver
+2026-06-06 01:57:41,421  [INFO]  ✅ Downloaded: assets/videos\8060565.mp4
+2026-06-06 01:57:41,424  [INFO]  🎥 Scene 5 bg: 'cheated husband denver'
+2026-06-06 01:57:46,547  [INFO]  ⬇️  Downloading Pexels video: crave attention it's
+2026-06-06 01:58:07,935  [INFO]  ✅ Downloaded: assets/videos\7240874.mp4
+2026-06-06 01:58:07,938  [INFO]  🎥 Scene 6 bg: 'crave attention it's'
+2026-06-06 01:58:12,072  [INFO]  ⬇️  Downloading Pexels video: destroys relationships like
+2026-06-06 01:58:17,555  [INFO]  ✅ Downloaded: assets/videos\8343780.mp4
+2026-06-06 01:58:17,557  [INFO]  🎥 Scene 7 bg: 'destroys relationships like'
+2026-06-06 01:58:20,904  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-06 01:58:32,168  [INFO]  ✅ Downloaded: assets/videos\35799015.mp4
+2026-06-06 01:58:32,171  [INFO]  🎥 Scene 8 bg: 'follow kept'
+2026-06-06 01:58:35,485  [INFO]  🎞️  Concatenating scenes…
+2026-06-06 01:58:37,032  [INFO]  💾 Rendering final video…
+2026-06-06 02:05:24,593  [INFO]  ✅ Done → output\20260606_015523_The why people cheat secret nobody talks.mp4
+2026-06-06 02:05:25,371  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 02:05:27,925  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 02:05:27,933  [INFO]  📤 Uploading to YouTube: The Why People Cheat Secret Nobody Talks About #Shorts
+2026-06-06 02:05:42,230  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/xF8cIi_DFgE
+2026-06-06 02:05:42,293  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/xF8cIi_DFgE  |  Instagram: N/A
+2026-06-06 02:05:42,298  [INFO]  🗑️  Deleted output: 20260606_015523_The why people cheat secret nobody talks.mp4
+2026-06-06 02:05:42,340  [INFO]  🗑️  Cleared Pexels cache — freed 198.4 MB
+2026-06-06 02:05:42,340  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 02:05:42,341  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 10:57:48,416  [INFO]  ============================================================
+2026-06-06 10:57:48,417  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 10:57:48,419  [INFO]    Posting 5 video(s) per day
+2026-06-06 10:57:48,419  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies
+2026-06-06 10:57:48,419  [INFO]  ============================================================
+2026-06-06 10:57:48,420  [INFO]  ⏰ Scheduled post #1 at 09:02
+2026-06-06 10:57:48,420  [INFO]  ⏰ Scheduled post #2 at 11:59
+2026-06-06 10:57:48,420  [INFO]  ⏰ Scheduled post #3 at 14:45
+2026-06-06 10:57:48,420  [INFO]  ⏰ Scheduled post #4 at 16:46
+2026-06-06 10:57:48,421  [INFO]  ⏰ Scheduled post #5 at 19:52
+2026-06-06 10:57:48,421  [INFO]  --now flag detected, posting immediately…
+2026-06-06 10:57:48,421  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 10:57:48,421  [INFO]  🚀 Starting pipeline…
+2026-06-06 10:57:51,164  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-06 10:57:51,165  [INFO]  📌 Topic: The mirroring secret nobody talks about  |  Niche: psychology
+2026-06-06 10:57:51,991  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 10:57:52,011  [INFO]  ✅ Script written (47 words)
+2026-06-06 10:57:52,012  [INFO]  📝 Script:
+Nobody survived to tell this story. Almost.
+
+You mirror their eyes, their smile.
+Your brain locks onto theirs.
+
+They control you now, unknowingly.
+Their thoughts become your darkest fears.
+
+You're not…
+2026-06-06 10:57:52,012  [INFO]  🎬 Building animated video: The mirroring secret nobody talks about
+2026-06-06 10:57:54,544  [INFO]  🎤 Audio: 18.6s
+2026-06-06 10:57:55,466  [INFO]  ⬇️  Downloading Pexels video: nobody survived tell
+2026-06-06 10:58:36,903  [INFO]  ✅ Downloaded: assets/videos\7183204.mp4
+2026-06-06 10:58:36,905  [INFO]  🎥 Scene 1 bg: 'nobody survived tell'
+2026-06-06 10:58:41,949  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-06 10:58:48,364  [INFO]  ✅ Downloaded: assets/videos\7213091.mp4
+2026-06-06 10:58:48,366  [INFO]  🎥 Scene 2 bg: 'brain neuron mind'
+2026-06-06 10:58:54,047  [INFO]  ⬇️  Downloading Pexels video: control now unknowingly
+2026-06-06 10:59:11,401  [INFO]  ✅ Downloaded: assets/videos\7328516.mp4
+2026-06-06 10:59:11,404  [INFO]  🎥 Scene 3 bg: 'control now unknowingly'
+2026-06-06 10:59:18,426  [INFO]  ⬇️  Downloading Pexels video: you're think are
+2026-06-06 10:59:23,746  [INFO]  ✅ Downloaded: assets/videos\18504176.mp4
+2026-06-06 10:59:23,748  [INFO]  🎥 Scene 4 bg: 'you're think are'
+2026-06-06 10:59:28,082  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-06 11:00:26,406  [INFO]  ✅ Downloaded: assets/videos\35782228.mp4
+2026-06-06 11:00:26,408  [INFO]  🎥 Scene 5 bg: 'follow kept'
+2026-06-06 11:00:30,148  [INFO]  🎞️  Concatenating scenes…
+2026-06-06 11:00:31,671  [INFO]  💾 Rendering final video…
+2026-06-06 11:05:40,973  [INFO]  ✅ Done → output\20260606_105752_The mirroring secret nobody talks about.mp4
+2026-06-06 11:05:41,919  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 11:05:44,284  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 11:05:44,392  [INFO]  📤 Uploading to YouTube: The Mirroring Secret Nobody Talks About #Shorts
+2026-06-06 11:05:54,943  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/Z0eURm7E56U
+2026-06-06 11:05:54,967  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/Z0eURm7E56U  |  Instagram: N/A
+2026-06-06 11:05:54,971  [INFO]  🗑️  Deleted output: 20260606_105752_The mirroring secret nobody talks about.mp4
+2026-06-06 11:05:54,992  [INFO]  🗑️  Cleared Pexels cache — freed 161.6 MB
+2026-06-06 11:05:54,992  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 11:05:54,992  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 17:16:44,931  [INFO]  ============================================================
+2026-06-06 17:16:44,932  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 17:16:44,932  [INFO]    Posting 5 video(s) per day
+2026-06-06 17:16:44,932  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies
+2026-06-06 17:16:44,932  [INFO]  ============================================================
+2026-06-06 17:16:44,933  [INFO]  ⏰ Scheduled post #1 at 08:58
+2026-06-06 17:16:44,933  [INFO]  ⏰ Scheduled post #2 at 12:07
+2026-06-06 17:16:44,933  [INFO]  ⏰ Scheduled post #3 at 15:10
+2026-06-06 17:16:44,934  [INFO]  ⏰ Scheduled post #4 at 17:06
+2026-06-06 17:16:44,934  [INFO]  ⏰ Scheduled post #5 at 20:14
+2026-06-06 17:16:44,934  [INFO]  --now flag detected, posting immediately…
+2026-06-06 17:16:44,934  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 17:16:44,934  [INFO]  🚀 Starting pipeline…
+2026-06-06 17:16:48,185  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-06 17:16:48,186  [INFO]  📌 Topic: The shocking truth about Inception  |  Niche: relatable
+2026-06-06 17:16:49,212  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 17:16:49,231  [INFO]  ✅ Script written (75 words)
+2026-06-06 17:16:49,231  [INFO]  📝 Script:
+Nobody survived to tell this The shocking truth about Inception story. Almost.
+
+You feel lost, you feel trapped, in dreams.
+You question what is real, what is not.
+
+Your mind plays tricks on you, alwa…
+2026-06-06 17:16:49,231  [INFO]  🎬 Building animated video: The shocking truth about Inception
+2026-06-06 17:16:55,780  [INFO]  🎤 Audio: 28.0s
+2026-06-06 17:16:56,077  [INFO]  ⬇️  Downloading Pexels video: nobody survived tell
+2026-06-06 17:17:51,847  [INFO]  ✅ Downloaded: assets/videos\7188844.mp4
+2026-06-06 17:17:51,849  [INFO]  🎥 Scene 1 bg: 'nobody survived tell'
+2026-06-06 17:17:58,331  [INFO]  ⬇️  Downloading Pexels video: dream surreal abstract
+2026-06-06 17:18:59,501  [INFO]  ✅ Downloaded: assets/videos\36604206.mp4
+2026-06-06 17:18:59,503  [INFO]  🎥 Scene 2 bg: 'dream surreal abstract'
+2026-06-06 17:19:05,097  [INFO]  ⬇️  Downloading Pexels video: time clock timelapse
+2026-06-06 17:19:06,897  [INFO]  ✅ Downloaded: assets/videos\11267667.mp4
+2026-06-06 17:19:06,899  [INFO]  🎥 Scene 3 bg: 'time clock timelapse'
+2026-06-06 17:19:11,562  [INFO]  ⬇️  Downloading Pexels video: feel like cobb
+2026-06-06 17:20:27,717  [INFO]  ✅ Downloaded: assets/videos\37628070.mp4
+2026-06-06 17:20:27,718  [INFO]  🎥 Scene 4 bg: 'feel like cobb'
+2026-06-06 17:20:33,001  [INFO]  ⬇️  Downloading Pexels video: realize alone ever
+2026-06-06 17:21:02,593  [INFO]  ✅ Downloaded: assets/videos\10366519.mp4
+2026-06-06 17:21:02,595  [INFO]  🎥 Scene 5 bg: 'realize alone ever'
+2026-06-06 17:21:07,526  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-06 17:22:16,552  [INFO]  ✅ Downloaded: assets/videos\35782228.mp4
+2026-06-06 17:22:16,555  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-06 17:22:19,607  [INFO]  🎞️  Concatenating scenes…
+2026-06-06 17:22:21,068  [INFO]  💾 Rendering final video…
+2026-06-06 17:29:49,712  [INFO]  ✅ Done → output\20260606_171649_The shocking truth about Inception.mp4
+2026-06-06 17:29:50,962  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 17:29:52,481  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 17:29:52,502  [INFO]  📤 Uploading to YouTube: The Shocking Truth About Inception #Shorts
+2026-06-06 17:30:12,044  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/YY_HJABcKM8
+2026-06-06 17:30:12,060  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/YY_HJABcKM8  |  Instagram: N/A
+2026-06-06 17:30:12,064  [INFO]  🗑️  Deleted output: 20260606_171649_The shocking truth about Inception.mp4
+2026-06-06 17:30:12,094  [INFO]  🗑️  Cleared Pexels cache — freed 315.6 MB
+2026-06-06 17:30:12,095  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 17:30:12,095  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 20:13:03,564  [INFO]  ============================================================
+2026-06-06 20:13:03,564  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 20:13:03,564  [INFO]    Posting 5 video(s) per day
+2026-06-06 20:13:03,564  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies
+2026-06-06 20:13:03,564  [INFO]  ============================================================
+2026-06-06 20:13:03,565  [INFO]  ⏰ Scheduled post #1 at 08:53
+2026-06-06 20:13:03,565  [INFO]  ⏰ Scheduled post #2 at 12:02
+2026-06-06 20:13:03,565  [INFO]  ⏰ Scheduled post #3 at 15:07
+2026-06-06 20:13:03,565  [INFO]  ⏰ Scheduled post #4 at 17:01
+2026-06-06 20:13:03,565  [INFO]  ⏰ Scheduled post #5 at 19:53
+2026-06-06 20:13:03,565  [INFO]  --now flag detected, posting immediately…
+2026-06-06 20:13:03,566  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 20:13:03,566  [INFO]  🚀 Starting pipeline…
+2026-06-06 20:13:06,585  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-06 20:13:06,587  [INFO]  📌 Topic: Why you've been doing the psychology of loneliness wrong your whole life  |  Niche: psychology
+2026-06-06 20:13:07,229  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 20:13:07,238  [INFO]  ✅ Script written (42 words)
+2026-06-06 20:13:07,238  [INFO]  📝 Script:
+Nobody survived to tell this story. Almost.
+
+You feel alone, always. 
+You hide it well.
+
+Your mind tricks you, 
+it says you're okay.
+
+You're not okay, 
+your loneliness grows.
+
+It's inside you now, 
+it…
+2026-06-06 20:13:07,238  [INFO]  🎬 Building animated video: Why you've been doing the psychology of loneliness wrong your whole life
+2026-06-06 20:13:10,690  [INFO]  🎤 Audio: 19.1s
+2026-06-06 20:13:11,005  [INFO]  ⬇️  Downloading Pexels video: nobody survived tell
+2026-06-06 20:14:04,726  [INFO]  ✅ Downloaded: assets/videos\7180355.mp4
+2026-06-06 20:14:04,728  [INFO]  🎥 Scene 1 bg: 'nobody survived tell'
+2026-06-06 20:14:09,345  [INFO]  ⬇️  Downloading Pexels video: feel alone always
+2026-06-06 20:14:29,549  [INFO]  ✅ Downloaded: assets/videos\7280524.mp4
+2026-06-06 20:14:29,551  [INFO]  🎥 Scene 2 bg: 'feel alone always'
+2026-06-06 20:14:34,283  [INFO]  ⬇️  Downloading Pexels video: mind tricks you
+2026-06-06 20:14:48,618  [INFO]  ✅ Downloaded: assets/videos\4662090.mp4
+2026-06-06 20:14:48,622  [INFO]  🎥 Scene 3 bg: 'mind tricks you'
+2026-06-06 20:14:52,932  [INFO]  ⬇️  Downloading Pexels video: you're okay loneliness
+2026-06-06 20:15:50,777  [INFO]  ✅ Downloaded: assets/videos\6756338.mp4
+2026-06-06 20:15:50,780  [INFO]  🎥 Scene 4 bg: 'you're okay loneliness'
+2026-06-06 20:15:54,787  [INFO]  ⬇️  Downloading Pexels video: it's inside now
+2026-06-06 20:16:33,527  [INFO]  ✅ Downloaded: assets/videos\6531803.mp4
+2026-06-06 20:16:33,529  [INFO]  🎥 Scene 5 bg: 'it's inside now'
+2026-06-06 20:16:36,919  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-06 20:16:39,740  [INFO]  ✅ Downloaded: assets/videos\7326651.mp4
+2026-06-06 20:16:39,742  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-06 20:16:42,096  [INFO]  🎞️  Concatenating scenes…
+2026-06-06 20:16:43,605  [INFO]  💾 Rendering final video…
+2026-06-06 20:23:19,091  [INFO]  ✅ Done → output\20260606_201307_Why you_ve been doing the psychology of .mp4
+2026-06-06 20:23:20,057  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 20:23:22,795  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 20:23:22,804  [INFO]  📤 Uploading to YouTube: Why You'Ve Been Doing The Psychology Of Loneliness Wrong Your Whole Life #Shorts
+2026-06-06 20:23:31,934  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/ijbK37Rtv4g
+2026-06-06 20:23:31,940  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/ijbK37Rtv4g  |  Instagram: N/A
+2026-06-06 20:23:31,943  [INFO]  🗑️  Deleted output: 20260606_201307_Why you_ve been doing the psychology of .mp4
+2026-06-06 20:23:31,966  [INFO]  🗑️  Cleared Pexels cache — freed 232.1 MB
+2026-06-06 20:23:31,967  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 20:23:31,967  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.

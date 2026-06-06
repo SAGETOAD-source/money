@@ -1,0 +1,12 @@
+anthropic>=0.40.0
+pytrends>=4.9.2
+edge-tts>=6.1.12
+moviepy>=1.0.3
+Pillow>=10.0.0
+numpy>=1.24.0
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.100.0
+instagrapi>=2.0.0
+schedule>=1.2.1
+requests>=2.31.0
+httpx>=0.24.0
