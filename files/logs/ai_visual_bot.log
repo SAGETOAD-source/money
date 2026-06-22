@@ -1,0 +1,122 @@
+2026-06-11 12:19:27,715  [INFO]  ==================================================
+2026-06-11 12:19:27,715  [INFO]    AI VISUAL BOT — 2 videos/day
+2026-06-11 12:19:27,716  [INFO]  ==================================================
+2026-06-11 12:19:27,716  [INFO]  ⏰ Scheduled at 11:00
+2026-06-11 12:19:27,716  [INFO]  ⏰ Scheduled at 18:00
+2026-06-11 12:19:27,716  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:19:27,716  [INFO]  🤖 AI Visual pipeline starting...
+2026-06-11 12:19:27,716  [INFO]  🎬 AI Visual | Niche: bollywood movies
+2026-06-11 12:19:29,071  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-11 12:19:29,082  [INFO]  ✅ Topic: Nobody Knows
+2026-06-11 12:19:29,082  [INFO]  📋 Title: Nobody Knows
+2026-06-11 12:19:29,082  [INFO]  🎣 Hook: Bollywood's Darkest Secret?
+2026-06-11 12:19:29,083  [INFO]  🎨 Generating hook image...
+2026-06-11 12:19:29,102  [INFO]  🎨 ComfyUI queued scene 1 — prompt_id: 8b15d555-a12a-4ced-8272-aa04827fd1fc
+2026-06-11 12:19:37,268  [INFO]  ✅ Scene 1 image saved: assets/ai_frames/20260611_121929\scene_00.png
+2026-06-11 12:19:37,285  [INFO]  🗑️  Deleted ComfyUI output: scene_00_00001_.png
+2026-06-11 12:19:42,221  [INFO]  🎨 Generating scene 1/5: What's hidden?...
+2026-06-11 12:19:42,237  [INFO]  🎨 ComfyUI queued scene 2 — prompt_id: 1f094f18-cb74-49d5-b17b-dbda1ec98e80
+2026-06-11 12:19:49,365  [INFO]  ✅ Scene 2 image saved: assets/ai_frames/20260611_121929\scene_01.png
+2026-06-11 12:19:49,369  [INFO]  🗑️  Deleted ComfyUI output: scene_01_00001_.png
+2026-06-11 12:19:58,156  [INFO]  🎨 Generating scene 2/5: Stars involved?...
+2026-06-11 12:19:58,180  [INFO]  🎨 ComfyUI queued scene 3 — prompt_id: cbfdd550-bcde-492b-bec7-96054af3e988
+2026-06-11 12:20:04,469  [INFO]  ✅ Scene 3 image saved: assets/ai_frames/20260611_121929\scene_02.png
+2026-06-11 12:20:04,496  [INFO]  🗑️  Deleted ComfyUI output: scene_02_00001_.png
+2026-06-11 12:20:13,018  [INFO]  🎨 Generating scene 3/5: It's about casting...
+2026-06-11 12:20:13,035  [INFO]  🎨 ComfyUI queued scene 4 — prompt_id: 3cfa3f61-69b2-4319-90ad-7aead3efc9de
+2026-06-11 12:20:20,193  [INFO]  ✅ Scene 4 image saved: assets/ai_frames/20260611_121929\scene_03.png
+2026-06-11 12:20:20,209  [INFO]  🗑️  Deleted ComfyUI output: scene_03_00001_.png
+2026-06-11 12:20:26,621  [INFO]  🎨 Generating scene 4/5: But at what cost?...
+2026-06-11 12:20:26,645  [INFO]  🎨 ComfyUI queued scene 5 — prompt_id: 7e653269-b7e4-4514-a50d-6d078659c99b
+2026-06-11 12:20:33,760  [INFO]  ✅ Scene 5 image saved: assets/ai_frames/20260611_121929\scene_04.png
+2026-06-11 12:20:33,764  [INFO]  🗑️  Deleted ComfyUI output: scene_04_00001_.png
+2026-06-11 12:20:40,586  [INFO]  🎨 Generating scene 5/5: Lives ruined?...
+2026-06-11 12:20:40,610  [INFO]  🎨 ComfyUI queued scene 6 — prompt_id: b98f6a64-b988-4f73-be59-cbed80751224
+2026-06-11 12:20:49,783  [INFO]  ✅ Scene 6 image saved: assets/ai_frames/20260611_121929\scene_05.png
+2026-06-11 12:20:49,812  [INFO]  🗑️  Deleted ComfyUI output: scene_05_00001_.png
+2026-06-11 12:20:56,368  [INFO]  🎨 ComfyUI queued scene 7 — prompt_id: 5f0ae916-97cf-4222-b147-4699f559d4bf
+2026-06-11 12:21:05,525  [INFO]  ✅ Scene 7 image saved: assets/ai_frames/20260611_121929\scene_06.png
+2026-06-11 12:21:05,552  [INFO]  🗑️  Deleted ComfyUI output: scene_06_00001_.png
+2026-06-11 12:21:09,142  [INFO]  🎞️  Building video (735 frames)...
+2026-06-11 12:21:11,843  [INFO]  🎤 Voice: 13.8s
+2026-06-11 12:21:19,430  [INFO]  ✅ AI Visual saved: output\ai_visual_20260611_121927.mp4
+2026-06-11 12:21:19,569  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\google\api_core\_python_version_support.py:255: FutureWarning: You are using a Python version (3.10.11) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+
+2026-06-11 12:21:19,788  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-11 12:21:19,792  [INFO]  📤 Uploading to YouTube: Nobody Knows #Shorts
+2026-06-11 12:21:26,175  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/F-kMZz8MO0c
+2026-06-11 12:21:26,175  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/F-kMZz8MO0c
+2026-06-11 12:21:36,192  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-11 12:21:51,724  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781160710/autoshorts/p9cmqlyzcfmwgh1ymba0.mp4
+2026-06-11 12:21:51,724  [INFO]  📤 Creating Instagram Reel container…
+2026-06-11 12:21:52,595  [INFO]  📦 Container created: 18113480956714875
+2026-06-11 12:21:58,087  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:22:03,443  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:22:08,837  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:22:14,261  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:22:19,608  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:22:25,011  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:22:30,355  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:22:35,786  [INFO]  ⏳ Container status: FINISHED
+2026-06-11 12:22:42,330  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18123179725660091/
+2026-06-11 12:22:43,027  [INFO]  🗑️  Cloudinary video deleted
+2026-06-11 12:22:43,029  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18123179725660091/
+2026-06-11 12:22:43,029  [INFO]  🎉 Done! YouTube: https://www.youtube.com/shorts/F-kMZz8MO0c | Instagram: https://www.instagram.com/reel/18123179725660091/
+2026-06-11 12:22:43,504  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:22:43,504  [INFO]  🤖 AI Visual Bot running.
+2026-06-13 23:53:05,339  [INFO]  ==================================================
+2026-06-13 23:53:05,339  [INFO]    AI VISUAL BOT — 2 videos/day
+2026-06-13 23:53:05,339  [INFO]  ==================================================
+2026-06-13 23:53:05,339  [INFO]  ⏰ Scheduled at 11:00
+2026-06-13 23:53:05,339  [INFO]  ⏰ Scheduled at 18:00
+2026-06-13 23:53:05,339  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-13 23:53:05,339  [INFO]  🤖 AI Visual pipeline starting...
+2026-06-13 23:53:05,339  [INFO]  🎬 Topic: what happens to your body in complete darkness for a week
+2026-06-13 23:53:07,214  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 23:53:07,232  [INFO]  ✅ Script: 7 Days in Darkness Will Shock You
+2026-06-13 23:53:07,232  [INFO]  🎣 Hook: Humans lose 3 pounds in complete darkness
+2026-06-13 23:53:07,233  [INFO]  🎨 Generating hook AI image...
+2026-06-13 23:53:07,243  [INFO]  🎨 ComfyUI queued scene 1 [01c40fea]
+2026-06-13 23:53:29,836  [INFO]  ✅ AI image scene 1 saved
+2026-06-13 23:53:36,234  [INFO]  🎬 Scene 1/5: Blind fish navigate 250 feet in darkness
+2026-06-13 23:53:36,235  [INFO]    🎨 AI image...
+2026-06-13 23:53:36,253  [INFO]  🎨 ComfyUI queued scene 2 [1636d6ca]
+2026-06-13 23:53:43,350  [INFO]  ✅ AI image scene 2 saved
+2026-06-13 23:53:53,255  [INFO]  🎬 Scene 2/5: Brain shrinks 10% in 1 week without light
+2026-06-13 23:53:53,255  [INFO]    🎥 Pexels clip: human brain MRI scan footage
+2026-06-13 23:54:25,023  [INFO]  🎥 Pexels clip: assets/ai_videos\7089597.mp4
+2026-06-13 23:54:55,850  [INFO]  🎬 Scene 3/5: Body temperature drops 2 degrees per day
+2026-06-13 23:54:55,850  [INFO]    🎨 AI image...
+2026-06-13 23:54:55,854  [INFO]  🎨 ComfyUI queued scene 4 [b246683f]
+2026-06-13 23:55:02,923  [INFO]  ✅ AI image scene 4 saved
+2026-06-13 23:55:12,222  [INFO]  🎬 Scene 4/5: Hallucinations occur in 90% of cases
+2026-06-13 23:55:12,223  [INFO]    🎥 Pexels clip: person experiencing hallucinations
+2026-06-13 23:56:05,163  [INFO]  🎥 Pexels clip: assets/ai_videos\7767332.mp4
+2026-06-13 23:56:38,127  [INFO]  🎬 Scene 5/5: Sanity lost after 168 hours alone
+2026-06-13 23:56:38,127  [INFO]    🎨 AI image...
+2026-06-13 23:56:38,138  [INFO]  🎨 ComfyUI queued scene 6 [ecfd74a3]
+2026-06-13 23:56:54,962  [INFO]  ✅ AI image scene 6 saved
+2026-06-13 23:57:29,303  [INFO]  🎥 Pexels clip: assets/ai_videos\32583497.mp4
+2026-06-13 23:57:43,384  [INFO]  🎞️  Building video (915 frames, 30.5s)...
+2026-06-13 23:57:46,934  [INFO]  🎤 Voice: 21.6s
+2026-06-13 23:58:07,124  [INFO]  ✅ AI Visual saved: output\ai_visual_20260613_235305.mp4
+2026-06-13 23:58:09,403  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-13 23:58:09,442  [INFO]  📤 Uploading to YouTube: 7 Days in Darkness Will Shock You #Shorts
+2026-06-13 23:58:22,265  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/wgjUVvrMNFM
+2026-06-13 23:58:22,265  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/wgjUVvrMNFM
+2026-06-13 23:58:29,130  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-13 23:58:45,432  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781375324/autoshorts/nkctdhzp52rg83zeuryr.mp4
+2026-06-13 23:58:45,432  [INFO]  📤 Creating Instagram Reel container…
+2026-06-13 23:58:46,665  [INFO]  📦 Container created: 18114066553714875
+2026-06-13 23:58:53,019  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 23:58:58,722  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 23:59:04,332  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 23:59:09,895  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 23:59:15,505  [INFO]  ⏳ Container status: FINISHED
+2026-06-13 23:59:21,880  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18051847994532356/
+2026-06-13 23:59:22,501  [INFO]  🗑️  Cloudinary video deleted
+2026-06-13 23:59:22,502  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18051847994532356/
+2026-06-13 23:59:22,503  [INFO]  🎉 Done! YouTube: https://www.youtube.com/shorts/wgjUVvrMNFM | Instagram: https://www.instagram.com/reel/18051847994532356/
+2026-06-13 23:59:22,933  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-13 23:59:22,933  [INFO]  🤖 AI Visual Bot running.

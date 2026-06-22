@@ -154,6 +154,22 @@ def upload_to_instagram(video_path: str, caption: str,
     media_id = pub_data["id"]
     url = f"https://www.instagram.com/reel/{media_id}/"
     logger.info(f"✅ Instagram upload done → {url}")
+
+    # Auto-delete from Cloudinary to save space
+    try:
+        import cloudinary
+        import cloudinary.uploader
+        cloudinary.config(cloud_name=cloud_name, api_key=api_key, api_secret=api_secret)
+        public_id = video_url.split("/upload/")[1].split(".")[0]
+        # Remove version prefix if present
+        parts = public_id.split("/")
+        if parts[0].startswith("v"):
+            public_id = "/".join(parts[1:])
+        cloudinary.uploader.destroy(public_id, resource_type="video")
+        logger.info(f"🗑️  Cloudinary video deleted")
+    except Exception as e:
+        logger.warning(f"Cloudinary delete failed: {e}")
+
     return {"id": media_id, "url": url}
 
 

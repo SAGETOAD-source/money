@@ -981,3 +981,1089 @@ it…
 2026-06-06 20:23:31,966  [INFO]  🗑️  Cleared Pexels cache — freed 232.1 MB
 2026-06-06 20:23:31,967  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2026-06-06 20:23:31,967  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 21:40:40,478  [INFO]  ============================================================
+2026-06-06 21:40:40,478  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 21:40:40,478  [INFO]    Posting 5 video(s) per day
+2026-06-06 21:40:40,478  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies
+2026-06-06 21:40:40,478  [INFO]  ============================================================
+2026-06-06 21:40:40,479  [INFO]  ⏰ Scheduled post #1 at 08:47
+2026-06-06 21:40:40,479  [INFO]  ⏰ Scheduled post #2 at 12:07
+2026-06-06 21:40:40,479  [INFO]  ⏰ Scheduled post #3 at 14:48
+2026-06-06 21:40:40,479  [INFO]  ⏰ Scheduled post #4 at 17:00
+2026-06-06 21:40:40,479  [INFO]  ⏰ Scheduled post #5 at 20:15
+2026-06-06 21:40:40,479  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-06 21:44:01,531  [INFO]  ============================================================
+2026-06-06 21:44:01,532  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-06 21:44:01,532  [INFO]    Posting 5 video(s) per day
+2026-06-06 21:44:01,532  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies
+2026-06-06 21:44:01,532  [INFO]  ============================================================
+2026-06-06 21:44:01,533  [INFO]  ⏰ Scheduled post #1 at 09:03
+2026-06-06 21:44:01,533  [INFO]  ⏰ Scheduled post #2 at 12:14
+2026-06-06 21:44:01,533  [INFO]  ⏰ Scheduled post #3 at 14:58
+2026-06-06 21:44:01,533  [INFO]  ⏰ Scheduled post #4 at 17:05
+2026-06-06 21:44:01,533  [INFO]  ⏰ Scheduled post #5 at 20:08
+2026-06-06 21:44:01,533  [INFO]  --now flag detected, posting immediately…
+2026-06-06 21:44:01,534  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 21:44:01,534  [INFO]  🚀 Starting pipeline…
+2026-06-06 21:44:03,917  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-06 21:44:03,918  [INFO]  📌 Topic: Nobody tells you this about The Dark Knight  |  Niche: facts
+2026-06-06 21:44:04,943  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 21:44:04,952  [INFO]  ✅ Script written (88 words)
+2026-06-06 21:44:04,953  [INFO]  📝 Script:
+This is the Nobody tells you this about The Dark Knight secret they buried.
+
+You know the film, but not truth.
+Heath Ledger's death was very strange.
+
+He died in New York, January 2008.
+His role was J…
+2026-06-06 21:44:04,953  [INFO]  🎬 Building animated video: Nobody tells you this about The Dark Knight
+2026-06-06 21:44:12,861  [INFO]  🎤 Audio: 29.9s
+2026-06-06 21:44:14,164  [INFO]  ⬇️  Downloading Pexels video: nobody tells dark
+2026-06-06 21:44:19,133  [INFO]  ✅ Downloaded: assets/videos\34279707.mp4
+2026-06-06 21:44:19,135  [INFO]  🎥 Scene 1 bg: 'nobody tells dark'
+2026-06-06 21:44:24,989  [INFO]  ⬇️  Downloading Pexels video: know film truth
+2026-06-06 21:44:52,235  [INFO]  ✅ Downloaded: assets/videos\36801755.mp4
+2026-06-06 21:44:52,238  [INFO]  🎥 Scene 2 bg: 'know film truth'
+2026-06-06 21:44:57,310  [INFO]  ⬇️  Downloading Pexels video: died york january
+2026-06-06 21:45:28,018  [INFO]  ✅ Downloaded: assets/videos\19701172.mp4
+2026-06-06 21:45:28,020  [INFO]  🎥 Scene 3 bg: 'died york january'
+2026-06-06 21:45:32,005  [INFO]  ⬇️  Downloading Pexels video: feel eerie connection
+2026-06-06 21:45:41,353  [INFO]  ✅ Downloaded: assets/videos\34016972.mp4
+2026-06-06 21:45:41,355  [INFO]  🎥 Scene 4 bg: 'feel eerie connection'
+2026-06-06 21:45:46,335  [INFO]  ⬇️  Downloading Pexels video: makes wonder fate
+2026-06-06 21:46:49,448  [INFO]  ✅ Downloaded: assets/videos\7181718.mp4
+2026-06-06 21:46:49,450  [INFO]  🎥 Scene 5 bg: 'makes wonder fate'
+2026-06-06 21:46:54,932  [INFO]  ⬇️  Downloading Pexels video: hidden know changes
+2026-06-06 21:47:00,703  [INFO]  ✅ Downloaded: assets/videos\33315117.mp4
+2026-06-06 21:47:00,706  [INFO]  🎥 Scene 6 bg: 'hidden know changes'
+2026-06-06 21:47:05,026  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-06 21:47:54,624  [INFO]  ✅ Downloaded: assets/videos\35782095.mp4
+2026-06-06 21:47:54,639  [INFO]  🎥 Scene 7 bg: 'follow kept'
+2026-06-06 21:48:02,711  [INFO]  🎞️  Concatenating scenes…
+2026-06-06 21:48:04,711  [INFO]  💾 Rendering final video…
+2026-06-09 23:14:07,286  [INFO]  ============================================================
+2026-06-09 23:14:07,287  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-09 23:14:07,289  [INFO]    Posting 5 video(s) per day
+2026-06-09 23:14:07,289  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies
+2026-06-09 23:14:07,289  [INFO]  ============================================================
+2026-06-09 23:14:07,289  [INFO]  ⏰ Scheduled post #1 at 09:00
+2026-06-09 23:14:07,290  [INFO]  ⏰ Scheduled post #2 at 12:14
+2026-06-09 23:14:07,290  [INFO]  ⏰ Scheduled post #3 at 15:10
+2026-06-09 23:14:07,290  [INFO]  ⏰ Scheduled post #4 at 16:52
+2026-06-09 23:14:07,290  [INFO]  ⏰ Scheduled post #5 at 20:10
+2026-06-09 23:14:07,290  [INFO]  --now flag detected, posting immediately…
+2026-06-09 23:14:07,290  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-09 23:14:07,290  [INFO]  🚀 Starting pipeline…
+2026-06-09 23:14:10,360  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-09 23:14:10,361  [INFO]  📌 Topic: Why you've been doing The Dark Knight wrong your whole life  |  Niche: relatable
+2026-06-09 23:14:12,602  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-09 23:14:12,625  [INFO]  ✅ Script written (56 words)
+2026-06-09 23:14:12,625  [INFO]  📝 Script:
+Nobody survived to tell this story. Almost.
+
+You think you know Batman, 
+you think you know the Joker.
+
+You've been misled, 
+you've been lied to.
+
+The truth is, you're the Joker, 
+you're the chaos.
+
+Y…
+2026-06-09 23:14:12,626  [INFO]  🎬 Building animated video: Why you've been doing The Dark Knight wrong your whole life
+2026-06-09 23:14:16,790  [INFO]  🎤 Audio: 22.7s
+2026-06-09 23:14:18,244  [INFO]  ⬇️  Downloading Pexels video: nobody survived tell
+2026-06-09 23:15:47,411  [INFO]  ✅ Downloaded: assets/videos\7180355.mp4
+2026-06-09 23:15:47,413  [INFO]  🎥 Scene 1 bg: 'nobody survived tell'
+2026-06-09 23:15:52,537  [INFO]  ⬇️  Downloading Pexels video: think know batman
+2026-06-09 23:15:58,617  [INFO]  ✅ Downloaded: assets/videos\31252867.mp4
+2026-06-09 23:15:58,619  [INFO]  🎥 Scene 2 bg: 'think know batman'
+2026-06-09 23:16:04,897  [INFO]  ⬇️  Downloading Pexels video: you've misled you've
+2026-06-09 23:17:00,148  [INFO]  ✅ Downloaded: assets/videos\7183204.mp4
+2026-06-09 23:17:00,162  [INFO]  🎥 Scene 3 bg: 'you've misled you've'
+2026-06-09 23:17:07,280  [INFO]  ⬇️  Downloading Pexels video: you're joker you're
+2026-06-09 23:17:58,966  [INFO]  ✅ Downloaded: assets/videos\10507428.mp4
+2026-06-09 23:17:58,968  [INFO]  🎥 Scene 4 bg: 'you're joker you're'
+2026-06-09 23:18:02,968  [INFO]  ⬇️  Downloading Pexels video: crave darkness need
+2026-06-09 23:18:29,423  [INFO]  ✅ Downloaded: assets/videos\35088454.mp4
+2026-06-09 23:18:29,443  [INFO]  🎥 Scene 5 bg: 'crave darkness need'
+2026-06-09 23:18:34,060  [INFO]  ⬇️  Downloading Pexels video: you're hero you're
+2026-06-09 23:18:53,263  [INFO]  ✅ Downloaded: assets/videos\8688881.mp4
+2026-06-09 23:18:53,266  [INFO]  🎥 Scene 6 bg: 'you're hero you're'
+2026-06-09 23:18:56,877  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-09 23:19:10,743  [INFO]  ✅ Downloaded: assets/videos\35799015.mp4
+2026-06-09 23:19:10,759  [INFO]  🎥 Scene 7 bg: 'follow kept'
+2026-06-09 23:19:13,742  [INFO]  🎞️  Concatenating scenes…
+2026-06-09 23:19:15,402  [INFO]  💾 Rendering final video…
+2026-06-09 23:27:09,949  [INFO]  ✅ Done → output\20260609_231412_Why you_ve been doing The Dark Knight wr.mp4
+2026-06-09 23:27:10,922  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-09 23:27:14,073  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-09 23:27:14,130  [INFO]  📤 Uploading to YouTube: Why You'Ve Been Doing The Dark Knight Wrong Your Whole Life #Shorts
+2026-06-09 23:27:30,198  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/Nfitcl1ayew
+2026-06-09 23:27:30,228  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/Nfitcl1ayew  |  Instagram: N/A
+2026-06-09 23:27:30,233  [INFO]  🗑️  Deleted output: 20260609_231412_Why you_ve been doing The Dark Knight wr.mp4
+2026-06-09 23:27:30,285  [INFO]  🗑️  Cleared Pexels cache — freed 427.7 MB
+2026-06-09 23:27:30,285  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-09 23:27:30,286  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 02:15:44,209  [INFO]  ============================================================
+2026-06-10 02:15:44,209  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 02:15:44,210  [INFO]    Posting 5 video(s) per day
+2026-06-10 02:15:44,210  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies
+2026-06-10 02:15:44,210  [INFO]  ============================================================
+2026-06-10 02:15:44,211  [INFO]  ⏰ Scheduled post #1 at 08:56
+2026-06-10 02:15:44,211  [INFO]  ⏰ Scheduled post #2 at 12:08
+2026-06-10 02:15:44,211  [INFO]  ⏰ Scheduled post #3 at 14:48
+2026-06-10 02:15:44,212  [INFO]  ⏰ Scheduled post #4 at 17:03
+2026-06-10 02:15:44,212  [INFO]  ⏰ Scheduled post #5 at 19:50
+2026-06-10 02:15:44,212  [INFO]  --now flag detected, posting immediately…
+2026-06-10 02:15:44,212  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 02:15:44,212  [INFO]  🚀 Starting pipeline…
+2026-06-10 02:15:48,562  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 02:15:48,564  [INFO]  📌 Topic: The shocking truth about the dark web  |  Niche: relatable
+2026-06-10 02:15:49,315  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:15:49,339  [INFO]  ✅ Script written (66 words)
+2026-06-10 02:15:49,339  [INFO]  📝 Script:
+The psychology behind The shocking truth about the dark web is terrifying.
+
+You feel curious, you search deep. 
+You find things you wish unseen.
+
+Your deepest fears are exposed now. 
+You are not alone…
+2026-06-10 02:15:49,340  [INFO]  🎬 Building animated video: The shocking truth about the dark web
+2026-06-10 02:15:53,088  [INFO]  🎤 Audio: 23.4s
+2026-06-10 02:15:54,499  [INFO]  ⬇️  Downloading Pexels video: psychology behind shocking
+2026-06-10 02:16:04,151  [INFO]  ✅ Downloaded: assets/videos\8628058.mp4
+2026-06-10 02:16:04,156  [INFO]  🎥 Scene 1 bg: 'psychology behind shocking'
+2026-06-10 02:16:16,660  [INFO]  ⬇️  Downloading Pexels video: feel curious search
+2026-06-10 02:17:08,417  [INFO]  ✅ Downloaded: assets/videos\8513465.mp4
+2026-06-10 02:17:08,419  [INFO]  🎥 Scene 2 bg: 'feel curious search'
+2026-06-10 02:17:12,949  [INFO]  ⬇️  Downloading Pexels video: deepest fears exposed
+2026-06-10 02:17:51,060  [INFO]  ✅ Downloaded: assets/videos\8458499.mp4
+2026-06-10 02:17:51,062  [INFO]  🎥 Scene 3 bg: 'deepest fears exposed'
+2026-06-10 02:17:55,477  [INFO]  ⬇️  Downloading Pexels video: think you're safe
+2026-06-10 02:18:14,540  [INFO]  ✅ Downloaded: assets/videos\6520219.mp4
+2026-06-10 02:18:14,542  [INFO]  🎥 Scene 4 bg: 'think you're safe'
+2026-06-10 02:18:19,749  [INFO]  ⬇️  Downloading Pexels video: forget can't secrets
+2026-06-10 02:18:26,021  [INFO]  ✅ Downloaded: assets/videos\12343457.mp4
+2026-06-10 02:18:26,023  [INFO]  🎥 Scene 5 bg: 'forget can't secrets'
+2026-06-10 02:18:29,357  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 02:19:28,959  [INFO]  ✅ Downloaded: assets/videos\35782228.mp4
+2026-06-10 02:19:28,965  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-10 02:19:35,281  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 02:19:36,800  [INFO]  💾 Rendering final video…
+2026-06-10 02:26:42,680  [INFO]  ✅ Done → output\20260610_021549_The shocking truth about the dark web.mp4
+2026-06-10 02:26:43,553  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:26:46,555  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 02:26:46,640  [INFO]  📤 Uploading to YouTube: The Shocking Truth About The Dark Web #Shorts
+2026-06-10 02:27:01,502  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/fqsYmrg2OAM
+2026-06-10 02:27:01,540  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/fqsYmrg2OAM  |  Instagram: N/A
+2026-06-10 02:27:01,545  [INFO]  🗑️  Deleted output: 20260610_021549_The shocking truth about the dark web.mp4
+2026-06-10 02:27:01,571  [INFO]  🗑️  Cleared Pexels cache — freed 231.7 MB
+2026-06-10 02:27:01,572  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 02:27:01,572  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 11:50:24,362  [INFO]  ============================================================
+2026-06-10 11:50:24,362  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 11:50:24,362  [INFO]    Posting 5 video(s) per day
+2026-06-10 11:50:24,363  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 11:50:24,363  [INFO]  ============================================================
+2026-06-10 11:50:24,363  [INFO]  ⏰ Scheduled post #1 at 09:11
+2026-06-10 11:50:24,363  [INFO]  ⏰ Scheduled post #2 at 11:49
+2026-06-10 11:50:24,363  [INFO]  ⏰ Scheduled post #3 at 15:02
+2026-06-10 11:50:24,363  [INFO]  ⏰ Scheduled post #4 at 16:59
+2026-06-10 11:50:24,364  [INFO]  ⏰ Scheduled post #5 at 19:59
+2026-06-10 11:50:24,364  [INFO]  --now flag detected, posting immediately…
+2026-06-10 11:50:24,364  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 11:50:24,364  [INFO]  🚀 Starting pipeline…
+2026-06-10 11:50:27,647  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 11:50:27,650  [INFO]  📌 Topic: The the anxious-avoidant trap secret nobody talks about  |  Niche: relatable
+2026-06-10 11:50:28,887  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 11:50:29,425  [INFO]  ✅ Script written (90 words)
+2026-06-10 11:50:29,425  [INFO]  📝 Script:
+What they found about The anxious-avoidant trap secret nobody talks about was never made public.
+
+You feel stuck, you feel trapped, you feel alone.
+You wonder why you repeat the same patterns.
+
+Your m…
+2026-06-10 11:50:29,425  [INFO]  🎬 Building animated video: The the anxious-avoidant trap secret nobody talks about
+2026-06-10 11:50:34,824  [INFO]  🎤 Audio: 29.9s
+2026-06-10 11:50:35,739  [INFO]  ⬇️  Downloading Pexels video: found anxious-avoidant trap
+2026-06-10 11:51:02,693  [INFO]  ✅ Downloaded: assets/videos\8458585.mp4
+2026-06-10 11:51:02,695  [INFO]  🎥 Scene 1 bg: 'found anxious-avoidant trap'
+2026-06-10 11:51:09,529  [INFO]  ⬇️  Downloading Pexels video: feel stuck feel
+2026-06-10 11:51:21,630  [INFO]  ✅ Downloaded: assets/videos\7274281.mp4
+2026-06-10 11:51:21,632  [INFO]  🎥 Scene 2 bg: 'feel stuck feel'
+2026-06-10 11:51:26,954  [INFO]  ⬇️  Downloading Pexels video: mind maze you're
+2026-06-10 11:52:18,449  [INFO]  ✅ Downloaded: assets/videos\6491989.mp4
+2026-06-10 11:52:18,452  [INFO]  🎥 Scene 3 bg: 'mind maze you're'
+2026-06-10 11:52:34,626  [INFO]  ⬇️  Downloading Pexels video: heart pulse medical
+2026-06-10 11:52:40,271  [INFO]  ✅ Downloaded: assets/videos\9017885.mp4
+2026-06-10 11:52:40,273  [INFO]  🎥 Scene 4 bg: 'heart pulse medical'
+2026-06-10 11:52:54,798  [INFO]  ⬇️  Downloading Pexels video: you're trapped head
+2026-06-10 11:53:44,045  [INFO]  ✅ Downloaded: assets/videos\8458594.mp4
+2026-06-10 11:53:44,046  [INFO]  🎥 Scene 5 bg: 'you're trapped head'
+2026-06-10 11:53:59,011  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 11:54:02,574  [INFO]  ✅ Downloaded: assets/videos\7326651.mp4
+2026-06-10 11:54:02,576  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-10 11:54:07,807  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 11:54:10,131  [INFO]  💾 Rendering final video…
+2026-06-10 12:11:26,428  [INFO]  ✅ Done → output\20260610_115029_The the anxious-avoidant trap secret nob.mp4
+2026-06-10 12:11:27,512  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 12:11:29,705  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 12:11:29,722  [INFO]  📤 Uploading to YouTube: The The Anxious-Avoidant Trap Secret Nobody Talks About #Shorts
+2026-06-10 12:11:43,874  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/BHT14sv2UM0
+2026-06-10 12:11:43,919  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/BHT14sv2UM0  |  Instagram: N/A
+2026-06-10 12:11:43,928  [INFO]  🗑️  Deleted output: 20260610_115029_The the anxious-avoidant trap secret nob.mp4
+2026-06-10 12:11:43,991  [INFO]  🗑️  Cleared Pexels cache — freed 160.9 MB
+2026-06-10 12:11:43,992  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 12:11:43,993  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 15:54:30,295  [INFO]  ============================================================
+2026-06-10 15:54:30,296  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 15:54:30,297  [INFO]    Posting 5 video(s) per day
+2026-06-10 15:54:30,297  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 15:54:30,297  [INFO]  ============================================================
+2026-06-10 15:54:30,298  [INFO]  ⏰ Scheduled post #1 at 09:07
+2026-06-10 15:54:30,298  [INFO]  ⏰ Scheduled post #2 at 12:14
+2026-06-10 15:54:30,298  [INFO]  ⏰ Scheduled post #3 at 15:06
+2026-06-10 15:54:30,298  [INFO]  ⏰ Scheduled post #4 at 16:56
+2026-06-10 15:54:30,298  [INFO]  ⏰ Scheduled post #5 at 19:52
+2026-06-10 15:54:30,298  [INFO]  --now flag detected, posting immediately…
+2026-06-10 15:54:30,298  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 15:54:30,298  [INFO]  🚀 Starting pipeline…
+2026-06-10 15:54:33,332  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 15:54:33,335  [INFO]  📌 Topic: Why you've been doing attachment styles wrong your whole life  |  Niche: relationships
+2026-06-10 15:54:34,584  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:54:34,602  [INFO]  ✅ Script written (82 words)
+2026-06-10 15:54:34,602  [INFO]  📝 Script:
+This is the Why you've been doing attachment styles wrong your whole life secret they buried.
+
+You think you know yourself, your needs, your love. 
+You assume it's just you being you.
+
+Your attachment…
+2026-06-10 15:54:34,602  [INFO]  🎬 Building animated video: Why you've been doing attachment styles wrong your whole life
+2026-06-10 15:54:40,025  [INFO]  🎤 Audio: 26.5s
+2026-06-10 15:54:41,804  [INFO]  ⬇️  Downloading Pexels video: you've doing attachment
+2026-06-10 15:54:44,528  [INFO]  ✅ Downloaded: assets/videos\8135997.mp4
+2026-06-10 15:54:44,530  [INFO]  🎥 Scene 1 bg: 'you've doing attachment'
+2026-06-10 15:54:50,641  [INFO]  ⬇️  Downloading Pexels video: think know yourself
+2026-06-10 15:54:53,286  [INFO]  ✅ Downloaded: assets/videos\33213472.mp4
+2026-06-10 15:54:53,289  [INFO]  🎥 Scene 2 bg: 'think know yourself'
+2026-06-10 15:54:58,424  [INFO]  ⬇️  Downloading Pexels video: attachment style lie
+2026-06-10 15:55:03,723  [INFO]  ✅ Downloaded: assets/videos\9464489.mp4
+2026-06-10 15:55:03,725  [INFO]  🎥 Scene 3 bg: 'attachment style lie'
+2026-06-10 15:55:08,493  [INFO]  ⬇️  Downloading Pexels video: it's partner it's
+2026-06-10 15:55:11,155  [INFO]  ✅ Downloaded: assets/videos\7643319.mp4
+2026-06-10 15:55:11,157  [INFO]  🎥 Scene 4 bg: 'it's partner it's'
+2026-06-10 15:55:16,550  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-10 15:55:21,034  [INFO]  ✅ Downloaded: assets/videos\8087025.mp4
+2026-06-10 15:55:21,036  [INFO]  🎥 Scene 5 bg: 'artificial intelligence robot'
+2026-06-10 15:55:26,477  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 15:55:32,364  [INFO]  ✅ Downloaded: assets/videos\35782095.mp4
+2026-06-10 15:55:32,366  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-10 15:55:35,580  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 15:55:36,638  [INFO]  💾 Rendering final video…
+2026-06-10 16:06:16,484  [INFO]  ✅ Done → output\20260610_155434_Why you_ve been doing attachment styles .mp4
+2026-06-10 16:06:17,771  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 16:06:21,262  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 16:06:21,314  [INFO]  📤 Uploading to YouTube: Why You'Ve Been Doing Attachment Styles Wrong Your Whole Life #Shorts
+2026-06-10 16:06:34,900  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/vePZu8JC9to
+2026-06-10 16:06:34,934  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/vePZu8JC9to  |  Instagram: N/A
+2026-06-10 16:06:34,946  [INFO]  🗑️  Deleted output: 20260610_155434_Why you_ve been doing attachment styles .mp4
+2026-06-10 16:06:35,006  [INFO]  🗑️  Cleared Pexels cache — freed 215.8 MB
+2026-06-10 16:06:35,007  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 16:06:35,007  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 17:34:43,989  [INFO]  ============================================================
+2026-06-10 17:34:43,989  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 17:34:43,989  [INFO]    Posting 5 video(s) per day
+2026-06-10 17:34:43,990  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 17:34:43,990  [INFO]  ============================================================
+2026-06-10 17:34:43,990  [INFO]  ⏰ Scheduled post #1 at 08:56
+2026-06-10 17:34:43,990  [INFO]  ⏰ Scheduled post #2 at 12:01
+2026-06-10 17:34:43,990  [INFO]  ⏰ Scheduled post #3 at 14:46
+2026-06-10 17:34:43,990  [INFO]  ⏰ Scheduled post #4 at 16:58
+2026-06-10 17:34:43,990  [INFO]  ⏰ Scheduled post #5 at 19:55
+2026-06-10 17:34:43,991  [INFO]  --now flag detected, posting immediately…
+2026-06-10 17:34:43,991  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:34:43,991  [INFO]  🚀 Starting pipeline…
+2026-06-10 17:34:46,566  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 17:34:46,568  [INFO]  📌 Topic: The real reason Messi's brain works the way it does  |  Niche: facts
+2026-06-10 17:34:48,826  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:34:48,839  [INFO]  ✅ Script written (113 words)
+2026-06-10 17:34:48,840  [INFO]  📝 Script:
+The real reason Messi's brain works the way it does truth is darker than you think.
+
+You watch him play, you feel his skill, it's not normal, is it?
+His brain is wired, to see what you can't.
+
+He sees…
+2026-06-10 17:34:48,840  [INFO]  🎬 Building animated video: The real reason Messi's brain works the way it does
+2026-06-10 17:34:54,318  [INFO]  🎤 Audio: 35.0s
+2026-06-10 17:34:55,176  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-10 17:34:56,654  [INFO]  ✅ Downloaded: assets/videos\35163081.mp4
+2026-06-10 17:34:56,656  [INFO]  🎥 Scene 1 bg: 'brain neuron mind'
+2026-06-10 17:35:01,532  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-10 17:35:03,808  [INFO]  ✅ Downloaded: assets/videos\7213091.mp4
+2026-06-10 17:35:03,810  [INFO]  🎥 Scene 2 bg: 'brain neuron mind'
+2026-06-10 17:35:09,607  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-10 17:35:11,174  [INFO]  ✅ Downloaded: assets/videos\35003022.mp4
+2026-06-10 17:35:11,178  [INFO]  🎥 Scene 3 bg: 'brain neuron mind'
+2026-06-10 17:35:15,663  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-10 17:35:17,654  [INFO]  ✅ Downloaded: assets/videos\7213053.mp4
+2026-06-10 17:35:17,659  [INFO]  🎥 Scene 4 bg: 'brain neuron mind'
+2026-06-10 17:35:27,118  [INFO]  ⬇️  Downloading Pexels video: brain neuron mind
+2026-06-10 17:35:29,054  [INFO]  ✅ Downloaded: assets/videos\35010179.mp4
+2026-06-10 17:35:29,057  [INFO]  🎥 Scene 5 bg: 'brain neuron mind'
+2026-06-10 17:35:36,641  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 17:35:40,388  [INFO]  ✅ Downloaded: assets/videos\35782228.mp4
+2026-06-10 17:35:40,390  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-10 17:35:43,087  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 17:35:43,906  [INFO]  💾 Rendering final video…
+2026-06-10 17:45:45,011  [INFO]  ✅ Done → output\20260610_173448_The real reason Messi_s brain works the .mp4
+2026-06-10 17:45:46,345  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:45:47,859  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 17:45:47,868  [INFO]  📤 Uploading to YouTube: The Real Reason Messi'S Brain Works The Way It Does #Shorts
+2026-06-10 17:46:12,782  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/ufglQ2hNkOI
+2026-06-10 17:46:12,837  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/ufglQ2hNkOI  |  Instagram: N/A
+2026-06-10 17:46:12,844  [INFO]  🗑️  Deleted output: 20260610_173448_The real reason Messi_s brain works the .mp4
+2026-06-10 17:46:12,868  [INFO]  🗑️  Cleared Pexels cache — freed 171.8 MB
+2026-06-10 17:46:12,869  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:46:12,869  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 17:46:41,118  [INFO]  ============================================================
+2026-06-10 17:46:41,118  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 17:46:41,119  [INFO]    Posting 5 video(s) per day
+2026-06-10 17:46:41,119  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 17:46:41,119  [INFO]  ============================================================
+2026-06-10 17:46:41,120  [INFO]  ⏰ Scheduled post #1 at 09:06
+2026-06-10 17:46:41,120  [INFO]  ⏰ Scheduled post #2 at 11:53
+2026-06-10 17:46:41,121  [INFO]  ⏰ Scheduled post #3 at 15:08
+2026-06-10 17:46:41,121  [INFO]  ⏰ Scheduled post #4 at 16:55
+2026-06-10 17:46:41,121  [INFO]  ⏰ Scheduled post #5 at 19:51
+2026-06-10 17:46:41,122  [INFO]  --now flag detected, posting immediately…
+2026-06-10 17:46:41,122  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:46:41,122  [INFO]  🚀 Starting pipeline…
+2026-06-10 17:46:43,955  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 17:46:43,956  [INFO]  📌 Topic: Why you've been doing Neymar's dribbling technique wrong your whole life  |  Niche: football
+2026-06-10 17:46:44,764  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:46:44,776  [INFO]  ✅ Script written (57 words)
+2026-06-10 17:46:44,777  [INFO]  📝 Script:
+This fact will disturb you.
+
+You think you know Neymar.
+You try his moves daily.
+
+Neymar's technique is a lie.
+It's not what you think it is.
+
+You've been deceived by videos.
+Neymar's secret is in his…
+2026-06-10 17:46:44,777  [INFO]  🎬 Building animated video: Why you've been doing Neymar's dribbling technique wrong your whole life
+2026-06-10 17:46:48,590  [INFO]  🎤 Audio: 19.9s
+2026-06-10 17:46:49,631  [INFO]  ⬇️  Downloading Pexels video: disturb you
+2026-06-10 17:46:52,123  [INFO]  ✅ Downloaded: assets/videos\30784702.mp4
+2026-06-10 17:46:52,126  [INFO]  🎥 Scene 1 bg: 'disturb you'
+2026-06-10 17:46:56,080  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-10 17:47:01,624  [INFO]  ✅ Downloaded: assets/videos\8087080.mp4
+2026-06-10 17:47:01,626  [INFO]  🎥 Scene 2 bg: 'artificial intelligence robot'
+2026-06-10 17:47:08,770  [INFO]  ⬇️  Downloading Pexels video: neymar's technique lie
+2026-06-10 17:47:12,090  [INFO]  ✅ Downloaded: assets/videos\34452598.mp4
+2026-06-10 17:47:12,093  [INFO]  🎥 Scene 3 bg: 'neymar's technique lie'
+2026-06-10 17:47:17,482  [INFO]  ⬇️  Downloading Pexels video: you've deceived videos
+2026-06-10 17:47:19,658  [INFO]  ✅ Downloaded: assets/videos\37021581.mp4
+2026-06-10 17:47:19,660  [INFO]  🎥 Scene 4 bg: 'you've deceived videos'
+2026-06-10 17:47:24,972  [INFO]  ⬇️  Downloading Pexels video: feel like fake
+2026-06-10 17:47:30,390  [INFO]  ✅ Downloaded: assets/videos\7767536.mp4
+2026-06-10 17:47:30,392  [INFO]  🎥 Scene 5 bg: 'feel like fake'
+2026-06-10 17:47:35,497  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 17:47:36,691  [INFO]  ✅ Downloaded: assets/videos\7326651.mp4
+2026-06-10 17:47:36,692  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-10 17:47:39,156  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 17:47:40,341  [INFO]  💾 Rendering final video…
+2026-06-10 17:53:59,062  [INFO]  ✅ Done → output\20260610_174644_Why you_ve been doing Neymar_s dribbling.mp4
+2026-06-10 17:53:59,970  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:54:01,297  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 17:54:01,304  [INFO]  📤 Uploading to YouTube: Why You'Ve Been Doing Neymar'S Dribbling Technique Wrong Your Whole Life #Shorts
+2026-06-10 17:54:16,236  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/qJQ5uO0Q-ao
+2026-06-10 17:54:16,276  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/qJQ5uO0Q-ao  |  Instagram: N/A
+2026-06-10 17:54:16,279  [INFO]  🗑️  Deleted output: 20260610_174644_Why you_ve been doing Neymar_s dribbling.mp4
+2026-06-10 17:54:16,319  [INFO]  🗑️  Cleared Pexels cache — freed 264.4 MB
+2026-06-10 17:54:16,319  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:54:16,319  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 17:55:56,820  [INFO]  ============================================================
+2026-06-10 17:55:56,820  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 17:55:56,821  [INFO]    Posting 5 video(s) per day
+2026-06-10 17:55:56,821  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 17:55:56,821  [INFO]  ============================================================
+2026-06-10 17:55:56,821  [INFO]  ⏰ Scheduled post #1 at 09:04
+2026-06-10 17:55:56,821  [INFO]  ⏰ Scheduled post #2 at 12:00
+2026-06-10 17:55:56,821  [INFO]  ⏰ Scheduled post #3 at 14:53
+2026-06-10 17:55:56,822  [INFO]  ⏰ Scheduled post #4 at 16:47
+2026-06-10 17:55:56,822  [INFO]  ⏰ Scheduled post #5 at 20:11
+2026-06-10 17:55:56,822  [INFO]  --now flag detected, posting immediately…
+2026-06-10 17:55:56,822  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:55:56,822  [INFO]  🚀 Starting pipeline…
+2026-06-10 17:55:58,900  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 17:55:58,902  [INFO]  📌 Topic: Nobody tells you this about the secret training habits  |  Niche: mystery
+2026-06-10 17:56:00,743  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:56:00,753  [INFO]  ✅ Script written (268 words)
+2026-06-10 17:56:00,753  [INFO]  📝 Script:
+This is the Nobody tells you this about the secret training habits secret they buried.
+
+You're being lied to, every single day, about what it takes to be successful, to be the best, to have the upper …
+2026-06-10 17:56:00,753  [INFO]  🎬 Building animated video: Nobody tells you this about the secret training habits
+2026-06-10 17:56:07,742  [INFO]  🎤 Audio: 63.5s
+2026-06-10 17:56:08,447  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-10 17:56:11,529  [INFO]  ✅ Downloaded: assets/videos\8566826.mp4
+2026-06-10 17:56:11,531  [INFO]  🎥 Scene 1 bg: 'artificial intelligence robot'
+2026-06-10 17:56:15,795  [INFO]  ⬇️  Downloading Pexels video: success winner achievement
+2026-06-10 17:56:17,744  [INFO]  ✅ Downloaded: assets/videos\6265099.mp4
+2026-06-10 17:56:17,746  [INFO]  🎥 Scene 2 bg: 'success winner achievement'
+2026-06-10 17:56:37,515  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-10 17:56:40,503  [INFO]  ✅ Downloaded: assets/videos\8087014.mp4
+2026-06-10 17:56:40,505  [INFO]  🎥 Scene 3 bg: 'artificial intelligence robot'
+2026-06-10 17:57:08,335  [INFO]  ⬇️  Downloading Pexels video: workout gym fitness
+2026-06-10 17:57:14,590  [INFO]  ✅ Downloaded: assets/videos\37515281.mp4
+2026-06-10 17:57:14,592  [INFO]  🎥 Scene 4 bg: 'workout gym fitness'
+2026-06-10 17:58:00,149  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-10 17:58:06,080  [INFO]  ✅ Downloaded: assets/videos\8087080.mp4
+2026-06-10 17:58:06,083  [INFO]  🎥 Scene 5 bg: 'artificial intelligence robot'
+2026-06-10 17:59:06,329  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 17:59:10,334  [INFO]  ✅ Downloaded: assets/videos\35782228.mp4
+2026-06-10 17:59:10,340  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-10 17:59:14,517  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 17:59:15,983  [INFO]  💾 Rendering final video…
+2026-06-10 18:21:41,034  [INFO]  ✅ Done → output\20260610_175600_Nobody tells you this about the secret t.mp4
+2026-06-10 18:21:42,664  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 18:21:45,211  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 18:21:45,217  [INFO]  📤 Uploading to YouTube: Nobody Tells You This About The Secret Training Habits #Shorts
+2026-06-10 18:22:10,268  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/x2QYfWNaeMI
+2026-06-10 18:22:10,309  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/x2QYfWNaeMI  |  Instagram: N/A
+2026-06-10 18:22:10,314  [INFO]  🗑️  Deleted output: 20260610_175600_Nobody tells you this about the secret t.mp4
+2026-06-10 18:22:10,352  [INFO]  🗑️  Cleared Pexels cache — freed 430.5 MB
+2026-06-10 18:22:10,353  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 18:22:10,353  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 18:28:12,597  [INFO]  ============================================================
+2026-06-10 18:28:12,598  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 18:28:12,598  [INFO]    Posting 5 video(s) per day
+2026-06-10 18:28:12,598  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 18:28:12,598  [INFO]  ============================================================
+2026-06-10 18:28:12,598  [INFO]  ⏰ Scheduled post #1 at 08:58
+2026-06-10 18:28:12,599  [INFO]  ⏰ Scheduled post #2 at 12:06
+2026-06-10 18:28:12,599  [INFO]  ⏰ Scheduled post #3 at 15:04
+2026-06-10 18:28:12,599  [INFO]  ⏰ Scheduled post #4 at 17:14
+2026-06-10 18:28:12,599  [INFO]  ⏰ Scheduled post #5 at 20:11
+2026-06-10 18:28:12,599  [INFO]  --now flag detected, posting immediately…
+2026-06-10 18:28:12,600  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 18:28:12,600  [INFO]  🚀 Starting pipeline…
+2026-06-10 18:28:15,305  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 18:28:15,307  [INFO]  📌 Topic: Nobody tells you this about confirmation bias  |  Niche: psychology
+2026-06-10 18:28:16,194  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 18:28:16,208  [INFO]  ✅ Script written (87 words)
+2026-06-10 18:28:16,208  [INFO]  📝 Script:
+The Nobody tells you this about confirmation bias truth is darker than you think.
+
+You seek validation, you crave comfort, you ignore warnings.
+Your mind plays tricks, you see what you want.
+
+You are …
+2026-06-10 18:28:16,208  [INFO]  🎬 Building animated video: Nobody tells you this about confirmation bias
+2026-06-10 18:28:20,802  [INFO]  🎤 Audio: 29.1s
+2026-06-10 18:28:22,538  [INFO]  ⬇️  Downloading Pexels video: nobody tells confirmation
+2026-06-10 18:28:41,398  [INFO]  ✅ Downloaded: assets/videos\8089526.mp4
+2026-06-10 18:28:41,401  [INFO]  🎥 Scene 1 bg: 'nobody tells confirmation'
+2026-06-10 18:28:49,818  [INFO]  ⬇️  Downloading Pexels video: seek validation crave
+2026-06-10 18:28:52,942  [INFO]  ✅ Downloaded: assets/videos\6185622.mp4
+2026-06-10 18:28:52,943  [INFO]  🎥 Scene 2 bg: 'seek validation crave'
+2026-06-10 18:29:03,134  [INFO]  ⬇️  Downloading Pexels video: blind reality deny
+2026-06-10 18:29:07,560  [INFO]  ✅ Downloaded: assets/videos\8322932.mp4
+2026-06-10 18:29:07,562  [INFO]  🎥 Scene 3 bg: 'blind reality deny'
+2026-06-10 18:29:16,522  [INFO]  ⬇️  Downloading Pexels video: trapped world can't
+2026-06-10 18:29:19,899  [INFO]  ✅ Downloaded: assets/videos\3754902.mp4
+2026-06-10 18:29:19,901  [INFO]  🎥 Scene 4 bg: 'trapped world can't'
+2026-06-10 18:29:30,190  [INFO]  ⬇️  Downloading Pexels video: problem lie deceive
+2026-06-10 18:29:33,978  [INFO]  ✅ Downloaded: assets/videos\5197382.mp4
+2026-06-10 18:29:33,981  [INFO]  🎥 Scene 5 bg: 'problem lie deceive'
+2026-06-10 18:29:40,309  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 18:29:42,480  [INFO]  ✅ Downloaded: assets/videos\35799015.mp4
+2026-06-10 18:29:42,484  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-10 18:29:45,357  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 18:29:46,887  [INFO]  💾 Rendering final video…
+2026-06-10 18:39:49,814  [INFO]  ✅ Done → output\20260610_182816_Nobody tells you this about confirmation.mp4
+2026-06-10 18:39:50,818  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 18:39:52,472  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 18:39:52,482  [INFO]  📤 Uploading to YouTube: Nobody Tells You This About Confirmation Bias #Shorts
+2026-06-10 18:40:09,111  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/Tj5SaQEjY6o
+2026-06-10 18:40:09,147  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/Tj5SaQEjY6o  |  Instagram: N/A
+2026-06-10 18:40:09,150  [INFO]  🗑️  Deleted output: 20260610_182816_Nobody tells you this about confirmation.mp4
+2026-06-10 18:40:09,181  [INFO]  🗑️  Cleared Pexels cache — freed 290.5 MB
+2026-06-10 18:40:09,182  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 18:40:09,182  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 18:46:54,506  [INFO]  ============================================================
+2026-06-10 18:46:54,506  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 18:46:54,507  [INFO]    Posting 5 video(s) per day
+2026-06-10 18:46:54,507  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 18:46:54,507  [INFO]  ============================================================
+2026-06-10 18:46:54,507  [INFO]  ⏰ Scheduled post #1 at 09:14
+2026-06-10 18:46:54,507  [INFO]  ⏰ Scheduled post #2 at 11:46
+2026-06-10 18:46:54,507  [INFO]  ⏰ Scheduled post #3 at 14:45
+2026-06-10 18:46:54,507  [INFO]  ⏰ Scheduled post #4 at 16:45
+2026-06-10 18:46:54,507  [INFO]  ⏰ Scheduled post #5 at 20:09
+2026-06-10 18:46:54,508  [INFO]  --now flag detected, posting immediately…
+2026-06-10 18:46:54,508  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 18:46:54,508  [INFO]  🚀 Starting pipeline…
+2026-06-10 18:46:56,600  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 18:46:56,603  [INFO]  📌 Topic: 3 things about what happens to your consciousness that will blow your mind  |  Niche: movies
+2026-06-10 18:46:57,889  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 18:46:57,899  [INFO]  🎬 Movie script written (65 words)
+2026-06-10 18:46:57,899  [INFO]  📝 Script:
+Most people watched life and missed everything.
+
+Life seems simple, carefree, joyful.
+It's about living, loving, being happy.
+
+But beneath surface, dark truths lurk.
+Consciousness is fragile, fleeting…
+2026-06-10 18:46:57,899  [INFO]  🎬 Building animated video: 3 things about what happens to your consciousness that will blow your mind
+2026-06-10 18:47:02,318  [INFO]  🎤 Audio: 26.2s
+2026-06-10 18:47:03,521  [INFO]  ⬇️  Downloading Pexels video: most people watched
+2026-06-10 18:47:12,982  [INFO]  ✅ Downloaded: assets/videos\35583647.mp4
+2026-06-10 18:47:12,984  [INFO]  🎥 Scene 1 bg: 'most people watched'
+2026-06-10 18:47:16,163  [INFO]  ⬇️  Downloading Pexels video: life seems simple
+2026-06-10 18:47:18,994  [INFO]  ✅ Downloaded: assets/videos\36707295.mp4
+2026-06-10 18:47:18,997  [INFO]  🎥 Scene 2 bg: 'life seems simple'
+2026-06-10 18:47:23,543  [INFO]  ⬇️  Downloading Pexels video: beneath surface dark
+2026-06-10 18:47:25,537  [INFO]  ✅ Downloaded: assets/videos\19150811.mp4
+2026-06-10 18:47:25,540  [INFO]  🎥 Scene 3 bg: 'beneath surface dark'
+2026-06-10 18:47:32,851  [INFO]  ⬇️  Downloading Pexels video: silence fears revealed
+2026-06-10 18:47:36,465  [INFO]  ✅ Downloaded: assets/videos\6192962.mp4
+2026-06-10 18:47:36,468  [INFO]  🎥 Scene 4 bg: 'silence fears revealed'
+2026-06-10 18:47:41,353  [INFO]  ⬇️  Downloading Pexels video: life test inner
+2026-06-10 18:47:47,215  [INFO]  ✅ Downloaded: assets/videos\6473747.mp4
+2026-06-10 18:47:47,217  [INFO]  🎥 Scene 5 bg: 'life test inner'
+2026-06-10 18:47:53,011  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-10 18:47:56,614  [INFO]  ✅ Downloaded: assets/videos\8087025.mp4
+2026-06-10 18:47:56,616  [INFO]  🎥 Scene 6 bg: 'artificial intelligence robot'
+2026-06-10 18:48:00,602  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 18:48:01,532  [INFO]  💾 Rendering final video…
+2026-06-10 18:55:43,632  [INFO]  ✅ Done → output\20260610_184657_3 things about what happens to your cons.mp4
+2026-06-10 18:55:44,691  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 18:55:46,106  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 18:55:46,112  [INFO]  📤 Uploading to YouTube: 3 Things About What Happens To Your Consciousness That Will Blow Your Mind #Shorts
+2026-06-10 18:56:06,004  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/2KqNvm-u8t8
+2026-06-10 18:56:06,059  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/2KqNvm-u8t8  |  Instagram: N/A
+2026-06-10 18:56:06,064  [INFO]  🗑️  Deleted output: 20260610_184657_3 things about what happens to your cons.mp4
+2026-06-10 18:56:06,098  [INFO]  🗑️  Cleared Pexels cache — freed 213.7 MB
+2026-06-10 18:56:06,098  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 18:56:06,098  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 19:24:47,935  [INFO]  ============================================================
+2026-06-10 19:24:47,936  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-10 19:24:47,936  [INFO]    Posting 5 video(s) per day
+2026-06-10 19:24:47,936  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-10 19:24:47,936  [INFO]  ============================================================
+2026-06-10 19:24:47,937  [INFO]  ⏰ Scheduled post #1 at 09:08
+2026-06-10 19:24:47,938  [INFO]  ⏰ Scheduled post #2 at 12:15
+2026-06-10 19:24:47,938  [INFO]  ⏰ Scheduled post #3 at 14:59
+2026-06-10 19:24:47,938  [INFO]  ⏰ Scheduled post #4 at 16:54
+2026-06-10 19:24:47,938  [INFO]  ⏰ Scheduled post #5 at 19:47
+2026-06-10 19:24:47,938  [INFO]  --now flag detected, posting immediately…
+2026-06-10 19:24:47,938  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 19:24:47,939  [INFO]  🚀 Starting pipeline…
+2026-06-10 19:24:50,858  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 19:24:50,860  [INFO]  📌 Topic: Nobody tells you this about ancient civilizations  |  Niche: mystery
+2026-06-10 19:24:52,172  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 19:24:52,189  [INFO]  ✅ Script written (56 words)
+2026-06-10 19:24:52,189  [INFO]  📝 Script:
+Nobody survived to tell this story. Almost.
+
+You think you know the truth 
+about ancient secrets.
+
+ 
+You uncover hidden texts 
+in forbidden libraries.
+
+ 
+You find a cryptic map 
+leading to a lost city…
+2026-06-10 19:24:52,190  [INFO]  🎬 Building animated video: Nobody tells you this about ancient civilizations
+2026-06-10 19:24:56,378  [INFO]  🎤 Audio: 23.7s
+2026-06-10 19:24:57,306  [INFO]  ⬇️  Downloading Pexels video: nobody survived tell
+2026-06-10 19:25:02,247  [INFO]  ✅ Downloaded: assets/videos\7180355.mp4
+2026-06-10 19:25:02,251  [INFO]  🎥 Scene 1 bg: 'nobody survived tell'
+2026-06-10 19:25:07,542  [INFO]  ⬇️  Downloading Pexels video: ancient ruins history
+2026-06-10 19:25:12,321  [INFO]  ✅ Downloaded: assets/videos\30252979.mp4
+2026-06-10 19:25:12,324  [INFO]  🎥 Scene 2 bg: 'ancient ruins history'
+2026-06-10 19:25:17,803  [INFO]  ⬇️  Downloading Pexels video: uncover hidden texts
+2026-06-10 19:25:19,468  [INFO]  ✅ Downloaded: assets/videos\6962433.mp4
+2026-06-10 19:25:19,470  [INFO]  🎥 Scene 3 bg: 'uncover hidden texts'
+2026-06-10 19:25:24,243  [INFO]  ⬇️  Downloading Pexels video: city skyline urban
+2026-06-10 19:25:31,830  [INFO]  ✅ Downloaded: assets/videos\36407092.mp4
+2026-06-10 19:25:31,833  [INFO]  🎥 Scene 4 bg: 'city skyline urban'
+2026-06-10 19:25:37,352  [INFO]  ⬇️  Downloading Pexels video: realize you're first
+2026-06-10 19:25:38,989  [INFO]  ✅ Downloaded: assets/videos\6694256.mp4
+2026-06-10 19:25:38,992  [INFO]  🎥 Scene 5 bg: 'realize you're first'
+2026-06-10 19:25:44,312  [INFO]  ⬇️  Downloading Pexels video: it's hidden reason
+2026-06-10 19:25:50,163  [INFO]  ✅ Downloaded: assets/videos\34689565.mp4
+2026-06-10 19:25:50,167  [INFO]  🎥 Scene 6 bg: 'it's hidden reason'
+2026-06-10 19:25:54,770  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 19:25:57,969  [INFO]  ✅ Downloaded: assets/videos\36204276.mp4
+2026-06-10 19:25:57,971  [INFO]  🎥 Scene 7 bg: 'follow kept'
+2026-06-10 19:26:01,194  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 19:26:03,157  [INFO]  💾 Rendering final video…
+2026-06-10 19:33:45,706  [INFO]  ✅ Done → output\20260610_192452_Nobody tells you this about ancient civi.mp4
+2026-06-10 19:33:47,356  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 19:33:49,820  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 19:33:49,826  [INFO]  📤 Uploading to YouTube: Nobody Tells You This About Ancient Civilizations #Shorts
+2026-06-10 19:34:09,612  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/_mH7f-C7NJ4
+2026-06-10 19:34:09,707  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/_mH7f-C7NJ4  |  Instagram: N/A
+2026-06-10 19:34:09,715  [INFO]  🗑️  Deleted output: 20260610_192452_Nobody tells you this about ancient civi.mp4
+2026-06-10 19:34:09,764  [INFO]  🗑️  Cleared Pexels cache — freed 373.7 MB
+2026-06-10 19:34:09,765  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 19:34:09,765  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-10 19:47:09,782  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 19:47:09,782  [INFO]  🚀 Starting pipeline…
+2026-06-10 19:47:12,113  [WARNING]  ⚠️  Google Trends unavailable: The request failed: Google returned a response with code 404
+2026-06-10 19:47:12,114  [INFO]  📌 Topic: This Shutter Island trick changed everything for me  |  Niche: psychology
+2026-06-10 19:47:13,031  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 19:47:13,032  [INFO]  ✅ Script written (77 words)
+2026-06-10 19:47:13,033  [INFO]  📝 Script:
+This Shutter Island trick changed everything for me story will keep you up tonight.
+
+You feel lost, you feel alone, 
+you question your own mind.
+
+You see things, you hear voices, 
+you doubt your own s…
+2026-06-10 19:47:13,033  [INFO]  🎬 Building animated video: This Shutter Island trick changed everything for me
+2026-06-10 19:47:18,109  [INFO]  🎤 Audio: 27.7s
+2026-06-10 19:47:19,659  [INFO]  ⬇️  Downloading Pexels video: shutter island changed
+2026-06-10 19:47:24,376  [INFO]  ✅ Downloaded: assets/videos\5417148.mp4
+2026-06-10 19:47:24,379  [INFO]  🎥 Scene 1 bg: 'shutter island changed'
+2026-06-10 19:47:34,229  [INFO]  ⬇️  Downloading Pexels video: feel lost feel
+2026-06-10 19:47:36,202  [INFO]  ✅ Downloaded: assets/videos\26729293.mp4
+2026-06-10 19:47:36,204  [INFO]  🎥 Scene 2 bg: 'feel lost feel'
+2026-06-10 19:47:41,103  [INFO]  ⬇️  Downloading Pexels video: things hear voices
+2026-06-10 19:47:45,526  [INFO]  ✅ Downloaded: assets/videos\10466305.mp4
+2026-06-10 19:47:45,531  [INFO]  🎥 Scene 3 bg: 'things hear voices'
+2026-06-10 19:47:51,646  [INFO]  ⬇️  Downloading Pexels video: teddy daniels searching
+2026-06-10 19:47:55,006  [INFO]  ✅ Downloaded: assets/videos\10366725.mp4
+2026-06-10 19:47:55,009  [INFO]  🎥 Scene 4 bg: 'teddy daniels searching'
+2026-06-10 19:48:01,788  [INFO]  ⬇️  Downloading Pexels video: trapped mind can't
+2026-06-10 19:48:04,542  [INFO]  ✅ Downloaded: assets/videos\8458588.mp4
+2026-06-10 19:48:04,545  [INFO]  🎥 Scene 5 bg: 'trapped mind can't'
+2026-06-10 19:48:11,474  [INFO]  ⬇️  Downloading Pexels video: realize worst enemy
+2026-06-10 19:48:14,694  [INFO]  ✅ Downloaded: assets/videos\8458509.mp4
+2026-06-10 19:48:14,698  [INFO]  🎥 Scene 6 bg: 'realize worst enemy'
+2026-06-10 19:48:20,965  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-10 19:48:27,185  [INFO]  ✅ Downloaded: assets/videos\35782095.mp4
+2026-06-10 19:48:27,188  [INFO]  🎥 Scene 7 bg: 'follow kept'
+2026-06-10 19:48:30,886  [INFO]  🎞️  Concatenating scenes…
+2026-06-10 19:48:32,488  [INFO]  💾 Rendering final video…
+2026-06-12 17:02:09,807  [INFO]  ============================================================
+2026-06-12 17:02:09,807  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-12 17:02:09,809  [INFO]    Posting 5 video(s) per day
+2026-06-12 17:02:09,809  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-12 17:02:09,809  [INFO]  ============================================================
+2026-06-12 17:02:09,810  [INFO]  ⏰ Scheduled post #1 at 09:11
+2026-06-12 17:02:09,811  [INFO]  ⏰ Scheduled post #2 at 11:52
+2026-06-12 17:02:09,812  [INFO]  ⏰ Scheduled post #3 at 15:09
+2026-06-12 17:02:09,812  [INFO]  ⏰ Scheduled post #4 at 17:03
+2026-06-12 17:02:09,812  [INFO]  ⏰ Scheduled post #5 at 20:02
+2026-06-12 17:02:09,813  [INFO]  --now flag detected, posting immediately…
+2026-06-12 17:02:09,813  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 17:02:09,813  [INFO]  🚀 Starting pipeline…
+2026-06-12 17:02:10,440  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-12 17:02:10,486  [INFO]  ✅ Got real trends via Groq: ['Dark Personality Traits', 'Haunted Houses Explained']
+2026-06-12 17:02:10,487  [INFO]  📌 Topic: The shocking truth about Haunted Houses Explained  |  Niche: horror
+2026-06-12 17:02:11,329  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-12 17:02:11,336  [INFO]  ✅ Script written (64 words)
+2026-06-12 17:02:11,336  [INFO]  📝 Script:
+The psychology behind The shocking truth about Haunted Houses Explained is terrifying.
+
+Sarah Jenkins lived alone.
+Her house creaked.
+
+On February 10th, 2018, in rural Illinois, 
+Sarah heard footsteps…
+2026-06-12 17:02:11,336  [INFO]  🎬 Building animated video: The shocking truth about Haunted Houses Explained
+2026-06-12 17:02:20,630  [INFO]  🎤 Audio: 27.2s
+2026-06-12 17:02:21,185  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-12 17:02:26,185  [INFO]  ✅ Downloaded: assets/videos\8087073.mp4
+2026-06-12 17:02:26,192  [INFO]  🎥 Scene 1 bg: 'artificial intelligence robot'
+2026-06-12 17:02:53,112  [INFO]  ⬇️  Downloading Pexels video: sarah jenkins lived
+2026-06-12 17:02:55,044  [INFO]  ✅ Downloaded: assets/videos\6841017.mp4
+2026-06-12 17:02:55,049  [INFO]  🎥 Scene 2 bg: 'sarah jenkins lived'
+2026-06-12 17:03:01,029  [INFO]  ⬇️  Downloading Pexels video: february 10th 2018
+2026-06-12 17:03:03,589  [INFO]  ✅ Downloaded: assets/videos\36253951.mp4
+2026-06-12 17:03:03,594  [INFO]  🎥 Scene 3 bg: 'february 10th 2018'
+2026-06-12 17:03:12,464  [INFO]  ⬇️  Downloading Pexels video: searched every room
+2026-06-12 17:03:19,786  [INFO]  ✅ Downloaded: assets/videos\9841148.mp4
+2026-06-12 17:03:19,795  [INFO]  🎥 Scene 4 bg: 'searched every room'
+2026-06-12 17:03:32,984  [INFO]  ⬇️  Downloading Pexels video: feel fear darkness
+2026-06-12 17:03:35,776  [INFO]  ✅ Downloaded: assets/videos\36644498.mp4
+2026-06-12 17:03:35,776  [INFO]  🎥 Scene 5 bg: 'feel fear darkness'
+2026-06-12 17:03:46,415  [INFO]  ⬇️  Downloading Pexels video: sarah vanished night
+2026-06-12 17:03:49,320  [INFO]  ✅ Downloaded: assets/videos\5867581.mp4
+2026-06-12 17:03:49,325  [INFO]  🎥 Scene 6 bg: 'sarah vanished night'
+2026-06-12 17:03:56,945  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-12 17:03:58,748  [INFO]  ✅ Downloaded: assets/videos\7326651.mp4
+2026-06-12 17:03:58,754  [INFO]  🎥 Scene 7 bg: 'follow kept'
+2026-06-12 17:04:03,633  [INFO]  🎞️  Concatenating scenes…
+2026-06-12 17:04:06,084  [INFO]  💾 Rendering final video…
+2026-06-12 17:21:22,314  [INFO]  ✅ Done → output\20260612_170211_The shocking truth about Haunted Houses .mp4
+2026-06-12 17:21:23,389  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-12 17:21:24,520  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\google\api_core\_python_version_support.py:255: FutureWarning: You are using a Python version (3.10.11) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+
+2026-06-12 17:21:25,757  [INFO]  Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=83842600038-67svidjuiqqasdsie3qdv97020boff21.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A54641%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.upload&state=qzBfOBy0O179fw5b7iYAM4LexQy3jp&code_challenge=3rjriPetWXdn4R7V0NJGHkN8PmI_FqI8qTl-eUWnkq0&code_challenge_method=S256&access_type=offline
+2026-06-12 17:26:10,858  [INFO]  "GET /?state=qzBfOBy0O179fw5b7iYAM4LexQy3jp&iss=https://accounts.google.com&code=4/0AdkVLPx5fpEObbxAn_AjdzcEinDXsuk-cWB7xp5JXEurXj-y3riOBwJdjy7hZxr-pfEyBg&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2026-06-12 17:26:11,186  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-12 17:26:11,241  [INFO]  📤 Uploading to YouTube: The Shocking Truth About Haunted Houses Explained #Shorts
+2026-06-12 17:26:23,802  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/8fbjtC1M2Yk
+2026-06-12 17:26:23,826  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/8fbjtC1M2Yk  |  Instagram: N/A
+2026-06-12 17:26:23,833  [INFO]  🗑️  Deleted output: 20260612_170211_The shocking truth about Haunted Houses .mp4
+2026-06-13 02:50:54,040  [INFO]  ============================================================
+2026-06-13 02:50:54,040  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-13 02:50:54,040  [INFO]    Posting 5 video(s) per day
+2026-06-13 02:50:54,040  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-13 02:50:54,040  [INFO]  ============================================================
+2026-06-13 02:50:54,041  [INFO]  ⏰ Scheduled post #1 at 08:55
+2026-06-13 02:50:54,041  [INFO]  ⏰ Scheduled post #2 at 11:53
+2026-06-13 02:50:54,041  [INFO]  ⏰ Scheduled post #3 at 14:46
+2026-06-13 02:50:54,041  [INFO]  ⏰ Scheduled post #4 at 16:50
+2026-06-13 02:50:54,041  [INFO]  ⏰ Scheduled post #5 at 19:57
+2026-06-13 02:50:54,041  [INFO]  --now flag detected, posting immediately…
+2026-06-13 02:50:54,042  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-13 02:50:54,042  [INFO]  🚀 Starting pipeline…
+2026-06-13 02:50:54,650  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 02:50:54,675  [INFO]  ✅ Got real trends via Groq: ['Dark Personality Traits', 'Haunted Locations']
+2026-06-13 02:50:54,675  [INFO]  📌 Topic: Why you've been doing Joker wrong your whole life  |  Niche: movies
+2026-06-13 02:50:55,281  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 02:50:55,281  [INFO]  🎬 Movie script written (58 words)
+2026-06-13 02:50:55,282  [INFO]  📝 Script:
+Most people watched Joker and missed everything.
+
+He's a villain, a clown, chaos.
+Darkness and anarchy, that's his game.
+
+But deep down, he's a symbol, a mirror.
+ Reflecting our own broken, twisted so…
+2026-06-13 02:50:55,283  [INFO]  🎬 Building animated video: Why you've been doing Joker wrong your whole life
+2026-06-13 02:51:13,895  [INFO]  🎤 Audio: 21.6s
+2026-06-13 02:51:14,852  [INFO]  ⬇️  Downloading Pexels video: most people watched
+2026-06-13 02:53:43,543  [INFO]  ✅ Downloaded: assets/videos\7984164.mp4
+2026-06-13 02:53:43,547  [INFO]  🎥 Scene 1 bg: 'most people watched'
+2026-06-13 02:53:51,311  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-13 02:56:18,316  [INFO]  ✅ Downloaded: assets/videos\8087073.mp4
+2026-06-13 02:56:18,319  [INFO]  🎥 Scene 2 bg: 'artificial intelligence robot'
+2026-06-13 02:56:29,104  [INFO]  ⬇️  Downloading Pexels video: deep down he's
+2026-06-13 02:57:18,408  [INFO]  ✅ Downloaded: assets/videos\34823197.mp4
+2026-06-13 02:57:18,418  [INFO]  🎥 Scene 3 bg: 'deep down he's'
+2026-06-13 02:57:30,794  [INFO]  📦 Using cached video: assets/videos\8087073.mp4
+2026-06-13 02:57:30,797  [INFO]  🎥 Scene 4 bg: 'artificial intelligence robot'
+2026-06-13 02:57:42,097  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-13 02:58:34,736  [INFO]  ✅ Downloaded: assets/videos\8566826.mp4
+2026-06-13 02:58:34,741  [INFO]  🎥 Scene 5 bg: 'artificial intelligence robot'
+2026-06-13 02:58:44,407  [INFO]  🎞️  Concatenating scenes…
+2026-06-13 02:58:46,925  [INFO]  💾 Rendering final video…
+2026-06-13 11:56:00,057  [INFO]  ✅ Done → output\20260613_025055_Why you_ve been doing Joker wrong your w.mp4
+2026-06-13 11:56:01,132  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 11:56:04,103  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-13 11:56:04,123  [INFO]  📤 Uploading to YouTube: Why You'Ve Been Doing Joker Wrong Your Whole Life #Shorts
+2026-06-13 11:56:28,103  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/PrDRVC98fSI
+2026-06-13 11:56:28,121  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/PrDRVC98fSI  |  Instagram: N/A
+2026-06-13 11:56:28,127  [INFO]  🗑️  Deleted output: 20260613_025055_Why you_ve been doing Joker wrong your w.mp4
+2026-06-13 11:56:28,160  [INFO]  🗑️  Cleared Pexels cache — freed 251.4 MB
+2026-06-13 11:56:28,160  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-13 11:56:28,160  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-13 11:56:28,160  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-13 11:56:28,160  [INFO]  🚀 Starting pipeline…
+2026-06-13 11:56:29,222  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 11:56:29,225  [INFO]  ✅ Got real trends via Groq: ['Dark Academia Aesthetic', 'NFL Offseason Updates']
+2026-06-13 11:56:29,226  [INFO]  📌 Topic: Nobody tells you this about NFL Offseason Updates  |  Niche: facts
+2026-06-13 11:56:30,145  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 11:56:30,145  [INFO]  ✅ Script written (57 words)
+2026-06-13 11:56:30,145  [INFO]  📝 Script:
+The Nobody tells you this about NFL Offseason Updates truth is darker than you think.
+
+Players are cut ruthlessly. 
+Teams lie to fans.
+
+In 2022, Arizona, players were misled. 
+Their contracts were fak…
+2026-06-13 11:56:30,145  [INFO]  🎬 Building animated video: Nobody tells you this about NFL Offseason Updates
+2026-06-13 11:56:34,280  [INFO]  🎤 Audio: 23.1s
+2026-06-13 11:56:36,800  [INFO]  ⬇️  Downloading Pexels video: nobody tells offseason
+2026-06-13 11:57:04,832  [INFO]  ✅ Downloaded: assets/videos\28952502.mp4
+2026-06-13 11:57:04,841  [INFO]  🎥 Scene 1 bg: 'nobody tells offseason'
+2026-06-13 11:57:19,499  [INFO]  ⬇️  Downloading Pexels video: players ruthlessly teams
+2026-06-13 11:58:12,406  [INFO]  ✅ Downloaded: assets/videos\9501824.mp4
+2026-06-13 11:58:12,411  [INFO]  🎥 Scene 2 bg: 'players ruthlessly teams'
+2026-06-13 11:58:19,713  [INFO]  ⬇️  Downloading Pexels video: 2022 arizona players
+2026-06-13 11:59:10,384  [INFO]  ✅ Downloaded: assets/videos\34982879.mp4
+2026-06-13 11:59:10,394  [INFO]  🎥 Scene 3 bg: '2022 arizona players'
+2026-06-13 11:59:20,237  [INFO]  ⬇️  Downloading Pexels video: feel betrayed now
+2026-06-13 11:59:41,886  [INFO]  ✅ Downloaded: assets/videos\7280524.mp4
+2026-06-13 11:59:41,889  [INFO]  🎥 Scene 4 bg: 'feel betrayed now'
+2026-06-13 11:59:49,355  [INFO]  ⬇️  Downloading Pexels video: investing emotions using
+2026-06-13 12:00:10,952  [INFO]  ✅ Downloaded: assets/videos\6931255.mp4
+2026-06-13 12:00:10,952  [INFO]  🎥 Scene 5 bg: 'investing emotions using'
+2026-06-13 12:00:19,398  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-13 12:01:12,792  [INFO]  ✅ Downloaded: assets/videos\35782095.mp4
+2026-06-13 12:01:12,792  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-13 12:01:18,893  [INFO]  🎞️  Concatenating scenes…
+2026-06-13 12:01:20,800  [INFO]  💾 Rendering final video…
+2026-06-13 13:19:19,171  [INFO]  ✅ Done → output\20260613_115630_Nobody tells you this about NFL Offseaso.mp4
+2026-06-13 13:19:21,647  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 13:19:23,198  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-13 13:19:23,415  [INFO]  📤 Uploading to YouTube: Nobody Tells You This About Nfl Offseason Updates #Shorts
+2026-06-13 13:20:01,702  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/eZc1UfM8FU0
+2026-06-13 13:20:01,757  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/eZc1UfM8FU0  |  Instagram: N/A
+2026-06-13 13:20:01,765  [INFO]  🗑️  Deleted output: 20260613_115630_Nobody tells you this about NFL Offseaso.mp4
+2026-06-17 20:28:21,143  [INFO]  ============================================================
+2026-06-17 20:28:21,143  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-17 20:28:21,143  [INFO]    Posting 5 video(s) per day
+2026-06-17 20:28:21,143  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-17 20:28:21,143  [INFO]  ============================================================
+2026-06-17 20:28:21,143  [INFO]  ⏰ Scheduled post #1 at 09:06
+2026-06-17 20:28:21,143  [INFO]  ⏰ Scheduled post #2 at 12:04
+2026-06-17 20:28:21,143  [INFO]  ⏰ Scheduled post #3 at 15:04
+2026-06-17 20:28:21,143  [INFO]  ⏰ Scheduled post #4 at 16:45
+2026-06-17 20:28:21,143  [INFO]  ⏰ Scheduled post #5 at 19:51
+2026-06-17 20:28:21,143  [INFO]  --now flag detected, posting immediately…
+2026-06-17 20:28:21,143  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 20:28:21,143  [INFO]  🚀 Starting pipeline…
+2026-06-17 20:28:21,945  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 20:28:21,961  [INFO]  ✅ Got real trends via Groq: ['Dark Personality Traits', 'Haunted Houses']
+2026-06-17 20:28:21,961  [INFO]  📌 Topic: What happens to your the secret training habits after of the world's best footballers  |  Niche: mystery
+2026-06-17 20:28:23,060  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 20:28:23,060  [INFO]  ✅ Script written (86 words)
+2026-06-17 20:28:23,060  [INFO]  📝 Script:
+This secret story will keep you up tonight.
+
+You know their names, you know their skills, 
+you know their wins, but not this.
+
+On a remote island, they gather secretly, 
+with coaches who push them to …
+2026-06-17 20:28:23,060  [INFO]  🎬 Building animated video: What happens to your the secret training habits after of the world's best footballers
+2026-06-17 20:28:27,450  [INFO]  🎤 Audio: 28.7s
+2026-06-17 20:28:28,568  [INFO]  ⬇️  Downloading Pexels video: story keep tonight
+2026-06-17 20:28:36,155  [INFO]  ✅ Downloaded: assets/videos\6851613.mp4
+2026-06-17 20:28:36,162  [INFO]  🎥 Scene 1 bg: 'story keep tonight'
+2026-06-17 20:28:39,362  [INFO]  ⬇️  Downloading Pexels video: know names know
+2026-06-17 20:29:02,924  [INFO]  ✅ Downloaded: assets/videos\6219851.mp4
+2026-06-17 20:29:02,924  [INFO]  🎥 Scene 2 bg: 'know names know'
+2026-06-17 20:29:07,720  [INFO]  ⬇️  Downloading Pexels video: remote island gather
+2026-06-17 20:31:47,149  [INFO]  ✅ Downloaded: assets/videos\31288521.mp4
+2026-06-17 20:31:47,151  [INFO]  🎥 Scene 3 bg: 'remote island gather'
+2026-06-17 20:31:52,288  [INFO]  ⬇️  Downloading Pexels video: methods hidden results
+2026-06-17 20:32:03,695  [INFO]  ✅ Downloaded: assets/videos\37116258.mp4
+2026-06-17 20:32:03,697  [INFO]  🎥 Scene 4 bg: 'methods hidden results'
+2026-06-17 20:32:08,876  [INFO]  ⬇️  Downloading Pexels video: feel like you're
+2026-06-17 20:32:14,425  [INFO]  ✅ Downloaded: assets/videos\6513467.mp4
+2026-06-17 20:32:14,427  [INFO]  🎥 Scene 5 bg: 'feel like you're'
+2026-06-17 20:32:19,254  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-17 20:33:41,071  [INFO]  ✅ Downloaded: assets/videos\8087014.mp4
+2026-06-17 20:33:41,071  [INFO]  🎥 Scene 6 bg: 'artificial intelligence robot'
+2026-06-17 20:33:46,248  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-17 20:34:12,534  [INFO]  ✅ Downloaded: assets/videos\35799015.mp4
+2026-06-17 20:34:12,536  [INFO]  🎥 Scene 7 bg: 'follow kept'
+2026-06-17 20:34:14,673  [INFO]  🎞️  Concatenating scenes…
+2026-06-17 20:34:15,581  [INFO]  💾 Rendering final video…
+2026-06-17 20:41:22,340  [INFO]  ✅ Done → output\20260617_202823_What happens to your the secret training.mp4
+2026-06-17 20:41:23,542  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 20:41:24,842  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-17 20:41:24,845  [INFO]  📤 Uploading to YouTube: What Happens To Your The Secret Training Habits After Of The World'S Best Footballers #Shorts
+2026-06-17 20:41:55,458  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/usa0YQOJn2M
+2026-06-17 20:41:55,488  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/usa0YQOJn2M  |  Instagram: N/A
+2026-06-17 20:41:55,491  [INFO]  🗑️  Deleted output: 20260617_202823_What happens to your the secret training.mp4
+2026-06-17 20:41:55,513  [INFO]  🗑️  Cleared Pexels cache — freed 189.8 MB
+2026-06-17 20:41:55,513  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 20:41:55,513  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-17 20:45:34,414  [INFO]  ============================================================
+2026-06-17 20:45:34,414  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-17 20:45:34,414  [INFO]    Posting 5 video(s) per day
+2026-06-17 20:45:34,414  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-17 20:45:34,414  [INFO]  ============================================================
+2026-06-17 20:45:34,414  [INFO]  ⏰ Scheduled post #1 at 08:51
+2026-06-17 20:45:34,414  [INFO]  ⏰ Scheduled post #2 at 12:07
+2026-06-17 20:45:34,414  [INFO]  ⏰ Scheduled post #3 at 14:45
+2026-06-17 20:45:34,414  [INFO]  ⏰ Scheduled post #4 at 17:09
+2026-06-17 20:45:34,414  [INFO]  ⏰ Scheduled post #5 at 20:06
+2026-06-17 20:45:34,414  [INFO]  --now flag detected, posting immediately…
+2026-06-17 20:45:34,414  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 20:45:34,414  [INFO]  🚀 Starting pipeline…
+2026-06-17 20:45:35,191  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 20:45:35,216  [INFO]  ✅ Got real trends via Groq: ['Narcissistic Personality Disorder', 'Haunted Houses']
+2026-06-17 20:45:35,217  [INFO]  📌 Topic: 5 things about Haunted Houses that will blow your mind  |  Niche: horror
+2026-06-17 20:45:36,122  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 20:45:36,122  [INFO]  ✅ Script written (89 words)
+2026-06-17 20:45:36,122  [INFO]  📝 Script:
+What they found about 5 things about Haunted Houses that will blow your mind was never made public.
+
+In Akron, Ohio, on November 12th, Emily Wilson discovered something.
+She researched the local haunt…
+2026-06-17 20:45:36,122  [INFO]  🎬 Building animated video: 5 things about Haunted Houses that will blow your mind
+2026-06-17 20:45:40,541  [INFO]  🎤 Audio: 30.6s
+2026-06-17 20:45:41,692  [INFO]  ⬇️  Downloading Pexels video: found haunted houses
+2026-06-17 20:46:37,899  [INFO]  ✅ Downloaded: assets/videos\5427490.mp4
+2026-06-17 20:46:37,900  [INFO]  🎥 Scene 1 bg: 'found haunted houses'
+2026-06-17 20:46:45,124  [INFO]  ⬇️  Downloading Pexels video: akron ohio november
+2026-06-17 20:46:52,127  [INFO]  ✅ Downloaded: assets/videos\10465633.mp4
+2026-06-17 20:46:52,131  [INFO]  🎥 Scene 2 bg: 'akron ohio november'
+2026-06-17 20:46:58,554  [INFO]  ⬇️  Downloading Pexels video: night emily felt
+2026-06-17 20:47:05,263  [INFO]  ✅ Downloaded: assets/videos\10084621.mp4
+2026-06-17 20:47:05,263  [INFO]  🎥 Scene 3 bg: 'night emily felt'
+2026-06-17 20:47:08,931  [INFO]  ⬇️  Downloading Pexels video: found hidden room
+2026-06-17 20:49:33,639  [INFO]  ✅ Downloaded: assets/videos\34689565.mp4
+2026-06-17 20:49:33,642  [INFO]  🎥 Scene 4 bg: 'found hidden room'
+2026-06-17 20:49:39,582  [INFO]  ⬇️  Downloading Pexels video: reading books library
+2026-06-17 20:50:38,433  [INFO]  ✅ Downloaded: assets/videos\6549536.mp4
+2026-06-17 20:50:38,433  [INFO]  🎥 Scene 5 bg: 'reading books library'
+2026-06-17 20:50:43,462  [INFO]  ⬇️  Downloading Pexels video: follow kept tonight
+2026-06-17 20:52:03,830  [INFO]  ✅ Downloaded: assets/videos\36204276.mp4
+2026-06-17 20:52:03,830  [INFO]  🎥 Scene 6 bg: 'follow kept tonight'
+2026-06-17 20:52:06,436  [INFO]  🎞️  Concatenating scenes…
+2026-06-17 20:52:07,719  [INFO]  💾 Rendering final video…
+2026-06-17 20:59:49,111  [INFO]  ✅ Done → output\20260617_204536_5 things about Haunted Houses that will .mp4
+2026-06-17 20:59:50,174  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 20:59:51,511  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-17 20:59:51,515  [INFO]  📤 Uploading to YouTube: 5 Things About Haunted Houses That Will Blow Your Mind #Shorts
+2026-06-17 21:00:18,510  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/cImGO988LBk
+2026-06-17 21:00:18,546  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/cImGO988LBk  |  Instagram: N/A
+2026-06-17 21:00:18,550  [INFO]  🗑️  Deleted output: 20260617_204536_5 things about Haunted Houses that will .mp4
+2026-06-17 21:00:18,573  [INFO]  🗑️  Cleared Pexels cache — freed 206.4 MB
+2026-06-17 21:00:18,573  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 21:00:18,573  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-17 21:00:28,064  [INFO]  ============================================================
+2026-06-17 21:00:28,064  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-17 21:00:28,068  [INFO]    Posting 5 video(s) per day
+2026-06-17 21:00:28,068  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-17 21:00:28,068  [INFO]  ============================================================
+2026-06-17 21:00:28,068  [INFO]  ⏰ Scheduled post #1 at 09:07
+2026-06-17 21:00:28,068  [INFO]  ⏰ Scheduled post #2 at 12:07
+2026-06-17 21:00:28,068  [INFO]  ⏰ Scheduled post #3 at 14:45
+2026-06-17 21:00:28,068  [INFO]  ⏰ Scheduled post #4 at 17:12
+2026-06-17 21:00:28,068  [INFO]  ⏰ Scheduled post #5 at 20:07
+2026-06-17 21:00:28,068  [INFO]  --now flag detected, posting immediately…
+2026-06-17 21:00:28,068  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 21:00:28,068  [INFO]  🚀 Starting pipeline…
+2026-06-17 21:00:28,874  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 21:00:28,888  [INFO]  ✅ Got real trends via Groq: ['Dark Personality Traits', 'Haunted House Explorations']
+2026-06-17 21:00:28,888  [INFO]  📌 Topic: Nobody tells you this about Dark Personality Traits  |  Niche: facts
+2026-06-17 21:00:29,728  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 21:00:29,730  [INFO]  ✅ Script written (77 words)
+2026-06-17 21:00:29,730  [INFO]  📝 Script:
+What they found about Dark Personality Traits was never made public.
+
+You think you know darkness, but you don't.
+It lurks within you.
+
+Researchers studied Emily Wilson in 2018.
+She exhibited dark tra…
+2026-06-17 21:00:29,730  [INFO]  🎬 Building animated video: Nobody tells you this about Dark Personality Traits
+2026-06-17 21:00:34,724  [INFO]  🎤 Audio: 29.1s
+2026-06-17 21:00:35,124  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-17 21:03:01,928  [INFO]  ✅ Downloaded: assets/videos\8087073.mp4
+2026-06-17 21:03:01,928  [INFO]  🎥 Scene 1 bg: 'artificial intelligence robot'
+2026-06-17 21:03:06,849  [INFO]  ⬇️  Downloading Pexels video: think know darkness
+2026-06-17 21:03:09,391  [INFO]  ✅ Downloaded: assets/videos\16496651.mp4
+2026-06-17 21:03:09,393  [INFO]  🎥 Scene 2 bg: 'think know darkness'
+2026-06-17 21:03:12,679  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-17 21:04:03,887  [INFO]  ✅ Downloaded: assets/videos\8566826.mp4
+2026-06-17 21:04:03,888  [INFO]  🎥 Scene 3 bg: 'artificial intelligence robot'
+2026-06-17 21:04:08,487  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-17 21:05:19,784  [INFO]  ✅ Downloaded: assets/videos\8087014.mp4
+2026-06-17 21:05:19,786  [INFO]  🎥 Scene 4 bg: 'artificial intelligence robot'
+2026-06-17 21:05:23,591  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-17 21:06:31,865  [INFO]  ✅ Downloaded: assets/videos\8087025.mp4
+2026-06-17 21:06:31,868  [INFO]  🎥 Scene 5 bg: 'artificial intelligence robot'
+2026-06-17 21:06:36,597  [INFO]  📦 Using cached video: assets/videos\8566826.mp4
+2026-06-17 21:06:36,609  [INFO]  🎥 Scene 6 bg: 'artificial intelligence robot'
+2026-06-17 21:06:41,069  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-17 21:08:05,554  [INFO]  ✅ Downloaded: assets/videos\36204276.mp4
+2026-06-17 21:08:05,554  [INFO]  🎥 Scene 7 bg: 'follow kept'
+2026-06-17 21:08:07,866  [INFO]  🎞️  Concatenating scenes…
+2026-06-17 21:08:09,280  [INFO]  💾 Rendering final video…
+2026-06-17 21:10:27,850  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/videos\16496651.mp4, 11059200 bytes wanted but 0 bytes read,at frame 200/203, at time 4.00/4.05 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-17 21:10:28,391  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/videos\16496651.mp4, 11059200 bytes wanted but 0 bytes read,at frame 202/203, at time 4.04/4.05 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-17 21:17:02,402  [INFO]  ✅ Done → output\20260617_210029_Nobody tells you this about Dark Persona.mp4
+2026-06-17 21:17:03,648  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 21:17:05,044  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-17 21:17:05,044  [INFO]  📤 Uploading to YouTube: Nobody Tells You This About Dark Personality Traits #Shorts
+2026-06-17 21:17:40,472  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/6rV33ENrqBs
+2026-06-17 21:17:40,516  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/6rV33ENrqBs  |  Instagram: N/A
+2026-06-17 21:17:40,521  [INFO]  🗑️  Deleted output: 20260617_210029_Nobody tells you this about Dark Persona.mp4
+2026-06-17 21:17:40,551  [INFO]  🗑️  Cleared Pexels cache — freed 259.7 MB
+2026-06-17 21:17:40,551  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 21:17:40,551  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-17 22:11:06,815  [INFO]  ============================================================
+2026-06-17 22:11:06,815  [INFO]    AUTO SHORTS BOT  —  starting up
+2026-06-17 22:11:06,815  [INFO]    Posting 5 video(s) per day
+2026-06-17 22:11:06,815  [INFO]    Niches: relatable, psychology, relationships, mystery, horror, movies, football
+2026-06-17 22:11:06,815  [INFO]  ============================================================
+2026-06-17 22:11:06,815  [INFO]  ⏰ Scheduled post #1 at 08:50
+2026-06-17 22:11:06,815  [INFO]  ⏰ Scheduled post #2 at 12:15
+2026-06-17 22:11:06,815  [INFO]  ⏰ Scheduled post #3 at 14:54
+2026-06-17 22:11:06,815  [INFO]  ⏰ Scheduled post #4 at 17:08
+2026-06-17 22:11:06,815  [INFO]  ⏰ Scheduled post #5 at 20:00
+2026-06-17 22:11:06,815  [INFO]  --now flag detected, posting immediately…
+2026-06-17 22:11:06,815  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 22:11:06,815  [INFO]  🚀 Starting pipeline…
+2026-06-17 22:11:07,611  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 22:11:07,632  [INFO]  ✅ Got real trends via Groq: ['Gaslighting Signs', 'NFL Draft Predictions']
+2026-06-17 22:11:07,632  [INFO]  📌 Topic: 7 things about red flags that will blow your mind  |  Niche: relationships
+2026-06-17 22:11:08,705  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 22:11:08,705  [INFO]  ✅ Script written (86 words)
+2026-06-17 22:11:08,705  [INFO]  📝 Script:
+The 7 things about red flags that will blow your mind truth is darker than you think.
+
+You see them, ignore them, you are next.
+Your mind hides the truth from you daily.
+
+You feel it, but deny the red…
+2026-06-17 22:11:08,705  [INFO]  🎬 Building animated video: 7 things about red flags that will blow your mind
+2026-06-17 22:11:12,046  [INFO]  🎤 Audio: 27.5s
+2026-06-17 22:11:12,916  [INFO]  ⬇️  Downloading Pexels video: flags blow mind
+2026-06-17 22:11:23,761  [INFO]  ✅ Downloaded: assets/videos\28902927.mp4
+2026-06-17 22:11:23,761  [INFO]  🎥 Scene 1 bg: 'flags blow mind'
+2026-06-17 22:11:28,664  [INFO]  ⬇️  Downloading Pexels video: artificial intelligence robot
+2026-06-17 22:12:56,714  [INFO]  ✅ Downloaded: assets/videos\8087080.mp4
+2026-06-17 22:12:56,719  [INFO]  🎥 Scene 2 bg: 'artificial intelligence robot'
+2026-06-17 22:13:03,694  [INFO]  ⬇️  Downloading Pexels video: heart pulse medical
+2026-06-17 22:13:08,451  [INFO]  ✅ Downloaded: assets/videos\9017885.mp4
+2026-06-17 22:13:08,451  [INFO]  🎥 Scene 3 bg: 'heart pulse medical'
+2026-06-17 22:13:13,176  [INFO]  ⬇️  Downloading Pexels video: denial it's fault
+2026-06-17 22:13:33,722  [INFO]  ✅ Downloaded: assets/videos\8428746.mp4
+2026-06-17 22:13:33,722  [INFO]  🎥 Scene 4 bg: 'denial it's fault'
+2026-06-17 22:13:39,022  [INFO]  ⬇️  Downloading Pexels video: stay hoping better
+2026-06-17 22:13:56,441  [INFO]  ✅ Downloaded: assets/videos\8689969.mp4
+2026-06-17 22:13:56,441  [INFO]  🎥 Scene 5 bg: 'stay hoping better'
+2026-06-17 22:14:01,165  [INFO]  ⬇️  Downloading Pexels video: follow kept
+2026-06-17 22:14:11,336  [INFO]  ✅ Downloaded: assets/videos\35799015.mp4
+2026-06-17 22:14:11,336  [INFO]  🎥 Scene 6 bg: 'follow kept'
+2026-06-17 22:14:13,405  [INFO]  🎞️  Concatenating scenes…
+2026-06-17 22:14:14,287  [INFO]  💾 Rendering final video…
+2026-06-17 22:21:51,186  [INFO]  ✅ Done → output\20260617_221108_7 things about red flags that will blow .mp4
+2026-06-17 22:21:52,295  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 22:21:54,518  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-17 22:21:54,518  [INFO]  📤 Uploading to YouTube: 7 Things About Red Flags That Will Blow Your Mind #Shorts
+2026-06-17 22:22:16,609  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/tevZjglMGhk
+2026-06-17 22:22:16,649  [INFO]  🎉 Done!  YouTube: https://www.youtube.com/shorts/tevZjglMGhk  |  Instagram: N/A
+2026-06-17 22:22:16,654  [INFO]  🗑️  Deleted output: 20260617_221108_7 things about red flags that will blow .mp4
+2026-06-17 22:22:16,695  [INFO]  🗑️  Cleared Pexels cache — freed 192.6 MB
+2026-06-17 22:22:16,695  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 22:22:16,695  [INFO]  🤖 Bot is running. Press Ctrl+C to stop.
+2026-06-18 00:01:16,805  [INFO]  ⏰ Scheduled post #1 at 08:57
+2026-06-18 00:01:16,805  [INFO]  ⏰ Scheduled post #2 at 12:13
+2026-06-18 00:01:16,806  [INFO]  ⏰ Scheduled post #3 at 15:04
+2026-06-18 00:01:16,806  [INFO]  ⏰ Scheduled post #4 at 17:00
+2026-06-18 00:01:16,806  [INFO]  ⏰ Scheduled post #5 at 20:06

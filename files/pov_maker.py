@@ -152,37 +152,58 @@ def download_pexels_clip(query: str) -> str | None:
         return None
 
 
+POV_SYSTEM = """You write emotional viral POV scripts for Instagram Reels and YouTube Shorts.
+Your scripts make people stop scrolling because they feel personally seen.
+
+RULES:
+- Write EXACTLY 6 lines — no more, no less
+- Each line max 10 words
+- Line 1: POV hook — starts with "POV:" — makes them stop immediately
+- Line 2-3: build the emotion slowly — make them feel it
+- Line 4: THE LINE — the one they screenshot and send to someone
+- Line 5: the twist or deeper truth
+- Line 6: quiet, lingering closer — ends with feeling not words
+- NO abrupt endings — the last line should feel like a breath, not a stop
+- For Hinglish: mix Hindi and English naturally, like people actually text
+- Output ONLY the 6 lines. No labels. No numbers. No explanation."""
+
+
 def generate_pov_lines(topic: str, mood: str, language: str) -> list[str]:
     lang_note = (
-        "Write in Hinglish (romanized Hindi mixed with English). Poetic, emotional."
+        "Write in Hinglish (romanized Hindi + English mix). Natural, like WhatsApp texts."
         if language == "hinglish"
-        else "Write in English. Raw, emotional, hits deep."
+        else "Write in English. Raw, personal, emotionally intelligent."
     )
-    prompt = f"""Write a viral Instagram POV reel. Topic: "POV: {topic}"
+    prompt = f"""Topic: "POV: {topic}"
+Mood: {mood}
 {lang_note}
 
-Output EXACTLY 4 lines. Each line max 9 words. No labels, no numbers.
-Line 1: The POV hook starting with "POV:"
-Line 2: Build the feeling
-Line 3: THE LINE — the one that makes them save it
-Line 4: The quiet closer that lingers
-
-Only output the 4 lines, nothing else."""
+Write EXACTLY 6 lines. Complete emotional arc. Never end abruptly.
+The last line should feel peaceful or heavy — never cut off."""
 
     try:
         r = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=120, temperature=0.95)
+            messages=[
+                {"role": "system", "content": POV_SYSTEM},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=180, temperature=0.95)
         lines = [l.strip() for l in r.choices[0].message.content.strip().split("\n")
-                 if l.strip()][:4]
-        while len(lines) < 4:
+                 if l.strip()][:6]
+        while len(lines) < 6:
             lines.append(random.choice(HINGLISH_LINES))
         return lines
     except Exception as e:
         logger.error(f"Groq: {e}")
-        return [f"POV: {topic}", "you know this feeling.", "some things don't need words.",
-                random.choice(HINGLISH_LINES)]
+        return [
+            f"POV: {topic}",
+            "you know this feeling better than anyone.",
+            "some days it hits harder than others.",
+            "and you sit with it, quietly.",
+            "because some things can't be explained.",
+            "only felt."
+        ]
 
 
 def ease_in_out(t: float) -> float:
@@ -305,31 +326,60 @@ SHAYARI_THEMES = [
     "teri kami ka ehsaas", "dil ka bojh", "waqt ka zakhm"
 ]
 
-SHAYARI_SYSTEM = """Tu ek mashoor shayar hai jisme Mirza Ghalib, Gulzar aur Rahat Indori ki rooh bassi hai.
-Tujhe ek emotional, viral Instagram reel ke liye shayari likhni hai.
+SHAYARI_SYSTEM = """Tu Mirza Ghalib, Gulzar aur Rahat Indori ka combination hai.
+Teri shayari sunke log ruk jaate hain. Screenshot lete hain. Aankhein bhar aati hain.
 
-STYLE:
-- Romanized Hindi (Hinglish) — jaise log WhatsApp pe likhte hain
-- Har line 6-9 words mein — punchy, dil ko chhune wali
-- Metaphors use kar — chaand, dariya, aankhein, raat, khamoshi
-- Feel: dard + khubsurati dono saath
-- Lines aapas mein connected honi chahiye — ek story ki tarah flow karo
+STYLE RULES — IN KO KABHI MAT TODO:
+- Romanized Hindi — jaise log dil se bolte hain, WhatsApp pe likhte hain
+- Har line POORI honi chahiye — adhoori line mat likho, dil tak pahunchni chahiye
+- Har line mein ek complete feeling ho — na zyada chhoti, na zyada lambi
+- Natural Urdu/Hindi words use kar — tanha, dard, yaad, mohabbat, raat, aansu, khamoshi, waqt
+- Metaphors jo dil ko lagein — chaand, dariya, aankhein, raat, mitti, aawaz, khwab, saaya
+- LINE 1: Hook — pehli line padh ke scroll rukna chahiye
+- LINE 2: Dard gehra karo — LINE 1 se connected, feeling badhao
+- LINE 3: THE SCREENSHOT LINE — sabse powerful line, jo log 3 baje rote hain padh ke
+- LINE 4: Khamosh khatma — ek aisi line jo ghaav chhod jaaye, dil mein ghus jaaye
 
-FORMAT (bilkul aisa hi):
-Line 1: ek aisa sher jo scroll rokde
-Line 2: dard gehra karo — pichli line se connected
-Line 3: THE LINE — jo log screenshot lete hain
-Line 4: khamosh khatma — jo dil mein reh jaaye
+EXAMPLES OF GOOD SHAYARI:
+"Tumse milke laga tha ke ab koi gham nahi,
+par tumhara jaana hi sabse bada gham ban gaya.
+Woh jo teri aankhon mein tha ujala kabhi,
+ab wahi roshni mujhe andhere mein jalaati hai."
 
-SIRF 4 lines likho. Koi label nahi. Koi number nahi. Bas shayari.
-Lines natural flow mein honi chahiye — jaise ek shayar bolte bolte ruk jaata hai."""
+"Teri yaad aati hai toh neend bhaag jaati hai,
+raat lambi ho jaati hai, aankhein bhaari ho jaati hain.
+Jo baatein kehni thi, woh hothon pe reh gayi,
+ab khamoshi hi teri awaaz ban gayi hai."
+
+SIRF 4 lines. Koi number nahi. Koi label nahi. Bas pure dil se shayari.
+Har line complete honi chahiye — jaise ek poora sher ho."""
 
 
-def generate_shayari(theme: str) -> list[str]:
+def generate_shayari(theme: str) -> tuple[list[str], str]:
+    """Returns (lines, youtube_music_query) — Groq picks both shayari AND best music."""
     prompt = f"""Theme: "{theme}"
-Ek viral Instagram shayari likho is theme par.
-Sirf 4 lines — har line max 9 words.
-Romanized Hindi mein. Dil ko chhune wali."""
+
+Kaam: Do cheezein karo —
+
+1. Is theme par ek COMPLETE shayari likho — 4 poori lines.
+   - Har line 8-14 words ki honi chahiye — poori, meaningful
+   - Chaaron lines connected honi chahiye — ek flow mein
+   - LINE 3 sabse powerful — jo log raat ko yaad karein
+   - Koi heading, number ya label mat likho
+
+2. Is shayari ke liye PERFECT background music search query do.
+   - YouTube pe search karne ke liye 4-6 English words
+   - Real instrumental music — piano, guitar, violin, lofi etc.
+   - Mood match karo — sad, romantic, lonely, rainy, peaceful etc.
+   - Example queries: "sad piano music no copyright", "romantic violin instrumental", "lofi rain ambience", "emotional guitar background music"
+
+FORMAT (bilkul aisa):
+SHAYARI:
+[line 1]
+[line 2]
+[line 3]
+[line 4]
+MUSIC: [youtube search query]"""
 
     try:
         r = client.chat.completions.create(
@@ -338,12 +388,34 @@ Romanized Hindi mein. Dil ko chhune wali."""
                 {"role": "system", "content": SHAYARI_SYSTEM},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=150, temperature=0.97)
-        lines = [l.strip() for l in r.choices[0].message.content.strip().split("\n")
-                 if l.strip()][:4]
+            max_tokens=350, temperature=0.95)
+
+        raw = r.choices[0].message.content.strip()
+
+        # Parse shayari lines
+        lines = []
+        music_query = None
+
+        for line in raw.split("\n"):
+            line = line.strip()
+            if not line: continue
+            if line.upper().startswith("SHAYARI:"): continue
+            if line.upper().startswith("MUSIC:"):
+                music_query = line[6:].strip().strip('"').strip("'")
+                continue
+            if line.startswith("[") or line.startswith("#"): continue
+            lines.append(line)
+
+        lines = [l for l in lines if len(l) > 5][:4]
         while len(lines) < 4:
             lines.append("kuch baatein kehne se nahi jaati.")
-        return lines
+
+        if not music_query:
+            music_query = f"{theme} sad piano instrumental no copyright"
+
+        logger.info(f"🎵 Music query: {music_query}")
+        return lines, music_query
+
     except Exception as e:
         logger.error(f"Shayari Groq: {e}")
         return [
@@ -351,26 +423,369 @@ Romanized Hindi mein. Dil ko chhune wali."""
             "kuch rishte khatam nahi hote, bas khamosh ho jaate hain.",
             "jo baat kehni thi, woh reh gayi andar.",
             "kuch dard kehne se nahi jaate.",
-        ]
+        ], f"{theme} sad piano no copyright"
+
+
+
+def mix_ambient_audio(voice_path: str, output_path: str, duration: float):
+    """Mix soft ambient tone under the voice (used for English POV only)."""
+    try:
+        ambient_path = output_path.replace(".mp4", "_ambient.mp3")
+        os.system(f'ffmpeg -f lavfi -i "sine=frequency=432:duration={int(duration+2)}" -af "volume=0.07,aecho=0.8:0.5:60:0.3" "{ambient_path}" -y -loglevel quiet')
+        if os.path.exists(ambient_path):
+            voice   = mp.AudioFileClip(voice_path)
+            ambient = mp.AudioFileClip(ambient_path).set_duration(voice.duration)
+            mixed   = mp.CompositeAudioClip([ambient, voice])
+            mixed_path = output_path.replace(".mp4", "_mixed.mp3")
+            mixed.write_audiofile(mixed_path, fps=44100, verbose=False, logger=None)
+            voice.close()
+            ambient.close()
+            if os.path.exists(ambient_path):
+                os.remove(ambient_path)
+            return mixed_path
+    except Exception as e:
+        logger.warning(f"Ambient mix failed: {e}")
+    return voice_path
+
+
+# ── Mood-matched royalty-free music (Pixabay — no copyright) ──────────────────
+# All tracks from pixabay.com/music — 100% free, no attribution required
+# Music generated via ffmpeg — no downloads needed, always works
+# Each mood uses specific frequencies + effects to match the shayari vibe
+SHAYARI_MUSIC_PARAMS = {
+    # freq, echo_delay, echo_decay, reverb, description
+    "sad":        (220, 80,  0.5, True,  "Minor A — melancholic piano feel"),
+    "rain":       (196, 120, 0.6, True,  "G note — rainy ambient"),
+    "night":      (174, 100, 0.55,True,  "F note — midnight lofi"),
+    "love":       (261, 60,  0.4, False, "C note — warm romantic"),
+    "loneliness": (185, 140, 0.65,True,  "F#/Gb — empty, lonely"),
+}
+
+# Map shayari theme → music mood
+THEME_TO_MUSIC_MOOD = {
+    "judai aur yaad":               "sad",
+    "mohabbat ka dard":             "love",
+    "rishton ka toota hua silsila": "sad",
+    "akela pan ki raat":            "night",
+    "jo baat keh na sake":          "sad",
+    "woh jo reh gaya andar":        "sad",
+    "intezaar ka dard":             "rain",
+    "khaamoshi ki awaaz":           "night",
+    "aankhon ka samandar":          "rain",
+    "teri kami ka ehsaas":          "loneliness",
+    "dil ka bojh":                  "sad",
+    "waqt ka zakhm":                "loneliness",
+}
+
+# Map visual query keywords → music mood fallback
+VISUAL_TO_MUSIC_MOOD = {
+    "rain":      "rain",
+    "night":     "night",
+    "ocean":     "sad",
+    "forest":    "loneliness",
+    "sunset":    "love",
+    "stars":     "night",
+    "city":      "night",
+    "candle":    "sad",
+    "flower":    "love",
+    "mountains": "loneliness",
+}
+
+
+def pick_music_mood(theme: str, query: str) -> str:
+    """Pick music mood based on theme first, then visual query."""
+    if theme in THEME_TO_MUSIC_MOOD:
+        return THEME_TO_MUSIC_MOOD[theme]
+    for keyword, mood in VISUAL_TO_MUSIC_MOOD.items():
+        if keyword in query.lower():
+            return mood
+    return "sad"
+
+
+def download_music(mood: str, output_path: str,
+                   search_query: str = None) -> str | None:
+    """
+    Search YouTube for mood-matched royalty-free music using yt-dlp.
+    Uses Groq-generated search query for best match per shayari.
+    Falls back to numpy synthesis if yt-dlp fails.
+    """
+    import subprocess
+    os.makedirs("assets/music", exist_ok=True)
+
+    # Use search query from Groq if provided, else use mood defaults
+    if not search_query:
+        DEFAULT_QUERIES = {
+            "sad":        "sad piano music no copyright",
+            "night":      "lofi night calm instrumental no copyright",
+            "love":       "romantic piano music no copyright",
+            "rain":       "rain piano ambient music no copyright",
+            "loneliness": "lonely piano emotional instrumental no copyright",
+        }
+        search_query = DEFAULT_QUERIES.get(mood, "sad piano music no copyright")
+
+    # Add "no copyright" if not already there
+    if "no copyright" not in search_query.lower() and "royalty free" not in search_query.lower():
+        search_query += " no copyright"
+
+    # Unique cache key per search query
+    safe_key = "".join(c if c.isalnum() else "_" for c in search_query)[:40]
+    mp3_path  = f"assets/music/{safe_key}.mp3"
+
+    if os.path.exists(mp3_path) and os.path.getsize(mp3_path) > 100000:
+        logger.info(f"🎵 Music cached: {mp3_path}")
+        return mp3_path
+
+    tmp_path = f"assets/music/tmp_{safe_key}"
+    logger.info(f"🎵 Searching music: '{search_query}'")
+
+    try:
+        result = subprocess.run([
+            "yt-dlp",
+            f"ytsearch3:{search_query}",   # search top 3 results
+            "--extract-audio",
+            "--audio-format", "mp3",
+            "--audio-quality", "5",
+            "--output", tmp_path + ".%(ext)s",
+            "--no-playlist",
+            "--match-filter", "duration > 60 & duration < 600",  # 1-10 min tracks
+            "--quiet",
+            "--no-warnings",
+            "--max-downloads", "1",        # only download first match
+        ], capture_output=True, text=True, timeout=90)
+
+        downloaded = tmp_path + ".mp3"
+        if os.path.exists(downloaded) and os.path.getsize(downloaded) > 100000:
+            # Trim to 65s with fade
+            subprocess.run([
+                "ffmpeg", "-i", downloaded,
+                "-t", "65",
+                "-af", "afade=t=in:ss=0:d=4,afade=t=out:st=61:d=4,volume=0.75",
+                mp3_path, "-y", "-loglevel", "error"
+            ], capture_output=True, timeout=30)
+            try: os.remove(downloaded)
+            except: pass
+            if os.path.exists(mp3_path) and os.path.getsize(mp3_path) > 50000:
+                logger.info(f"🎵 Music ready: {mp3_path} ({os.path.getsize(mp3_path)//1024}KB)")
+                return mp3_path
+        else:
+            logger.warning(f"yt-dlp output: {result.stderr[:200]}")
+    except Exception as e:
+        logger.warning(f"yt-dlp failed: {e}")
+
+    # Fallback: numpy synthesis
+    logger.warning("⚠️  Falling back to numpy music synthesis")
+    return _generate_numpy_music(mood, f"assets/music/{mood}_numpy.mp3")
+
+
+def _generate_numpy_music(mood: str, mp3_path: str) -> str | None:
+    """Fallback numpy music generator."""
+    import numpy as np, wave, subprocess
+    wav_path = mp3_path.replace(".mp3", ".wav")
+    CHORDS = {
+        "sad":        [220.0, 261.6, 329.6, 440.0],
+        "night":      [174.6, 207.7, 261.6, 349.2],
+        "love":       [261.6, 329.6, 392.0, 523.3],
+        "rain":       [196.0, 233.1, 293.7, 392.0],
+        "loneliness": [185.0, 220.0, 277.2, 370.0],
+    }
+    ECHO = {
+        "sad":        (0.08, 0.45, 0.18, 0.25),
+        "night":      (0.10, 0.50, 0.22, 0.28),
+        "love":       (0.06, 0.38, 0.14, 0.20),
+        "rain":       (0.12, 0.52, 0.25, 0.30),
+        "loneliness": (0.14, 0.55, 0.28, 0.32),
+    }
+    SR = 44100; DUR = 65
+    freqs = CHORDS.get(mood, CHORDS["sad"])
+    weights = [0.50, 0.32, 0.22, 0.15]
+    e1d, e1v, e2d, e2v = ECHO.get(mood, (0.08, 0.45, 0.18, 0.25))
+    try:
+        t = np.linspace(0, DUR, SR * DUR, endpoint=False)
+        audio = np.zeros(len(t))
+        for freq, w in zip(freqs, weights):
+            audio += w * np.sin(2 * np.pi * freq * t)
+            audio += (w * 0.08) * np.sin(2 * np.pi * (freq * 1.004) * t)
+        d1 = int(SR * e1d); e1 = np.zeros(len(audio)); e1[d1:] = audio[:-d1] * e1v; audio += e1
+        d2 = int(SR * e2d); e2 = np.zeros(len(audio)); e2[d2:] = audio[:-d2] * e2v; audio += e2
+        fi = int(SR * 5); fo = int(SR * 5)
+        audio[:fi] *= np.linspace(0, 1, fi); audio[-fo:] *= np.linspace(1, 0, fo)
+        audio = audio / np.max(np.abs(audio)) * 0.80
+        audio_int = (audio * 32767).astype(np.int16)
+        with wave.open(wav_path, "w") as wf:
+            wf.setnchannels(1); wf.setsampwidth(2)
+            wf.setframerate(SR); wf.writeframes(audio_int.tobytes())
+        subprocess.run(["ffmpeg", "-i", wav_path, "-codec:a", "libmp3lame",
+            "-qscale:a", "2", mp3_path, "-y", "-loglevel", "error"],
+            capture_output=True, timeout=30)
+        try: os.remove(wav_path)
+        except: pass
+        if os.path.exists(mp3_path) and os.path.getsize(mp3_path) > 5000:
+            return mp3_path
+    except Exception as e:
+        logger.warning(f"Numpy music failed: {e}")
+    return None
+
+
+def mix_shayari_music(music_path: str, output_path: str, duration: float) -> str | None:
+    """Trim/loop music to video duration, fade in/out, return mixed path."""
+    mixed_path = output_path.replace(".mp4", "_music.mp3")
+    try:
+        music = mp.AudioFileClip(music_path)
+        if music.duration < duration:
+            loops = math.ceil(duration / music.duration)
+            music = mp.concatenate_audioclips([music] * loops)
+        music = music.subclip(0, duration)
+        music = music.audio_fadein(1.5).audio_fadeout(2.0)
+        music = music.volumex(0.35)
+        music.write_audiofile(mixed_path, fps=44100, verbose=False, logger=None)
+        music.close()
+        logger.info(f"🎵 Music ready: {mixed_path}")
+        return mixed_path
+    except Exception as e:
+        logger.warning(f"Music mix failed: {e}")
+        return None
+
+def render_shayari_frame(lines: list[str], progress: float,
+                         accent: tuple, bg_arr) -> np.ndarray:
+    """Render one frame — aesthetic shayari page style. No voice, pure visuals."""
+    # Background
+    if bg_arr is not None:
+        img = Image.fromarray(bg_arr).convert("RGBA")
+    else:
+        arr = np.zeros((H, W, 3), dtype=np.uint8)
+        for y in range(H):
+            v = int(5 + (y / H) * 20)
+            arr[y, :] = [v, v+5, v+15]
+        img = Image.fromarray(arr).convert("RGBA")
+
+    # Heavy cinematic overlay — darker than POV for a more melancholic page feel
+    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    od = ImageDraw.Draw(overlay, "RGBA")
+    for y in range(H):
+        ratio = y / H
+        center_dist = abs(ratio - 0.5) * 2
+        # Darker overall — like ink on a page at night
+        alpha = int(120 + center_dist * 100)
+        od.line([(0, y), (W, y)], fill=(0, 0, 0, alpha))
+    img = Image.alpha_composite(img, overlay)
+    draw = ImageDraw.Draw(img, "RGBA")
+
+    # Thin decorative top line (accent color)
+    line_alpha = int(ease_in_out(min(1.0, progress * 3)) * 180)
+    lw = int(W * 0.25)
+    lx = (W - lw) // 2
+    for xi in range(lw):
+        fade = math.sin((xi / lw) * math.pi)
+        a = int(line_alpha * fade)
+        draw.rectangle([(lx+xi, 160), (lx+xi+1, 163)], fill=(*accent, a))
+
+    # Urdu-style ornament dot (center top)
+    if progress > 0.1:
+        dot_alpha = int(ease_in_out(min(1.0, (progress - 0.1) * 4)) * 200)
+        cx = W // 2
+        draw.ellipse([(cx-6, 145), (cx+6, 157)], fill=(*accent, dot_alpha))
+
+    # Lines layout — centered, generous spacing, staggered reveal
+    n = len(lines)
+    center_y = H // 2 + 40          # slightly below center — feels heavier
+    line_spacing = 180               # more breathing room between shayari lines
+    total_text_h = (n - 1) * line_spacing
+    start_y = center_y - total_text_h // 2
+
+    for i, line in enumerate(lines):
+        threshold = i / (n + 1)
+        local_p = max(0.0, min(1.0, (progress - threshold) * (n + 1) * 0.75))
+        eased = ease_in_out(local_p)
+        if eased < 0.01:
+            continue
+
+        alpha = int(eased * 255)
+        y_drift = int((1 - eased) * 20)   # subtle upward drift
+        y = start_y + i * line_spacing + y_drift
+
+        # THE LINE (line 2, 0-indexed) gets accent treatment
+        if i == 2:
+            font = gfont(60, bold=True)
+            color = accent
+        elif i == 0:
+            font = gfont(56, bold=True)
+            color = (240, 240, 240)
+        else:
+            font = gfont(50, bold=False)
+            color = (190, 190, 200)   # slightly cool white — more poetic
+
+        bb = font.getbbox("A")
+        cpl = max(5, (W - 140) // max(1, bb[2] - bb[0]))
+        wrapped = textwrap.fill(line, width=cpl).split("\n")
+        lh = (font.getbbox("Hg")[3] - font.getbbox("Hg")[1]) + 20
+
+        for j, wline in enumerate(wrapped):
+            lb = font.getbbox(wline)
+            lw2 = lb[2] - lb[0]
+            lx2 = (W - lw2) // 2
+            ly = y + j * lh
+
+            # Soft glow behind accent line
+            if i == 2:
+                glow_surf = Image.new("RGBA", (lw2 + 60, lh + 40), (0, 0, 0, 0))
+                gd = ImageDraw.Draw(glow_surf, "RGBA")
+                for spread in range(12, 0, -2):
+                    ga = int((alpha / 255) * (13 - spread) * 4)
+                    gd.rectangle([(spread, spread),
+                                  (lw2 + 60 - spread, lh + 40 - spread)],
+                                 fill=(*accent, ga))
+                img.alpha_composite(glow_surf, dest=(lx2 - 30, ly - 20))
+                draw = ImageDraw.Draw(img, "RGBA")
+
+            # Strong dark outline for readability
+            for ox, oy in [(-3,-3),(3,-3),(-3,3),(3,3),(-4,0),(4,0),(0,-4),(0,4)]:
+                draw.text((lx2+ox, ly+oy), wline, font=font, fill=(0,0,0,min(255,alpha)))
+            draw.text((lx2, ly), wline, font=font, fill=(*color, alpha))
+
+    # Bottom thin accent line — mirror of top
+    if progress > 0.7:
+        ba = int(ease_in_out(min(1.0, (progress - 0.7) * 4)) * 160)
+        lw3 = int(W * 0.25)
+        lx3 = (W - lw3) // 2
+        for xi in range(lw3):
+            fade = math.sin((xi / lw3) * math.pi)
+            a = int(ba * fade)
+            draw.rectangle([(lx3+xi, H-163), (lx3+xi+1, H-160)], fill=(*accent, a))
+
+    # Subtle watermark / channel handle — bottom center
+    if progress > 0.8:
+        wm_alpha = int(ease_in_out(min(1.0, (progress - 0.8) * 5)) * 120)
+        try:
+            wm_font = gfont(32, bold=False)
+            wm_text = "@anime_community447"
+            lb = wm_font.getbbox(wm_text)
+            wm_w = lb[2] - lb[0]
+            draw.text(((W - wm_w) // 2, H - 130), wm_text,
+                      font=wm_font, fill=(200, 200, 200, wm_alpha))
+        except:
+            pass
+
+    return np.array(img.convert("RGB"))
 
 
 def build_shayari_video(output_path: str) -> tuple[str, str, str]:
-    """Build a Hindi shayari POV video."""
+    """Build a Hindi shayari video — NO voice, mood-matched music + aesthetic text page."""
     theme  = random.choice(SHAYARI_THEMES)
     visual = random.choice(["nature", "urban"])
     query  = random.choice(VISUAL_QUERIES[visual])
     accent = random.choice([(255,150,180), (180,120,255), (255,200,100), (100,200,255)])
-    mood   = random.choice(["love", "heartbreak", "loneliness"])
 
-    logger.info(f"📿 Shayari: '{theme}' | {visual}")
+    logger.info(f"📿 Shayari: \'{theme}\' | {visual} | query: {query}")
 
-    lines = generate_shayari(theme)
-    logger.info(f"📝 Shayari: {lines}")
+    lines, music_query = generate_shayari(theme)
+    logger.info(f"📝 Shayari lines: {lines}")
+    logger.info(f"🎵 Music query from Groq: {music_query}")
 
     bg_path = download_pexels_clip(query)
-    total_dur = 15.0
+    total_dur = 18.0    # slightly longer — shayari needs time to breathe
     n_frames  = int(total_dur * FPS)
 
+    # Load background frames
     bg_frames = None
     if bg_path:
         try:
@@ -394,48 +809,57 @@ def build_shayari_video(output_path: str) -> tuple[str, str, str]:
                 except:
                     bg_frames.append(bg_frames[-1] if bg_frames else np.zeros((H, W, 3), dtype=np.uint8))
             raw.close()
+            logger.info("🎥 Shayari BG loaded")
         except Exception as e:
-            logger.warning(f"BG failed: {e}")
+            logger.warning(f"Shayari BG failed: {e}")
 
+    # Render frames using shayari-specific renderer
     rendered = []
     for fi in range(n_frames):
         progress = fi / n_frames
         bg_arr = bg_frames[fi] if bg_frames else None
-        frame = render_pov_frame(lines, progress, accent, bg_arr)
+        frame = render_shayari_frame(lines, progress, accent, bg_arr)
         rendered.append(frame)
 
     final = mp.ImageSequenceClip(rendered, fps=FPS)
     os.makedirs(os.path.dirname(output_path) if os.path.dirname(output_path) else ".", exist_ok=True)
 
-    # TTS — Hindi voice
-    # Format shayari for natural recitation — commas create breath pauses
-    spoken = ",  ".join(lines) + "."
-    audio_path = output_path.replace(".mp4", "_audio.mp3")
-    try:
-        gen_pov_tts(spoken, audio_path, voice="hi-IN-MadhurNeural", rate="-20%")
-        audio_clip = mp.AudioFileClip(audio_path)
-        vid_dur = max(total_dur, audio_clip.duration + 1.0)
-        if vid_dur > total_dur:
-            final = final.set_duration(vid_dur)
-        final = final.set_audio(audio_clip)
-        logger.info(f"🎤 Shayari audio: {audio_clip.duration:.1f}s")
-    except Exception as e:
-        logger.warning(f"Hindi TTS failed, trying English: {e}")
+    # ── Music (NO voice for shayari) ──────────────────────────────────────────
+    music_mood = pick_music_mood(theme, query)
+    logger.info(f"🎵 Music mood: {music_mood}")
+    music_local = download_music(music_mood, output_path, search_query=music_query)
+
+    if music_local:
+        music_path = mix_shayari_music(music_local, output_path, total_dur)
+        if music_path and os.path.exists(music_path):
+            try:
+                audio_clip = mp.AudioFileClip(music_path)
+                final = final.set_audio(audio_clip)
+                logger.info(f"🎵 Music added: {music_mood} mood")
+            except Exception as e:
+                logger.warning(f"Music attach failed: {e}")
+    else:
+        logger.warning("⚠️  No music — posting silent shayari video")
 
     final.write_videofile(output_path, fps=FPS, codec="libx264",
                           audio=True, audio_codec="aac",
                           verbose=False, logger=None,
                           ffmpeg_params=["-crf", "16", "-preset", "slow"])
     final.close()
-    if os.path.exists(audio_path):
-        os.remove(audio_path)
+    import gc; gc.collect()
+    import time; time.sleep(2)
+    # Cleanup temp music files
+    for suffix in ["_music.mp3"]:
+        f = output_path.replace(".mp4", suffix)
+        try:
+            if os.path.exists(f): os.remove(f)
+        except: pass
     logger.info(f"✅ Shayari saved: {output_path}")
 
     title   = lines[0]
     body    = "\n".join(lines[1:])
     caption = f"{title}\n\n{body}\n\n#shayari #urdu #hindi #dard #mohabbat #feelings #viral #fyp #reels"
     return title, body, caption
-
 
 
 def build_pov_video(output_path: str) -> tuple[str, str, str]:
@@ -500,16 +924,18 @@ def build_pov_video(output_path: str) -> tuple[str, str, str]:
 
     # Add Christopher voice TTS
     # Format POV for natural emotional delivery
-    spoken = ",  ".join(lines) + "."
+    spoken = ".  ".join(lines) + "."
     audio_path = output_path.replace(".mp4", "_audio.mp3")
     try:
-        gen_pov_tts(spoken, audio_path, voice="en-US-ChristopherNeural", rate="-12%")
-        audio_clip = mp.AudioFileClip(audio_path)
+        gen_pov_tts(spoken, audio_path, voice="en-US-ChristopherNeural", rate="-10%")
+        final_audio = mix_ambient_audio(audio_path, output_path, total_dur)
+        audio_clip = mp.AudioFileClip(final_audio)
         vid_dur = max(total_dur, audio_clip.duration + 1.0)
         if vid_dur > total_dur:
             final = final.set_duration(vid_dur)
+        dur_info = audio_clip.duration
         final = final.set_audio(audio_clip)
-        logger.info(f"🎤 POV audio: {audio_clip.duration:.1f}s")
+        logger.info(f"🎤 POV audio: {dur_info:.1f}s")
     except Exception as e:
         logger.warning(f"POV TTS failed: {e}")
 
@@ -518,8 +944,11 @@ def build_pov_video(output_path: str) -> tuple[str, str, str]:
                           verbose=False, logger=None,
                           ffmpeg_params=["-crf", "16", "-preset", "slow"])
     final.close()
-    if os.path.exists(audio_path):
-        os.remove(audio_path)
+    import gc; gc.collect(); import time; time.sleep(2)
+    for f in [audio_path, audio_path.replace("_audio.mp3","_mixed.mp3")]:
+        try:
+            if os.path.exists(f): os.remove(f)
+        except: pass
     logger.info(f"✅ POV saved: {output_path}")
 
     title   = lines[0]
@@ -537,7 +966,7 @@ def make_and_post_pov():
     os.makedirs(config.OUTPUT_DIR, exist_ok=True)
 
     # 50/50 chance — POV English or Hindi Shayari
-    if random.random() < 0.5:
+    if random.random() < 0.8:
         title, body, caption = build_shayari_video(out)
         logger.info("📿 Type: Shayari")
     else:
@@ -554,12 +983,15 @@ def make_and_post_pov():
     # Cleanup
     if os.path.exists(out):
         os.remove(out)
+    import gc; gc.collect()
+    import time; time.sleep(2)
     for folder in ["assets/pov"]:
         if os.path.isdir(folder):
             for f in os.listdir(folder):
                 fp = os.path.join(folder, f)
-                if os.path.isfile(fp):
-                    os.remove(fp)
+                try:
+                    if os.path.isfile(fp): os.remove(fp)
+                except: pass
     logger.info("━" * 50)
 
 

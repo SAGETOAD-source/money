@@ -261,3 +261,1284 @@
 2026-06-06 17:09:23,254  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/NZLEjNdnTIM | Instagram: https://www.instagram.com/reel/18083347316410563/
 2026-06-06 17:09:23,265  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2026-06-06 17:09:23,265  [INFO]  🤖 POV Bot running.
+2026-06-06 21:41:51,831  [INFO]  ==================================================
+2026-06-06 21:41:51,832  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-06 21:41:51,832  [INFO]  ==================================================
+2026-06-06 21:41:51,832  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-06 21:41:51,832  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-06 21:41:51,833  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-06 21:41:51,833  [INFO]  🤖 POV Bot running.
+2026-06-06 21:43:47,139  [INFO]  ==================================================
+2026-06-06 21:43:47,140  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-06 21:43:47,140  [INFO]  ==================================================
+2026-06-06 21:43:47,140  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-06 21:43:47,140  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-06 21:43:47,140  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-06 21:43:47,141  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 21:43:47,141  [INFO]  🎭 POV pipeline starting…
+2026-06-06 21:43:47,142  [INFO]  📿 Shayari: 'akela pan ki raat' | urban
+2026-06-06 21:43:47,742  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 21:43:47,754  [INFO]  📝 Shayari: ['Raat aayi hai akeli', 'Dard ki chaadar odhe', 'Chaand bhi roye ansoo', 'Khamoshi mere saath']
+2026-06-06 21:43:50,949  [INFO]  ✅ POV clip: assets/pov/37025796.mp4
+2026-06-06 21:44:23,983  [WARNING]  Ambient mix failed: 'CompositeAudioClip' object has no attribute 'fps'
+2026-06-06 21:44:24,072  [INFO]  🎤 Shayari audio: 12.1s
+2026-06-09 23:15:01,521  [INFO]  ==================================================
+2026-06-09 23:15:01,522  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-09 23:15:01,522  [INFO]  ==================================================
+2026-06-09 23:15:01,522  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-09 23:15:01,522  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-09 23:15:01,522  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-09 23:15:01,522  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-09 23:15:01,523  [INFO]  🎭 POV pipeline starting…
+2026-06-09 23:15:01,523  [INFO]  📿 Shayari: 'aankhon ka samandar' | urban
+2026-06-09 23:15:02,156  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-09 23:15:02,166  [INFO]  📝 Shayari: ['Meri aankhon ka samandar gehra hai', 'Dard ki leheron se bhar gaya', 'Aankhein chaand ki roshni mein doobti', 'Raat ki khamoshi mein khoya hua']
+2026-06-09 23:15:21,261  [INFO]  ✅ POV clip: assets/pov/34163983.mp4
+2026-06-09 23:16:55,779  [WARNING]  Ambient mix failed: 'CompositeAudioClip' object has no attribute 'fps'
+2026-06-09 23:16:55,850  [INFO]  🎤 Shayari audio: 15.4s
+2026-06-09 23:29:36,266  [INFO]  ==================================================
+2026-06-09 23:29:36,267  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-09 23:29:36,267  [INFO]  ==================================================
+2026-06-09 23:29:36,268  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-09 23:29:36,268  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-09 23:29:36,268  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-09 23:29:36,268  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-09 23:29:36,268  [INFO]  🎭 POV pipeline starting…
+2026-06-09 23:29:36,268  [INFO]  🎬 POV: 'it's been months and a smell still reminds you of them' | heartbreak | hinglish | urban
+2026-06-09 23:29:37,041  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-09 23:29:37,050  [INFO]  📝 Lines: ["POV: it's been months aur woh smell", 'Abhi bhi dil dhadakta hai', 'Yaadon ki boonden girne lagti', 'Tumhare bina koi smell bhi nahi', 'Dard ab thoda kam hai lekin', 'Abhi bhi saans mein tum ho']
+2026-06-09 23:30:19,384  [INFO]  ✅ POV clip: assets/pov/32160480.mp4
+2026-06-09 23:30:28,921  [INFO]  🎥 BG frames loaded
+2026-06-09 23:31:00,617  [WARNING]  Ambient mix failed: 'CompositeAudioClip' object has no attribute 'fps'
+2026-06-09 23:31:00,694  [INFO]  🎤 POV audio: 19.4s
+2026-06-10 01:56:54,427  [INFO]  ==================================================
+2026-06-10 01:56:54,428  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 01:56:54,429  [INFO]  ==================================================
+2026-06-10 01:56:54,430  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 01:56:54,430  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 01:56:54,430  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 01:56:54,430  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 01:56:54,430  [INFO]  🎭 POV pipeline starting…
+2026-06-10 01:56:54,430  [INFO]  🎬 POV: 'you fell for someone already taken' | love | hinglish | urban
+2026-06-10 01:56:55,520  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:56:55,538  [INFO]  📝 Lines: ['POV: you fell for someone already taken', 'Dil toh khush hai, par mann bahut dukha', 'Kya karun, kya na karun, sochne lagta hun', 'You deserve better, par dil aapke paas hai', 'Uske bina zikr bhi nahi, aisa lagta hai', 'Tumhari yaad mein khoye hue, slowly fading...']
+2026-06-10 01:57:03,606  [INFO]  ✅ POV clip: assets/pov/37239074.mp4
+2026-06-10 01:57:19,593  [INFO]  🎥 BG frames loaded
+2026-06-10 01:58:13,566  [WARNING]  Ambient mix failed: 'CompositeAudioClip' object has no attribute 'fps'
+2026-06-10 01:58:13,635  [INFO]  🎤 POV audio: 25.7s
+2026-06-10 10:43:59,466  [INFO]  ==================================================
+2026-06-10 10:43:59,468  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 10:43:59,470  [INFO]  ==================================================
+2026-06-10 10:43:59,470  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 10:43:59,470  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 10:43:59,470  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 10:43:59,470  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 10:43:59,470  [INFO]  🎭 POV pipeline starting…
+2026-06-10 10:43:59,471  [INFO]  🎬 POV: 'you said I'm fine but meant please ask me again' | love | hinglish | urban
+2026-06-10 10:44:00,436  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 10:44:00,450  [INFO]  📝 Lines: ['POV: tu bola main theek hu', 'Par teri aankhon mein dard dekha', 'Dil mein kuch aur tha', '"Please ask me again" kabhi na kaha', 'Tere bina main adhura hu, yaar', 'Mere dil ki dhadkan teri zarurat se dhimi ho rahi']
+2026-06-10 10:45:11,266  [INFO]  ✅ POV clip: assets/pov/26791724.mp4
+2026-06-10 10:46:28,012  [INFO]  🎥 BG frames loaded
+2026-06-10 10:47:06,283  [WARNING]  Ambient mix failed: 'CompositeAudioClip' object has no attribute 'fps'
+2026-06-10 10:47:07,169  [INFO]  🎤 POV audio: 21.8s
+2026-06-10 11:25:01,408  [INFO]  ==================================================
+2026-06-10 11:25:01,410  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 11:25:01,410  [INFO]  ==================================================
+2026-06-10 11:25:01,410  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 11:25:01,410  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 11:25:01,410  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 11:25:01,410  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 11:25:01,411  [INFO]  🎭 POV pipeline starting…
+2026-06-10 11:25:01,411  [INFO]  📿 Shayari: 'aankhon ka samandar' | urban
+2026-06-10 11:25:02,041  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 11:25:02,067  [INFO]  📝 Shayari: ['Aankhon ka samandar gehra hai', 'Dariya mein doobte hue bhi', 'Chaand ki roshni mein khoye', 'Khamoshi mein raat guzarti']
+2026-06-10 11:25:25,238  [INFO]  ✅ POV clip: assets/pov/33319746.mp4
+2026-06-10 11:25:32,218  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python313\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/33319746.mp4, 6220800 bytes wanted but 0 bytes read,at frame 526/527, at time 8.77/8.77 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-10 11:26:02,787  [INFO]  🎤 Shayari audio: 13.7s
+2026-06-10 11:26:02,787  [WARNING]  Hindi TTS failed: [WinError 32] The process cannot access the file because it is being used by another process: 'output\\pov_20260610_112501_mixed.mp3'
+2026-06-10 11:26:19,101  [INFO]  ✅ Shayari saved: output\pov_20260610_112501.mp4
+2026-06-10 11:26:19,539  [INFO]  📿 Type: Shayari
+2026-06-10 11:26:21,755  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 11:26:21,836  [INFO]  📤 Uploading to YouTube: Aankhon ka samandar gehra hai #Shorts
+2026-06-10 11:26:47,429  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/Uc_i0XyGLFw
+2026-06-10 11:26:47,431  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/Uc_i0XyGLFw
+2026-06-10 11:27:00,298  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-10 11:27:37,595  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781071056/autoshorts/dfzcnyqwijtvdfuxsiqn.mp4
+2026-06-10 11:27:37,596  [INFO]  📤 Creating Instagram Reel container…
+2026-06-10 11:27:38,636  [INFO]  📦 Container created: 18113220496714875
+2026-06-10 11:27:44,372  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:27:50,004  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:27:55,638  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:28:01,268  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:28:07,003  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:28:12,543  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:28:18,268  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:28:23,923  [INFO]  ⏳ Container status: FINISHED
+2026-06-10 11:28:32,254  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18001635725760880/
+2026-06-10 11:28:32,960  [INFO]  🗑️  Cloudinary video deleted
+2026-06-10 11:28:32,963  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18001635725760880/
+2026-06-10 11:28:32,963  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/Uc_i0XyGLFw | Instagram: https://www.instagram.com/reel/18001635725760880/
+2026-06-10 11:29:42,874  [INFO]  ==================================================
+2026-06-10 11:29:42,874  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 11:29:42,875  [INFO]  ==================================================
+2026-06-10 11:29:42,877  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 11:29:42,878  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 11:29:42,881  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 11:29:42,881  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 11:29:42,882  [INFO]  🎭 POV pipeline starting…
+2026-06-10 11:29:42,883  [INFO]  📿 Shayari: 'akela pan ki raat' | nature
+2026-06-10 11:29:43,466  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 11:29:43,501  [INFO]  📝 Shayari: ['Raat aati hai to akela', 'Dard ka dariya chalta hai', 'Chaand bhi rota hai raat', 'Khamoshi mein guzarta hai']
+2026-06-10 11:29:52,218  [INFO]  ✅ POV clip: assets/pov/32024433.mp4
+2026-06-10 11:30:34,210  [INFO]  🎤 Shayari audio: 13.9s
+2026-06-10 11:30:50,628  [INFO]  ✅ Shayari saved: output\pov_20260610_112942.mp4
+2026-06-10 11:30:50,842  [INFO]  📿 Type: Shayari
+2026-06-10 11:30:51,212  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 11:30:51,219  [INFO]  📤 Uploading to YouTube: Raat aati hai to akela #Shorts
+2026-06-10 11:31:10,616  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/Wa_IW-RlJWI
+2026-06-10 11:31:10,617  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/Wa_IW-RlJWI
+2026-06-10 11:31:19,881  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-10 11:31:49,748  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781071308/autoshorts/rcn7n4rbpbicddquqjmq.mp4
+2026-06-10 11:31:49,748  [INFO]  📤 Creating Instagram Reel container…
+2026-06-10 11:31:50,640  [INFO]  📦 Container created: 18113221273714875
+2026-06-10 11:31:56,383  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:32:02,015  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:32:07,751  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:32:13,483  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 11:32:19,218  [INFO]  ⏳ Container status: FINISHED
+2026-06-10 11:32:27,513  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18096131201213998/
+2026-06-10 11:32:28,637  [INFO]  🗑️  Cloudinary video deleted
+2026-06-10 11:32:28,640  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18096131201213998/
+2026-06-10 11:32:28,640  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/Wa_IW-RlJWI | Instagram: https://www.instagram.com/reel/18096131201213998/
+2026-06-10 16:13:39,091  [INFO]  ==================================================
+2026-06-10 16:13:39,095  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 16:13:39,095  [INFO]  ==================================================
+2026-06-10 16:13:39,095  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 16:13:39,095  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 16:13:39,095  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 16:13:39,095  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 16:13:39,096  [INFO]  🎭 POV pipeline starting…
+2026-06-10 16:13:39,096  [INFO]  🎬 POV: 'you kept waiting for a text that never came' | love | english | urban
+2026-06-10 16:13:39,915  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 16:13:39,926  [INFO]  📝 Lines: ['POV: you kept waiting for a text that never came', 'Your heart stayed open, hoping for a reply', 'The silence was deafening, a painful goodbye', 'You were left questioning if you ever mattered', 'The ache of longing still echoes deep within', 'Fading into the emptiness, slowly sinking']
+2026-06-10 16:14:59,524  [INFO]  🎥 BG frames loaded
+2026-06-10 16:16:20,376  [WARNING]  Ambient mix failed: Error in file output\pov_20260610_161339_ambient.mp3, Accessing time t=17.05-17.09 seconds, with clip duration=17 seconds, 
+2026-06-10 16:16:20,457  [INFO]  🎤 POV audio: 23.7s
+2026-06-10 16:17:02,512  [INFO]  ✅ POV saved: output\pov_20260610_161339.mp4
+2026-06-10 16:17:02,666  [INFO]  🎭 Type: POV
+2026-06-10 16:17:03,182  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 16:17:03,188  [INFO]  📤 Uploading to YouTube: POV: you kept waiting for a text that never came #Shorts
+2026-06-10 16:17:11,967  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/KrBLoRrKOPM
+2026-06-10 16:17:11,967  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/KrBLoRrKOPM
+2026-06-10 16:17:25,185  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-10 16:17:34,425  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781088452/autoshorts/flgtgnomups643ioic7v.mp4
+2026-06-10 16:17:34,440  [INFO]  📤 Creating Instagram Reel container…
+2026-06-10 16:17:36,587  [INFO]  📦 Container created: 17971954635061986
+2026-06-10 16:17:42,827  [INFO]  ⏳ Container status: 
+2026-06-10 16:17:48,917  [INFO]  ⏳ Container status: 
+2026-06-10 16:17:55,145  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:01,188  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:06,912  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:13,049  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:19,365  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:25,763  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:31,916  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:38,055  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:44,133  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:50,342  [INFO]  ⏳ Container status: 
+2026-06-10 16:18:57,203  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:03,234  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:09,282  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:15,427  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:21,437  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:27,819  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:33,961  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:40,222  [INFO]  ⏳ Container status: 
+2026-06-10 16:19:47,862  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18109961140934317/
+2026-06-10 16:19:48,601  [INFO]  🗑️  Cloudinary video deleted
+2026-06-10 16:19:48,602  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18109961140934317/
+2026-06-10 16:19:48,602  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/KrBLoRrKOPM | Instagram: https://www.instagram.com/reel/18109961140934317/
+2026-06-10 16:51:22,881  [INFO]  ==================================================
+2026-06-10 16:51:22,883  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 16:51:22,883  [INFO]  ==================================================
+2026-06-10 16:51:22,884  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 16:51:22,885  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 16:51:22,888  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 16:51:22,888  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 16:51:22,888  [INFO]  🎭 POV pipeline starting…
+2026-06-10 16:51:22,889  [INFO]  📿 Shayari: 'khaamoshi ki awaaz' | urban
+2026-06-10 16:51:23,809  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 16:51:23,841  [INFO]  📝 Shayari: ['Raat ki khamoshi sunaati hai', 'Dard ki gehri aawaaz hai', 'Aankhein bolti hain raat mein', 'Khamoshi mein hai sach hai']
+2026-06-10 16:51:27,234  [INFO]  ✅ POV clip: assets/pov/17888695.mp4
+2026-06-10 16:51:45,922  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python313\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/17888695.mp4, 6220800 bytes wanted but 0 bytes read,at frame 403/405, at time 13.43/13.48 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-10 16:51:45,946  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python313\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/17888695.mp4, 6220800 bytes wanted but 0 bytes read,at frame 404/405, at time 13.47/13.48 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-10 17:12:47,662  [INFO]  🎤 Shayari audio: 15.3s
+2026-06-10 17:12:55,979  [INFO]  ✅ Shayari saved: output\pov_20260610_165122.mp4
+2026-06-10 17:12:56,200  [INFO]  📿 Type: Shayari
+2026-06-10 17:12:57,177  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 17:12:57,182  [INFO]  📤 Uploading to YouTube: Raat ki khamoshi sunaati hai #Shorts
+2026-06-10 17:13:04,753  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/kV5KnWde5yo
+2026-06-10 17:13:04,753  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/kV5KnWde5yo
+2026-06-10 17:13:14,711  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-10 17:13:23,142  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781091800/autoshorts/ybiurpj7td9lthyugqyd.mp4
+2026-06-10 17:13:23,143  [INFO]  📤 Creating Instagram Reel container…
+2026-06-10 17:13:24,502  [INFO]  📦 Container created: 18113281387714875
+2026-06-10 17:13:30,606  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:13:36,794  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:13:42,836  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:13:48,958  [INFO]  ⏳ Container status: FINISHED
+2026-06-10 17:13:56,146  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18016850492752044/
+2026-06-10 17:13:57,065  [INFO]  🗑️  Cloudinary video deleted
+2026-06-10 17:13:57,071  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18016850492752044/
+2026-06-10 17:13:57,072  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/kV5KnWde5yo | Instagram: https://www.instagram.com/reel/18016850492752044/
+2026-06-10 17:18:20,062  [INFO]  ==================================================
+2026-06-10 17:18:20,063  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 17:18:20,063  [INFO]  ==================================================
+2026-06-10 17:18:20,063  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 17:18:20,063  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 17:18:20,064  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 17:18:20,064  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:18:20,064  [INFO]  🎭 POV pipeline starting…
+2026-06-10 17:18:20,065  [INFO]  📿 Shayari: 'waqt ka zakhm' | urban
+2026-06-10 17:18:21,365  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:18:21,384  [INFO]  📝 Shayari: ['waqt ka zakhm abhi bhi hai', 'dard badhta ja raha hai', 'chaand bhi roya raat mein', 'khamoshi ne sahaara diya']
+2026-06-10 17:18:26,838  [INFO]  ✅ POV clip: assets/pov/15019286.mp4
+2026-06-10 17:20:05,653  [INFO]  🎤 Shayari audio: 13.7s
+2026-06-10 17:20:28,560  [INFO]  ✅ Shayari saved: output\pov_20260610_171820.mp4
+2026-06-10 17:20:28,656  [INFO]  📿 Type: Shayari
+2026-06-10 17:20:28,954  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 17:20:28,958  [INFO]  📤 Uploading to YouTube: waqt ka zakhm abhi bhi hai #Shorts
+2026-06-10 17:20:36,024  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/nkAF193NA-8
+2026-06-10 17:20:36,025  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/nkAF193NA-8
+2026-06-10 17:20:43,522  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-10 17:20:49,206  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781092247/autoshorts/fluk1t6gux2cisper2s0.mp4
+2026-06-10 17:20:49,206  [INFO]  📤 Creating Instagram Reel container…
+2026-06-10 17:20:50,580  [INFO]  📦 Container created: 18113283673714875
+2026-06-10 17:20:56,811  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:21:02,811  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:21:08,894  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:21:15,011  [INFO]  ⏳ Container status: FINISHED
+2026-06-10 17:21:32,753  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18111311464926884/
+2026-06-10 17:21:33,470  [INFO]  🗑️  Cloudinary video deleted
+2026-06-10 17:21:33,473  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18111311464926884/
+2026-06-10 17:21:33,474  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/nkAF193NA-8 | Instagram: https://www.instagram.com/reel/18111311464926884/
+2026-06-10 17:21:35,906  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:21:35,906  [INFO]  🤖 POV Bot running.
+2026-06-10 17:30:46,924  [INFO]  ==================================================
+2026-06-10 17:30:46,925  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-10 17:30:46,925  [INFO]  ==================================================
+2026-06-10 17:30:46,925  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-10 17:30:46,926  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-10 17:30:46,926  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-10 17:30:46,926  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:30:46,926  [INFO]  🎭 POV pipeline starting…
+2026-06-10 17:30:46,926  [INFO]  🎬 POV: 'you realized your peace is worth more than their presence' | self-growth | hinglish | nature
+2026-06-10 17:30:47,974  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:30:47,987  [INFO]  📝 Lines: ['POV: you realize kuch log aapki zindagi se dur ho', 'Aap unhe miss karte hain, par', 'Dhira dhira aapko ehsaas hota hai', 'Tumhari shaanti unse zyada important hai', 'Ab aap apne liye khush hain, aur', 'Aapki aankhon mein sukoon hai']
+2026-06-10 17:30:51,793  [INFO]  ✅ POV clip: assets/pov/29213693.mp4
+2026-06-10 17:31:00,291  [INFO]  🎥 BG frames loaded
+2026-06-10 17:31:31,727  [WARNING]  Ambient mix failed: Error in file output\pov_20260610_173046_ambient.mp3, Accessing time t=17.14-17.18 seconds, with clip duration=17 seconds, 
+2026-06-10 17:31:31,793  [INFO]  🎤 POV audio: 24.6s
+2026-06-10 17:31:43,321  [INFO]  ✅ POV saved: output\pov_20260610_173046.mp4
+2026-06-10 17:31:43,421  [INFO]  🎭 Type: POV
+2026-06-10 17:31:43,624  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-10 17:31:43,627  [INFO]  📤 Uploading to YouTube: POV: you realize kuch log aapki zindagi se dur ho #Shorts
+2026-06-10 17:31:56,625  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/lgSeVKgGcyA
+2026-06-10 17:31:56,627  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/lgSeVKgGcyA
+2026-06-10 17:32:01,836  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-10 17:32:08,065  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781092926/autoshorts/rwfkll8phlpqommxxd4n.mp4
+2026-06-10 17:32:08,065  [INFO]  📤 Creating Instagram Reel container…
+2026-06-10 17:32:09,742  [INFO]  📦 Container created: 18113286331714875
+2026-06-10 17:32:15,803  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:32:21,851  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:32:27,973  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-10 17:32:34,163  [INFO]  ⏳ Container status: FINISHED
+2026-06-10 17:32:43,121  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18095388386601820/
+2026-06-10 17:32:44,203  [INFO]  🗑️  Cloudinary video deleted
+2026-06-10 17:32:44,208  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18095388386601820/
+2026-06-10 17:32:44,208  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/lgSeVKgGcyA | Instagram: https://www.instagram.com/reel/18095388386601820/
+2026-06-10 17:32:46,620  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-10 17:32:46,620  [INFO]  🤖 POV Bot running.
+2026-06-11 11:46:18,893  [INFO]  ==================================================
+2026-06-11 11:46:18,894  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-11 11:46:18,894  [INFO]  ==================================================
+2026-06-11 11:46:18,894  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-11 11:46:18,894  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-11 11:46:18,895  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-11 11:46:18,895  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 11:46:18,895  [INFO]  🎭 POV pipeline starting…
+2026-06-11 11:46:18,895  [INFO]  🎬 POV: 'you realized some people are seasonal' | friendship | english | urban
+2026-06-11 11:46:19,533  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-11 11:46:19,544  [INFO]  📝 Lines: ['POV: you realized some people are seasonal', 'They appear in your life suddenly', 'Filling the emptiness with warmth', "You're only a chapter in their story", 'But their presence changed you somehow', 'Fading into a gentle memory']
+2026-06-11 11:46:43,343  [INFO]  ✅ POV clip: assets/pov/30846352.mp4
+2026-06-11 11:46:52,023  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/30846352.mp4, 6220800 bytes wanted but 0 bytes read,at frame 404/405, at time 13.47/13.47 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-11 11:46:53,136  [INFO]  🎥 BG frames loaded
+2026-06-11 11:47:34,013  [WARNING]  Ambient mix failed: Error in file output\pov_20260611_114618_ambient.mp3, Accessing time t=17.14-17.18 seconds, with clip duration=17 seconds, 
+2026-06-11 11:47:34,085  [INFO]  🎤 POV audio: 19.3s
+2026-06-11 11:48:29,995  [INFO]  ✅ POV saved: output\pov_20260611_114618.mp4
+2026-06-11 11:48:30,433  [INFO]  🎭 Type: POV
+2026-06-11 11:48:30,444  [ERROR]  ❌ POV YouTube failed: No module named 'googleapiclient'
+2026-06-11 11:48:40,436  [ERROR]  ❌ POV Instagram failed: No module named 'cloudinary'
+2026-06-11 11:48:40,436  [INFO]  🎉 POV Done! YouTube: N/A | Instagram: N/A
+2026-06-11 11:48:42,913  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 11:48:42,913  [INFO]  🤖 POV Bot running.
+2026-06-11 11:58:53,121  [INFO]  ==================================================
+2026-06-11 11:58:53,121  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-11 11:58:53,122  [INFO]  ==================================================
+2026-06-11 11:58:53,122  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-11 11:58:53,122  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-11 11:58:53,123  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-11 11:58:53,123  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 11:58:53,123  [INFO]  🎭 POV pipeline starting…
+2026-06-11 11:58:53,124  [INFO]  🎬 POV: 'you let go of someone you still loved' | self-growth | english | nature
+2026-06-11 11:58:53,824  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-11 11:58:53,848  [INFO]  📝 Lines: ['POV: you let go of someone you still loved', 'Memories of them still linger on', 'Your heart slowly starts to heal now', "You realize your worth wasn't in them", 'But in the lessons they taught you silently', 'Fading into a soft, gentle emptiness']
+2026-06-11 12:00:02,027  [INFO]  ✅ POV clip: assets/pov/30575359.mp4
+2026-06-11 12:01:00,180  [INFO]  🎥 BG frames loaded
+2026-06-11 12:02:13,630  [WARNING]  Ambient mix failed: Error in file output\pov_20260611_115853_ambient.mp3, Accessing time t=17.14-17.18 seconds, with clip duration=17 seconds, 
+2026-06-11 12:02:13,700  [INFO]  🎤 POV audio: 20.9s
+2026-06-11 12:02:29,821  [INFO]  ✅ POV saved: output\pov_20260611_115853.mp4
+2026-06-11 12:02:30,093  [INFO]  🎭 Type: POV
+2026-06-11 12:02:30,845  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\google\api_core\_python_version_support.py:255: FutureWarning: You are using a Python version (3.10.11) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+
+2026-06-11 12:02:31,737  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-11 12:02:31,764  [INFO]  📤 Uploading to YouTube: POV: you let go of someone you still loved #Shorts
+2026-06-11 12:02:47,245  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/mseMTn2JF6I
+2026-06-11 12:02:47,245  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/mseMTn2JF6I
+2026-06-11 12:02:57,903  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-11 12:03:20,948  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781159598/autoshorts/ir3v2mjftouthccojpxg.mp4
+2026-06-11 12:03:20,949  [INFO]  📤 Creating Instagram Reel container…
+2026-06-11 12:03:22,037  [INFO]  📦 Container created: 18113478181714875
+2026-06-11 12:03:27,539  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:03:32,964  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:03:38,393  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:03:44,026  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:03:49,454  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:03:54,982  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:04:00,411  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:04:05,900  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:04:11,369  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:04:16,794  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:04:22,322  [INFO]  ⏳ Container status: FINISHED
+2026-06-11 12:04:30,105  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18465718972106210/
+2026-06-11 12:04:30,822  [INFO]  🗑️  Cloudinary video deleted
+2026-06-11 12:04:30,827  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18465718972106210/
+2026-06-11 12:04:30,828  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/mseMTn2JF6I | Instagram: https://www.instagram.com/reel/18465718972106210/
+2026-06-11 12:04:33,279  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:04:33,280  [INFO]  🤖 POV Bot running.
+2026-06-11 12:11:52,220  [INFO]  ==================================================
+2026-06-11 12:11:52,220  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-11 12:11:52,221  [INFO]  ==================================================
+2026-06-11 12:11:52,221  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-11 12:11:52,221  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-11 12:11:52,221  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-11 12:11:52,221  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:11:52,221  [INFO]  🎭 POV pipeline starting…
+2026-06-11 12:11:52,221  [INFO]  📿 Shayari: 'judai aur yaad' | urban | query: train window moving landscape
+2026-06-11 12:11:52,759  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-11 12:11:52,773  [INFO]  📝 Shayari lines: ['Chaand ki roshni mein teri yaad', 'Dariya ki gehrai mein dard', 'Raat ki khamoshi mein aansu', 'Aankhein teri zaroorat hai']
+2026-06-11 12:14:56,375  [INFO]  ✅ POV clip: assets/pov/28097384.mp4
+2026-06-11 12:28:48,303  [INFO]  ==================================================
+2026-06-11 12:28:48,303  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-11 12:28:48,303  [INFO]  ==================================================
+2026-06-11 12:28:48,303  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-11 12:28:48,303  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-11 12:28:48,303  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-11 12:28:48,303  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:28:48,303  [INFO]  🎭 POV pipeline starting…
+2026-06-11 12:28:48,303  [INFO]  📿 Shayari: 'aankhon ka samandar' | urban | query: train window moving landscape
+2026-06-11 12:28:49,028  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-11 12:28:49,028  [INFO]  📝 Shayari lines: ['Aankhon ka samandar gehra hai', 'Dariya ki leharon mein dard', 'Chaand ki roshni mein khoya', 'Raat ki khamoshi mein doob gaya']
+2026-06-11 12:30:13,016  [INFO]  🎥 Shayari BG loaded
+2026-06-11 12:30:52,443  [INFO]  🎵 Music mood: rain
+2026-06-11 12:30:53,293  [WARNING]  Music HTTP 403: https://cdn.pixabay.com/audio/2022/03/15/audio_1eb8910638.mp3
+2026-06-11 12:30:54,265  [WARNING]  Music HTTP 403: https://cdn.pixabay.com/audio/2022/10/30/audio_c8c8a73467.mp3
+2026-06-11 12:30:54,266  [WARNING]  ⚠️  No music — posting silent shayari video
+2026-06-11 12:31:19,672  [INFO]  ✅ Shayari saved: output\pov_20260611_122848.mp4
+2026-06-11 12:31:20,089  [INFO]  📿 Type: Shayari
+2026-06-11 12:31:20,323  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\google\api_core\_python_version_support.py:255: FutureWarning: You are using a Python version (3.10.11) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+
+2026-06-11 12:31:20,642  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-11 12:31:20,646  [INFO]  📤 Uploading to YouTube: Aankhon ka samandar gehra hai #Shorts
+2026-06-11 12:32:03,160  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/x9h-wdicgDo
+2026-06-11 12:32:03,160  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/x9h-wdicgDo
+2026-06-11 12:32:14,077  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-11 12:33:23,161  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781161400/autoshorts/cncbz7fxlyyuwyhtkxlk.mp4
+2026-06-11 12:33:23,161  [INFO]  📤 Creating Instagram Reel container…
+2026-06-11 12:33:24,311  [INFO]  📦 Container created: 18113483299714875
+2026-06-11 12:33:29,916  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:33:35,444  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:33:40,984  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:33:46,506  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-11 12:33:52,238  [INFO]  ⏳ Container status: FINISHED
+2026-06-11 12:33:59,721  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18107277589954538/
+2026-06-11 12:34:00,533  [INFO]  🗑️  Cloudinary video deleted
+2026-06-11 12:34:00,537  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18107277589954538/
+2026-06-11 12:34:00,537  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/x9h-wdicgDo | Instagram: https://www.instagram.com/reel/18107277589954538/
+2026-06-11 12:34:02,906  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:34:02,906  [INFO]  🤖 POV Bot running.
+2026-06-12 16:48:27,021  [INFO]  ==================================================
+2026-06-12 16:48:27,022  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-12 16:48:27,022  [INFO]  ==================================================
+2026-06-12 16:48:27,024  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-12 16:48:27,024  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-12 16:48:27,024  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-12 16:48:27,024  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 16:48:27,024  [INFO]  🎭 POV pipeline starting…
+2026-06-12 16:48:27,025  [INFO]  📿 Shayari: 'mohabbat ka dard' | nature | query: sunset golden field
+2026-06-12 16:48:27,899  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-12 16:48:27,920  [INFO]  📝 Shayari lines: ['Chaand ki roshni mein dard hai', 'Aankhein tumhari sochti hain', 'Raat ki khamoshi tum ho', 'Dariya ki gehrai mein tum']
+2026-06-12 16:48:30,549  [INFO]  ✅ POV clip: assets/pov/35022851.mp4
+2026-06-12 16:48:40,432  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/35022851.mp4, 6220800 bytes wanted but 0 bytes read,at frame 239/241, at time 7.97/8.01 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-12 16:48:41,779  [INFO]  🎥 Shayari BG loaded
+2026-06-12 16:49:05,955  [INFO]  🎵 Music mood: love
+2026-06-12 16:49:07,384  [WARNING]  Music HTTP 403: https://cdn.pixabay.com/audio/2023/06/08/audio_0e1e861e6c.mp3
+2026-06-12 16:49:08,190  [WARNING]  Music HTTP 403: https://cdn.pixabay.com/audio/2022/12/23/audio_7e59447d53.mp3
+2026-06-12 16:49:08,193  [WARNING]  ⚠️  No music — posting silent shayari video
+2026-06-12 16:49:19,513  [INFO]  ✅ Shayari saved: output\pov_20260612_164827.mp4
+2026-06-12 16:49:19,799  [INFO]  📿 Type: Shayari
+2026-06-12 16:49:21,750  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\google\api_core\_python_version_support.py:255: FutureWarning: You are using a Python version (3.10.11) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+
+2026-06-12 16:49:22,706  [ERROR]  ❌ POV YouTube failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2026-06-12 16:49:37,464  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-12 16:49:44,031  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781263181/autoshorts/k48khxckujhm1vifft5w.mp4
+2026-06-12 16:49:44,031  [INFO]  📤 Creating Instagram Reel container…
+2026-06-12 16:49:44,950  [INFO]  📦 Container created: 18113752453714875
+2026-06-12 16:49:50,447  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-12 16:49:55,918  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-12 16:50:01,429  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-12 16:50:06,831  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-12 16:50:12,301  [INFO]  ⏳ Container status: FINISHED
+2026-06-12 16:50:18,685  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18105674783070304/
+2026-06-12 16:50:19,498  [INFO]  🗑️  Cloudinary video deleted
+2026-06-12 16:50:19,515  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18105674783070304/
+2026-06-12 16:50:19,515  [INFO]  🎉 POV Done! YouTube: N/A | Instagram: https://www.instagram.com/reel/18105674783070304/
+2026-06-12 16:50:21,833  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 16:50:21,833  [INFO]  🤖 POV Bot running.
+2026-06-12 17:41:33,062  [INFO]  ==================================================
+2026-06-12 17:41:33,062  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-12 17:41:33,062  [INFO]  ==================================================
+2026-06-12 17:41:33,062  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-12 17:41:33,062  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-12 17:41:33,062  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-12 17:41:33,062  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 17:41:33,062  [INFO]  🎭 POV pipeline starting…
+2026-06-12 17:41:33,068  [INFO]  🎬 POV: 'you realized healing isn't linear' | heartbreak | hinglish | nature
+2026-06-12 17:41:34,165  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-12 17:41:34,186  [INFO]  📝 Lines: ["POV: you realized healing isn't linear", 'Dard abhi bhi hai, slowly fading', 'Tears still fall, dil abhi bhi dukhta', "You can't rush dil ko theek hona", 'Life moves on, lekin scars remain', 'Ab bas ek sukoon bhari si silence']
+2026-06-12 17:41:37,040  [INFO]  ✅ POV clip: assets/pov/32320020.mp4
+2026-06-12 17:41:52,240  [INFO]  🎥 BG frames loaded
+2026-06-12 17:42:59,129  [WARNING]  Ambient mix failed: Error in file output\pov_20260612_174133_ambient.mp3, Accessing time t=17.12-17.16 seconds, with clip duration=17 seconds, 
+2026-06-12 17:42:59,258  [INFO]  🎤 POV audio: 22.9s
+2026-06-12 17:43:28,319  [INFO]  ✅ POV saved: output\pov_20260612_174133.mp4
+2026-06-12 17:43:29,092  [INFO]  🎭 Type: POV
+2026-06-12 17:43:29,429  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python310\lib\site-packages\google\api_core\_python_version_support.py:255: FutureWarning: You are using a Python version (3.10.11) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+
+2026-06-12 17:43:30,051  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-12 17:43:30,059  [INFO]  📤 Uploading to YouTube: POV: you realized healing isn't linear #Shorts
+2026-06-12 17:43:45,712  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/tD5mpXjUfXU
+2026-06-12 17:43:45,713  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/tD5mpXjUfXU
+2026-06-12 17:43:51,899  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-12 17:43:58,511  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781266436/autoshorts/llcqu6grns7lzz5d3ofh.mp4
+2026-06-12 17:43:58,511  [INFO]  📤 Creating Instagram Reel container…
+2026-06-12 17:43:59,198  [INFO]  📦 Container created: 18113761705714875
+2026-06-12 17:44:04,596  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-12 17:44:10,021  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-12 17:44:15,399  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-12 17:44:20,769  [INFO]  ⏳ Container status: FINISHED
+2026-06-12 17:44:27,915  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18043205681596777/
+2026-06-12 17:44:28,604  [INFO]  🗑️  Cloudinary video deleted
+2026-06-12 17:44:28,606  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18043205681596777/
+2026-06-12 17:44:28,606  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/tD5mpXjUfXU | Instagram: https://www.instagram.com/reel/18043205681596777/
+2026-06-12 17:44:30,901  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 17:44:30,916  [INFO]  🤖 POV Bot running.
+2026-06-13 02:44:17,636  [INFO]  ==================================================
+2026-06-13 02:44:17,637  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-13 02:44:17,637  [INFO]  ==================================================
+2026-06-13 02:44:17,637  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-13 02:44:17,638  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-13 02:44:17,638  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-13 02:44:17,638  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-13 02:44:17,638  [INFO]  🎭 POV pipeline starting…
+2026-06-13 02:44:17,639  [INFO]  📿 Shayari: 'woh jo reh gaya andar' | nature | query: mountains fog sunrise
+2026-06-13 02:44:18,111  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 02:44:18,122  [INFO]  📝 Shayari lines: ['Wo raat andar reh gayi', 'Dil ki dhadkan mein gehri', 'Chaand ki roshni se dard', 'Khamoshi mein woh rahe']
+2026-06-13 02:45:03,983  [INFO]  ✅ POV clip: assets/pov/34142319.mp4
+2026-06-13 02:46:43,469  [INFO]  🎥 Shayari BG loaded
+2026-06-13 02:47:06,893  [INFO]  🎵 Music mood: sad
+2026-06-13 02:47:06,893  [INFO]  🎵 Generating sad music (Minor A — melancholic piano feel)...
+2026-06-13 02:47:08,560  [INFO]  🎵 Music generated: assets/music/sad_ambient.mp3
+2026-06-13 02:47:08,859  [INFO]  🎵 Music ready: output\pov_20260613_024417_music.mp3
+2026-06-13 02:47:08,949  [INFO]  🎵 Music added: sad mood
+2026-06-13 02:47:25,676  [INFO]  ✅ Shayari saved: output\pov_20260613_024417.mp4
+2026-06-13 02:47:25,888  [INFO]  📿 Type: Shayari
+2026-06-13 02:47:27,140  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-13 02:47:27,162  [INFO]  📤 Uploading to YouTube: Wo raat andar reh gayi #Shorts
+2026-06-13 02:47:38,818  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/SVFQ1mciPqs
+2026-06-13 02:47:38,818  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/SVFQ1mciPqs
+2026-06-13 02:47:44,828  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-13 02:47:58,288  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781299076/autoshorts/no1qlchwcnrx432e2l5y.mp4
+2026-06-13 02:47:58,288  [INFO]  📤 Creating Instagram Reel container…
+2026-06-13 02:47:59,367  [INFO]  📦 Container created: 18113851168714875
+2026-06-13 02:48:05,015  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 02:48:10,594  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 02:48:16,155  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 02:48:22,157  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 02:48:28,127  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 02:48:34,095  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-13 02:48:40,077  [INFO]  ⏳ Container status: FINISHED
+2026-06-13 02:48:48,332  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17900839260450703/
+2026-06-13 02:48:49,354  [INFO]  🗑️  Cloudinary video deleted
+2026-06-13 02:48:49,354  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/17900839260450703/
+2026-06-13 02:48:49,354  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/SVFQ1mciPqs | Instagram: https://www.instagram.com/reel/17900839260450703/
+2026-06-13 02:48:51,961  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-13 02:48:51,961  [INFO]  🤖 POV Bot running.
+2026-06-14 14:05:34,231  [INFO]  ==================================================
+2026-06-14 14:05:34,232  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-14 14:05:34,232  [INFO]  ==================================================
+2026-06-14 14:05:34,233  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-14 14:05:34,233  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-14 14:05:34,233  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-14 14:05:34,233  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 14:05:34,234  [INFO]  🎭 POV pipeline starting…
+2026-06-14 14:05:34,235  [INFO]  📿 Shayari: 'khaamoshi ki awaaz' | nature | query: sunset golden field
+2026-06-14 14:05:34,783  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 14:05:34,798  [INFO]  📝 Shayari lines: ['Raat ki khamoshi mein dard', 'Dariya ki gehrai mein aansu', 'Chaand ki roshni mein aankhein', 'Khamosh dil ki awaaz hai']
+2026-06-14 14:06:08,526  [INFO]  ✅ POV clip: assets/pov/20690857.mp4
+2026-06-14 14:07:12,672  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/20690857.mp4, 24883200 bytes wanted but 0 bytes read,at frame 721/724, at time 12.03/12.07 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-14 14:07:12,774  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/20690857.mp4, 24883200 bytes wanted but 0 bytes read,at frame 723/724, at time 12.06/12.07 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-14 14:07:42,462  [INFO]  🎥 Shayari BG loaded
+2026-06-14 14:08:05,283  [INFO]  🎵 Music mood: night
+2026-06-14 14:08:05,288  [INFO]  🎵 Generating night music (F note — midnight lofi)...
+2026-06-14 14:08:06,746  [INFO]  🎵 Music generated: assets/music/night_ambient.mp3
+2026-06-14 14:08:07,024  [INFO]  🎵 Music ready: output\pov_20260614_140534_music.mp3
+2026-06-14 14:08:07,099  [INFO]  🎵 Music added: night mood
+2026-06-14 14:08:21,953  [INFO]  ✅ Shayari saved: output\pov_20260614_140534.mp4
+2026-06-14 14:08:22,267  [INFO]  📿 Type: Shayari
+2026-06-14 14:08:23,550  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-14 14:08:23,598  [INFO]  📤 Uploading to YouTube: Raat ki khamoshi mein dard #Shorts
+2026-06-14 14:08:40,245  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/PSr3kFJZ4bY
+2026-06-14 14:08:40,245  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/PSr3kFJZ4bY
+2026-06-14 14:08:46,650  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-14 14:09:12,041  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781426353/autoshorts/gzqkpjj6sgubo8uak9he.mp4
+2026-06-14 14:09:12,041  [INFO]  📤 Creating Instagram Reel container…
+2026-06-14 14:09:13,404  [INFO]  📦 Container created: 18114187690714875
+2026-06-14 14:09:19,465  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:09:25,712  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:09:31,945  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:09:37,987  [INFO]  ⏳ Container status: FINISHED
+2026-06-14 14:09:45,561  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18103034138030755/
+2026-06-14 14:09:46,382  [INFO]  🗑️  Cloudinary video deleted
+2026-06-14 14:09:46,385  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18103034138030755/
+2026-06-14 14:09:46,385  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/PSr3kFJZ4bY | Instagram: https://www.instagram.com/reel/18103034138030755/
+2026-06-14 14:09:49,164  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 14:09:49,164  [INFO]  🤖 POV Bot running.
+2026-06-14 14:11:09,370  [INFO]  ==================================================
+2026-06-14 14:11:09,370  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-14 14:11:09,371  [INFO]  ==================================================
+2026-06-14 14:11:09,373  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-14 14:11:09,373  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-14 14:11:09,373  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-14 14:11:09,373  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 14:11:09,373  [INFO]  🎭 POV pipeline starting…
+2026-06-14 14:11:09,373  [INFO]  📿 Shayari: 'akela pan ki raat' | nature | query: ocean waves slow
+2026-06-14 14:11:10,154  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 14:11:10,182  [INFO]  📝 Shayari lines: ['Raat hai aur main akela hoon', 'Dard ki gehrai mere andar hai', 'Chaand bhi rota hai mere saath', 'Khamoshi mein bas hai sukoon']
+2026-06-14 14:11:19,470  [INFO]  ✅ POV clip: assets/pov/9620654.mp4
+2026-06-14 14:11:28,345  [INFO]  🎥 Shayari BG loaded
+2026-06-14 14:11:48,981  [INFO]  🎵 Music mood: night
+2026-06-14 14:11:48,981  [INFO]  🎵 Music cached: assets/music/night_ambient.mp3
+2026-06-14 14:11:49,237  [INFO]  🎵 Music ready: output\pov_20260614_141109_music.mp3
+2026-06-14 14:11:49,308  [INFO]  🎵 Music added: night mood
+2026-06-14 14:12:07,345  [INFO]  ✅ Shayari saved: output\pov_20260614_141109.mp4
+2026-06-14 14:12:07,454  [INFO]  📿 Type: Shayari
+2026-06-14 14:12:07,668  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-14 14:12:07,674  [INFO]  📤 Uploading to YouTube: Raat hai aur main akela hoon #Shorts
+2026-06-14 14:12:30,229  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/44yGNCiJoyY
+2026-06-14 14:12:30,230  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/44yGNCiJoyY
+2026-06-14 14:12:37,818  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-14 14:13:10,760  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781426591/autoshorts/nagc5irptdzgc4qizdxs.mp4
+2026-06-14 14:13:10,760  [INFO]  📤 Creating Instagram Reel container…
+2026-06-14 14:13:12,009  [INFO]  📦 Container created: 18114188380714875
+2026-06-14 14:13:17,935  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:13:23,888  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:13:29,927  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:13:35,867  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:13:41,775  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:13:47,846  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:13:53,787  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 14:13:59,713  [INFO]  ⏳ Container status: FINISHED
+2026-06-14 14:14:05,357  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18188020915377692/
+2026-06-14 14:14:06,073  [INFO]  🗑️  Cloudinary video deleted
+2026-06-14 14:14:06,075  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18188020915377692/
+2026-06-14 14:14:06,075  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/44yGNCiJoyY | Instagram: https://www.instagram.com/reel/18188020915377692/
+2026-06-14 14:14:08,446  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 14:14:08,447  [INFO]  🤖 POV Bot running.
+2026-06-14 18:50:22,976  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 18:50:22,976  [INFO]  🎭 POV pipeline starting…
+2026-06-14 18:50:22,977  [INFO]  📿 Shayari: 'dil ka bojh' | nature | query: river peaceful nature
+2026-06-14 18:50:23,719  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 18:50:23,720  [INFO]  📝 Shayari lines: ['Dil mein bojh sa hai', 'Dard ki woh raaton ne', 'Tute dil ki aawaz', 'Khamoshi mein reh jaaye']
+2026-06-14 18:50:28,926  [INFO]  ✅ POV clip: assets/pov/16190513.mp4
+2026-06-14 18:50:32,660  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/16190513.mp4, 6220800 bytes wanted but 0 bytes read,at frame 165/167, at time 5.50/5.55 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-14 18:50:32,676  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/16190513.mp4, 6220800 bytes wanted but 0 bytes read,at frame 166/167, at time 5.53/5.55 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-14 18:50:36,201  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/16190513.mp4, 6220800 bytes wanted but 0 bytes read,at frame 164/167, at time 5.47/5.55 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-14 18:50:40,644  [INFO]  🎥 Shayari BG loaded
+2026-06-14 18:51:17,823  [INFO]  🎵 Music mood: sad
+2026-06-14 18:51:17,823  [INFO]  🎵 Generating sad music...
+2026-06-14 18:51:18,267  [INFO]  🎵 Music generated: assets/music/sad_ambient.mp3
+2026-06-14 18:51:18,576  [INFO]  🎵 Music ready: output\pov_20260614_185022_music.mp3
+2026-06-14 18:51:18,649  [INFO]  🎵 Music added: sad mood
+2026-06-14 18:51:59,621  [INFO]  ✅ Shayari saved: output\pov_20260614_185022.mp4
+2026-06-14 18:51:59,875  [INFO]  📿 Type: Shayari
+2026-06-14 18:52:00,940  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-14 18:52:00,946  [INFO]  📤 Uploading to YouTube: Dil mein bojh sa hai #Shorts
+2026-06-14 18:52:22,158  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/6rmFN54KqPs
+2026-06-14 18:52:22,159  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/6rmFN54KqPs
+2026-06-14 18:52:27,352  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-14 18:52:53,806  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781443374/autoshorts/hoke5ngbakdrau1hvz3a.mp4
+2026-06-14 18:52:53,806  [INFO]  📤 Creating Instagram Reel container…
+2026-06-14 18:52:55,401  [INFO]  📦 Container created: 18114234781714875
+2026-06-14 18:53:01,401  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 18:53:07,294  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 18:53:13,661  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 18:53:19,779  [INFO]  ⏳ Container status: FINISHED
+2026-06-14 18:53:27,026  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18149590981494207/
+2026-06-14 18:53:27,718  [INFO]  🗑️  Cloudinary video deleted
+2026-06-14 18:53:27,722  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18149590981494207/
+2026-06-14 18:53:27,722  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/6rmFN54KqPs | Instagram: https://www.instagram.com/reel/18149590981494207/
+2026-06-14 18:53:30,223  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 20:00:02,485  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 20:00:02,485  [INFO]  🎭 POV pipeline starting…
+2026-06-14 20:00:02,485  [INFO]  🎬 POV: 'you're deleting their number for the 4th time' | heartbreak | english | nature
+2026-06-14 20:00:03,104  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 20:00:03,106  [INFO]  📝 Lines: ["POV: you're deleting their number for the 4th time", 'Your fingers hesitate, memories linger', 'Pain still echoes, a haunting reminder', "You're stronger than the love you lost", 'But the ghosts of what we had remain', 'Fading into the silence, slowly sinking']
+2026-06-14 20:00:10,439  [INFO]  ✅ POV clip: assets/pov/20515518.mp4
+2026-06-14 20:00:29,085  [INFO]  🎥 BG frames loaded
+2026-06-14 20:02:06,995  [WARNING]  Ambient mix failed: Error in file output\pov_20260614_200002_ambient.mp3, Accessing time t=17.13-17.18 seconds, with clip duration=17 seconds, 
+2026-06-14 20:02:07,095  [INFO]  🎤 POV audio: 21.9s
+2026-06-14 20:02:34,625  [INFO]  ✅ POV saved: output\pov_20260614_200002.mp4
+2026-06-14 20:02:35,141  [INFO]  🎭 Type: POV
+2026-06-14 20:02:36,495  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-14 20:02:36,504  [INFO]  📤 Uploading to YouTube: POV: you're deleting their number for the 4th time #Shorts
+2026-06-14 20:02:44,957  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/sGoHjvw19kM
+2026-06-14 20:02:44,957  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/sGoHjvw19kM
+2026-06-14 20:02:56,032  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-14 20:03:16,669  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781447595/autoshorts/y3zpkgxdpznrn9wpbtrf.mp4
+2026-06-14 20:03:16,669  [INFO]  📤 Creating Instagram Reel container…
+2026-06-14 20:03:18,421  [INFO]  📦 Container created: 18114247066714875
+2026-06-14 20:03:24,537  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 20:03:30,529  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 20:03:36,672  [INFO]  ⏳ Container status: FINISHED
+2026-06-14 20:03:44,561  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18073423205327883/
+2026-06-14 20:03:45,342  [INFO]  🗑️  Cloudinary video deleted
+2026-06-14 20:03:45,347  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18073423205327883/
+2026-06-14 20:03:45,348  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/sGoHjvw19kM | Instagram: https://www.instagram.com/reel/18073423205327883/
+2026-06-14 20:03:47,856  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 21:11:48,219  [INFO]  ==================================================
+2026-06-14 21:11:48,219  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-14 21:11:48,219  [INFO]  ==================================================
+2026-06-14 21:11:48,219  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-14 21:11:48,219  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-14 21:11:48,219  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-14 21:11:48,219  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 21:11:48,219  [INFO]  🎭 POV pipeline starting…
+2026-06-14 21:11:48,219  [INFO]  🎬 POV: 'you became someone your younger self needed' | self-growth | hinglish | urban
+2026-06-14 21:11:49,161  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 21:11:49,186  [INFO]  📝 Lines: ['POV: you became someone your younger self needed', 'Tumne apne liye kaam kiya, slowly', 'Aur ab tum strong ho, emotionally', 'You are the adult you needed as a kid', 'Tumhare andar ka bachcha finally safe hai', 'Aur ab woh bachcha sirf muskurata hai slowly']
+2026-06-14 21:12:02,330  [INFO]  ✅ POV clip: assets/pov/28552373.mp4
+2026-06-14 21:12:30,278  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/28552373.mp4, 24883200 bytes wanted but 0 bytes read,at frame 99/101, at time 3.30/3.34 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-14 21:13:04,601  [INFO]  🎥 BG frames loaded
+2026-06-14 21:13:37,949  [WARNING]  Ambient mix failed: Error in file output\pov_20260614_211148_ambient.mp3, Accessing time t=17.11-17.16 seconds, with clip duration=17 seconds, 
+2026-06-14 21:13:38,024  [INFO]  🎤 POV audio: 23.8s
+2026-06-14 21:13:50,442  [INFO]  ✅ POV saved: output\pov_20260614_211148.mp4
+2026-06-14 21:13:50,688  [INFO]  🎭 Type: POV
+2026-06-14 21:13:51,752  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-14 21:13:51,758  [INFO]  📤 Uploading to YouTube: POV: you became someone your younger self needed #Shorts
+2026-06-14 21:14:09,499  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/m2n6RGkQePs
+2026-06-14 21:14:09,499  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/m2n6RGkQePs
+2026-06-14 21:14:17,058  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-14 21:14:41,360  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781451880/autoshorts/hb6nxf7jgkcuc2ac1m5r.mp4
+2026-06-14 21:14:41,360  [INFO]  📤 Creating Instagram Reel container…
+2026-06-14 21:14:42,601  [INFO]  📦 Container created: 18114262486714875
+2026-06-14 21:14:48,276  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:14:54,103  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:14:59,685  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:05,368  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:11,128  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:16,981  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:22,694  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:28,449  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:34,146  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:39,918  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:45,811  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:51,577  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:15:57,266  [INFO]  ⏳ Container status: FINISHED
+2026-06-14 21:16:07,015  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17923029321147109/
+2026-06-14 21:16:07,731  [INFO]  🗑️  Cloudinary video deleted
+2026-06-14 21:16:07,736  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/17923029321147109/
+2026-06-14 21:16:07,736  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/m2n6RGkQePs | Instagram: https://www.instagram.com/reel/17923029321147109/
+2026-06-14 21:16:10,105  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 21:16:10,105  [INFO]  🤖 POV Bot running.
+2026-06-14 21:43:44,261  [INFO]  ==================================================
+2026-06-14 21:43:44,261  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-14 21:43:44,261  [INFO]  ==================================================
+2026-06-14 21:43:44,261  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-14 21:43:44,261  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-14 21:43:44,261  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-14 21:43:44,261  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 21:43:44,261  [INFO]  🎭 POV pipeline starting…
+2026-06-14 21:43:44,261  [INFO]  📿 Shayari: 'jo baat keh na sake' | nature | query: mountains fog sunrise
+2026-06-14 21:43:45,007  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 21:43:45,017  [INFO]  📝 Shayari lines: ['Raat ki khamoshi mein chupi baat', 'Dariya ki gehrai mein doobte sapne', 'Aankhein keh deti hain sab kuch', 'Chaand ki roshni mein bhi andhera']
+2026-06-14 21:43:53,601  [INFO]  ✅ POV clip: assets/pov/38041891.mp4
+2026-06-14 21:44:04,673  [INFO]  🎥 Shayari BG loaded
+2026-06-14 21:44:39,344  [INFO]  🎵 Music mood: sad
+2026-06-14 21:44:39,349  [INFO]  🎵 Generating sad music...
+2026-06-14 21:44:41,500  [INFO]  🎵 Music generated: assets/music/sad_ambient.mp3 (510KB)
+2026-06-14 21:44:41,806  [INFO]  🎵 Music ready: output\pov_20260614_214344_music.mp3
+2026-06-14 21:44:41,877  [INFO]  🎵 Music added: sad mood
+2026-06-14 21:44:54,341  [INFO]  ✅ Shayari saved: output\pov_20260614_214344.mp4
+2026-06-14 21:44:54,678  [INFO]  📿 Type: Shayari
+2026-06-14 21:44:55,281  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-14 21:44:55,288  [INFO]  📤 Uploading to YouTube: Raat ki khamoshi mein chupi baat #Shorts
+2026-06-14 21:45:05,221  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/EY6gFBlDilc
+2026-06-14 21:45:05,221  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/EY6gFBlDilc
+2026-06-14 21:45:16,944  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-14 21:45:34,464  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781453733/autoshorts/xjus7pejjkcd5xiwjd3h.mp4
+2026-06-14 21:45:34,464  [INFO]  📤 Creating Instagram Reel container…
+2026-06-14 21:45:35,727  [INFO]  📦 Container created: 18114268774714875
+2026-06-14 21:45:41,751  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:45:47,604  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:45:53,348  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:45:59,163  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-14 21:46:04,910  [INFO]  ⏳ Container status: FINISHED
+2026-06-14 21:46:11,854  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18146652979448528/
+2026-06-14 21:46:12,478  [INFO]  🗑️  Cloudinary video deleted
+2026-06-14 21:46:12,481  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18146652979448528/
+2026-06-14 21:46:12,482  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/EY6gFBlDilc | Instagram: https://www.instagram.com/reel/18146652979448528/
+2026-06-14 21:46:14,935  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 21:46:14,935  [INFO]  🤖 POV Bot running.
+2026-06-14 22:22:13,899  [INFO]  ==================================================
+2026-06-14 22:22:13,900  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-14 22:22:13,900  [INFO]  ==================================================
+2026-06-14 22:22:13,900  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-14 22:22:13,901  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-14 22:22:13,901  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-14 22:22:13,901  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 22:22:13,901  [INFO]  🎭 POV pipeline starting…
+2026-06-14 22:22:13,902  [INFO]  📿 Shayari: 'aankhon ka samandar' | nature | query: flower petals wind
+2026-06-14 22:22:14,400  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 22:22:14,416  [INFO]  📝 Shayari lines: ['Aankhon ka samandar gehra hai', 'Dariya ki dard bhari lehrein', 'Chaand ki roshni mein doob jaata', 'Raat ki khamoshi mein khoya']
+2026-06-14 22:22:46,113  [INFO]  ✅ POV clip: assets/pov/8090051.mp4
+2026-06-14 22:23:17,673  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/8090051.mp4, 11059200 bytes wanted but 0 bytes read,at frame 375/376, at time 15.00/15.02 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-14 22:23:23,783  [INFO]  🎥 Shayari BG loaded
+2026-06-14 22:23:47,621  [INFO]  🎵 Music mood: rain
+2026-06-14 22:23:47,621  [INFO]  🎵 Generating rain music...
+2026-06-14 22:23:48,366  [INFO]  🎵 Music generated: assets/music/rain_ambient.mp3 (511KB)
+2026-06-14 22:23:48,641  [INFO]  🎵 Music ready: output\pov_20260614_222213_music.mp3
+2026-06-14 22:23:48,720  [INFO]  🎵 Music added: rain mood
+2026-06-14 22:24:04,368  [INFO]  ✅ Shayari saved: output\pov_20260614_222213.mp4
+2026-06-14 22:24:04,659  [INFO]  📿 Type: Shayari
+2026-06-14 22:24:05,697  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-14 22:24:05,703  [INFO]  📤 Uploading to YouTube: Aankhon ka samandar gehra hai #Shorts
+2026-06-14 22:24:14,993  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/8RY1NPtDpRg
+2026-06-14 22:24:14,993  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/8RY1NPtDpRg
+2026-06-14 22:24:21,377  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-14 22:26:17,816  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781456176/autoshorts/br0nwp71cnsrrmtgu7ti.mp4
+2026-06-14 22:26:17,816  [INFO]  📤 Creating Instagram Reel container…
+2026-06-14 22:26:19,130  [INFO]  📦 Container created: 18114275932714875
+2026-06-14 22:26:25,162  [INFO]  ⏳ Container status: ERROR
+2026-06-14 22:26:25,162  [ERROR]  ❌ POV Instagram failed: Container processing failed: {'status_code': 'ERROR', 'id': '18114275932714875'}
+2026-06-14 22:26:25,163  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/8RY1NPtDpRg | Instagram: N/A
+2026-06-14 22:26:27,586  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 22:26:27,587  [INFO]  🤖 POV Bot running.
+2026-06-15 10:16:15,118  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:16:15,130  [INFO]  🎭 POV pipeline starting…
+2026-06-15 10:16:15,135  [INFO]  📿 Shayari: 'judai aur yaad' | urban | query: train window moving landscape
+2026-06-15 10:16:15,875  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 10:16:15,889  [INFO]  📝 Shayari lines: ['Chaand ki raat mein teri yaad aati', 'Dil ko dard deti har pal', 'Tere bina zikr hai khamoshi', 'Raat mein dariya behti hai']
+2026-06-15 10:16:26,887  [INFO]  ✅ POV clip: assets/pov/19057954.mp4
+2026-06-15 10:16:36,521  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/19057954.mp4, 6220800 bytes wanted but 0 bytes read,at frame 457/459, at time 15.25/15.30 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-15 10:16:38,235  [INFO]  🎥 Shayari BG loaded
+2026-06-15 10:17:04,544  [INFO]  🎵 Music mood: sad
+2026-06-15 10:17:04,546  [INFO]  🎵 Generating sad music...
+2026-06-15 10:17:05,705  [INFO]  🎵 Music generated: assets/music/sad_ambient.mp3 (510KB)
+2026-06-15 10:17:05,980  [INFO]  🎵 Music ready: output\pov_20260615_101615_music.mp3
+2026-06-15 10:17:06,045  [INFO]  🎵 Music added: sad mood
+2026-06-15 10:17:21,144  [INFO]  ✅ Shayari saved: output\pov_20260615_101615.mp4
+2026-06-15 10:17:21,267  [INFO]  📿 Type: Shayari
+2026-06-15 10:17:21,887  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-15 10:17:21,911  [INFO]  📤 Uploading to YouTube: Chaand ki raat mein teri yaad aati #Shorts
+2026-06-15 10:17:36,048  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/3qOu2KVQMDc
+2026-06-15 10:17:36,048  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/3qOu2KVQMDc
+2026-06-15 10:17:50,975  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-15 10:18:12,356  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781498892/autoshorts/ojyshuzzxpcyvs6qiwm0.mp4
+2026-06-15 10:18:12,356  [INFO]  📤 Creating Instagram Reel container…
+2026-06-15 10:18:13,535  [INFO]  📦 Container created: 18114376327714875
+2026-06-15 10:18:19,159  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:18:24,773  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:18:30,499  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:18:36,117  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:18:41,878  [INFO]  ⏳ Container status: FINISHED
+2026-06-15 10:18:48,941  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18111381773308543/
+2026-06-15 10:18:49,658  [INFO]  🗑️  Cloudinary video deleted
+2026-06-15 10:18:49,663  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18111381773308543/
+2026-06-15 10:18:49,663  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/3qOu2KVQMDc | Instagram: https://www.instagram.com/reel/18111381773308543/
+2026-06-15 10:18:51,889  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:20:01,598  [INFO]  ==================================================
+2026-06-15 10:20:01,598  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-15 10:20:01,598  [INFO]  ==================================================
+2026-06-15 10:20:01,598  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-15 10:20:01,598  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-15 10:20:01,598  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-15 10:20:01,598  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:20:01,598  [INFO]  🎭 POV pipeline starting…
+2026-06-15 10:20:01,598  [INFO]  📿 Shayari: 'woh jo reh gaya andar' | nature | query: flower petals wind
+2026-06-15 10:20:02,261  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 10:20:02,269  [INFO]  📝 Shayari lines: ['Chaand mein woh reh gaya', 'Uski yaadein dard deti', 'Aankhein khuli raat bhi', 'Khamoshi mein woh hai']
+2026-06-15 10:20:10,249  [INFO]  ✅ POV clip: assets/pov/11341089.mp4
+2026-06-15 10:20:18,530  [INFO]  🎥 Shayari BG loaded
+2026-06-15 10:20:39,053  [INFO]  🎵 Music mood: sad
+2026-06-15 10:20:39,071  [INFO]  🎵 Music cached: assets/music/sad_ambient.mp3
+2026-06-15 10:20:39,278  [INFO]  🎵 Music ready: output\pov_20260615_102001_music.mp3
+2026-06-15 10:20:39,342  [INFO]  🎵 Music added: sad mood
+2026-06-15 10:20:50,079  [INFO]  ✅ Shayari saved: output\pov_20260615_102001.mp4
+2026-06-15 10:20:50,200  [INFO]  📿 Type: Shayari
+2026-06-15 10:20:50,593  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-15 10:20:50,598  [INFO]  📤 Uploading to YouTube: Chaand mein woh reh gaya #Shorts
+2026-06-15 10:20:59,378  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/639j-fIkP1E
+2026-06-15 10:20:59,378  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/639j-fIkP1E
+2026-06-15 10:21:10,153  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-15 10:21:22,109  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781499081/autoshorts/zt5hr3unomrdb94jqcbi.mp4
+2026-06-15 10:21:22,110  [INFO]  📤 Creating Instagram Reel container…
+2026-06-15 10:21:23,173  [INFO]  📦 Container created: 18114376771714875
+2026-06-15 10:21:28,979  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:21:34,681  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:21:40,275  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:21:45,991  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:21:51,728  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:21:57,464  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:22:03,125  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:22:08,933  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:22:14,601  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:22:20,401  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:22:26,869  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:22:32,469  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:22:38,425  [INFO]  ⏳ Container status: FINISHED
+2026-06-15 10:22:46,458  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18155790769476007/
+2026-06-15 10:22:47,070  [INFO]  🗑️  Cloudinary video deleted
+2026-06-15 10:22:47,074  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18155790769476007/
+2026-06-15 10:22:47,074  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/639j-fIkP1E | Instagram: https://www.instagram.com/reel/18155790769476007/
+2026-06-15 10:22:49,310  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:22:49,310  [INFO]  🤖 POV Bot running.
+2026-06-15 10:24:02,188  [INFO]  ==================================================
+2026-06-15 10:24:02,189  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-15 10:24:02,189  [INFO]  ==================================================
+2026-06-15 10:24:02,189  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-15 10:24:02,190  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-15 10:24:02,190  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-15 10:24:02,190  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:24:02,190  [INFO]  🎭 POV pipeline starting…
+2026-06-15 10:24:02,190  [INFO]  📿 Shayari: 'jo baat keh na sake' | urban | query: train window moving landscape
+2026-06-15 10:24:02,850  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 10:24:02,860  [INFO]  📝 Shayari lines: ['Teri aankhon mein thi jo baat keh na saki', 'Woh dard ab mere dil ki dhadkan ban gayi', 'Jo raat ko teri yaad mein aansu nikalte hain', 'Ab khamoshi hi meri sabse badi zaat ban gayi']
+2026-06-15 10:24:36,689  [INFO]  ✅ POV clip: assets/pov/34800955.mp4
+2026-06-15 10:26:13,746  [INFO]  🎥 Shayari BG loaded
+2026-06-15 10:26:48,202  [INFO]  🎵 Music mood: sad
+2026-06-15 10:26:48,204  [INFO]  🎵 Generating sad music...
+2026-06-15 10:26:48,913  [INFO]  🎵 Music generated OK: assets/music/sad_ambient.mp3 (510KB)
+2026-06-15 10:26:49,179  [INFO]  🎵 Music ready: output\pov_20260615_102402_music.mp3
+2026-06-15 10:26:49,255  [INFO]  🎵 Music added: sad mood
+2026-06-15 10:27:04,460  [INFO]  ✅ Shayari saved: output\pov_20260615_102402.mp4
+2026-06-15 10:27:04,705  [INFO]  📿 Type: Shayari
+2026-06-15 10:27:05,121  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-15 10:27:05,127  [INFO]  📤 Uploading to YouTube: Teri aankhon mein thi jo baat keh na saki #Shorts
+2026-06-15 10:27:21,599  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/3-MffLEmP_Q
+2026-06-15 10:27:21,599  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/3-MffLEmP_Q
+2026-06-15 10:27:27,388  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-15 10:27:52,557  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781499471/autoshorts/u4j5ibwu6axjy9hz0oxp.mp4
+2026-06-15 10:27:52,557  [INFO]  📤 Creating Instagram Reel container…
+2026-06-15 10:27:53,530  [INFO]  📦 Container created: 18114377947714875
+2026-06-15 10:27:59,320  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:28:04,995  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:28:10,926  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:28:16,965  [INFO]  ⏳ Container status: FINISHED
+2026-06-15 10:28:24,647  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18110900800904447/
+2026-06-15 10:28:25,465  [INFO]  🗑️  Cloudinary video deleted
+2026-06-15 10:28:25,468  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18110900800904447/
+2026-06-15 10:28:25,468  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/3-MffLEmP_Q | Instagram: https://www.instagram.com/reel/18110900800904447/
+2026-06-15 10:28:27,734  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:28:27,734  [INFO]  🤖 POV Bot running.
+2026-06-15 10:29:25,270  [INFO]  ==================================================
+2026-06-15 10:29:25,271  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-15 10:29:25,271  [INFO]  ==================================================
+2026-06-15 10:29:25,272  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-15 10:29:25,272  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-15 10:29:25,272  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-15 10:29:25,272  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:29:25,272  [INFO]  🎭 POV pipeline starting…
+2026-06-15 10:29:25,273  [INFO]  🎬 POV: 'you fell for someone already taken' | love | english | nature
+2026-06-15 10:29:25,875  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 10:29:25,895  [INFO]  📝 Lines: ['POV: you fell for someone already taken', 'Heart beats for them alone now', 'Everything reminds you of their smile', 'You deserve someone who chooses you', 'But what if that someone was them', 'Sinking slowly into the silence']
+2026-06-15 10:29:38,001  [INFO]  ✅ POV clip: assets/pov/34476038.mp4
+2026-06-15 10:29:44,881  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/34476038.mp4, 6220800 bytes wanted but 0 bytes read,at frame 712/713, at time 11.87/11.87 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-15 10:29:46,696  [INFO]  🎥 BG frames loaded
+2026-06-15 10:30:17,668  [WARNING]  Ambient mix failed: Error in file output\pov_20260615_102925_ambient.mp3, Accessing time t=17.11-17.16 seconds, with clip duration=17 seconds, 
+2026-06-15 10:30:17,737  [INFO]  🎤 POV audio: 19.4s
+2026-06-15 10:30:32,417  [INFO]  ✅ POV saved: output\pov_20260615_102925.mp4
+2026-06-15 10:30:32,510  [INFO]  🎭 Type: POV
+2026-06-15 10:30:32,679  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-15 10:30:32,679  [INFO]  📤 Uploading to YouTube: POV: you fell for someone already taken #Shorts
+2026-06-15 10:30:48,770  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/x2S_7RQ6Pmo
+2026-06-15 10:30:48,770  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/x2S_7RQ6Pmo
+2026-06-15 10:30:55,142  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-15 10:31:24,260  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781499683/autoshorts/dugy3wbmm4uztb3ah4mb.mp4
+2026-06-15 10:31:24,260  [INFO]  📤 Creating Instagram Reel container…
+2026-06-15 10:31:25,130  [INFO]  📦 Container created: 18114378706714875
+2026-06-15 10:31:30,813  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:31:36,550  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:31:42,181  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:31:47,798  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-15 10:31:53,647  [INFO]  ⏳ Container status: FINISHED
+2026-06-15 10:32:00,097  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17869497591548310/
+2026-06-15 10:32:00,815  [INFO]  🗑️  Cloudinary video deleted
+2026-06-15 10:32:00,817  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/17869497591548310/
+2026-06-15 10:32:00,817  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/x2S_7RQ6Pmo | Instagram: https://www.instagram.com/reel/17869497591548310/
+2026-06-15 10:32:02,957  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-15 10:32:02,957  [INFO]  🤖 POV Bot running.
+2026-06-17 20:23:45,639  [INFO]  ==================================================
+2026-06-17 20:23:45,640  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-17 20:23:45,641  [INFO]  ==================================================
+2026-06-17 20:23:45,641  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-17 20:23:45,641  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-17 20:23:45,641  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-17 20:23:45,641  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 20:23:45,641  [INFO]  🎭 POV pipeline starting…
+2026-06-17 20:23:45,642  [INFO]  📿 Shayari: 'judai aur yaad' | nature | query: mountains fog sunrise
+2026-06-17 20:23:46,651  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 20:23:46,664  [INFO]  🎵 Music query: sad violin instrumental music for lonely nights
+2026-06-17 20:23:46,664  [INFO]  📝 Shayari lines: ['Judai ki raat mein teri yaad aati hai', 'Dil mein dard badhta hai, aansu bahaati hain', 'Teri khushiyan yaad karke ab bhi rotea hoon', 'Tere bina zindagi ek tanha saaya hai']
+2026-06-17 20:23:46,664  [INFO]  🎵 Music query from Groq: sad violin instrumental music for lonely nights
+2026-06-17 20:24:29,998  [INFO]  ✅ POV clip: assets/pov/29918665.mp4
+2026-06-17 20:25:17,822  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/29918665.mp4, 24883200 bytes wanted but 0 bytes read,at frame 168/169, at time 5.60/5.63 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-17 20:25:46,480  [INFO]  🎥 Shayari BG loaded
+2026-06-17 20:26:13,127  [INFO]  🎵 Music mood: sad
+2026-06-17 20:26:13,127  [INFO]  🎵 Searching music: 'sad violin instrumental music for lonely nights no copyright'
+2026-06-17 20:26:16,048  [WARNING]  yt-dlp output: 
+2026-06-17 20:26:16,048  [WARNING]  ⚠️  Falling back to numpy music synthesis
+2026-06-17 20:26:17,851  [INFO]  🎵 Music ready: output\pov_20260617_202345_music.mp3
+2026-06-17 20:26:17,915  [INFO]  🎵 Music added: sad mood
+2026-06-17 20:26:31,261  [INFO]  ✅ Shayari saved: output\pov_20260617_202345.mp4
+2026-06-17 20:26:31,534  [INFO]  📿 Type: Shayari
+2026-06-17 20:26:32,703  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-17 20:26:32,751  [INFO]  📤 Uploading to YouTube: Judai ki raat mein teri yaad aati hai #Shorts
+2026-06-17 20:26:49,652  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/JROuxcDc9ag
+2026-06-17 20:26:49,652  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/JROuxcDc9ag
+2026-06-17 20:27:04,267  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-17 20:27:32,268  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781708249/autoshorts/rcgtxhcbe8uhuoe6ltvw.mp4
+2026-06-17 20:27:32,284  [INFO]  📤 Creating Instagram Reel container…
+2026-06-17 20:27:33,677  [INFO]  📦 Container created: 18114960502714875
+2026-06-17 20:27:39,547  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-17 20:27:45,206  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-17 20:27:51,007  [INFO]  ⏳ Container status: FINISHED
+2026-06-17 20:27:58,475  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17897903322328083/
+2026-06-17 20:27:59,440  [INFO]  🗑️  Cloudinary video deleted
+2026-06-17 20:27:59,442  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/17897903322328083/
+2026-06-17 20:27:59,442  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/JROuxcDc9ag | Instagram: https://www.instagram.com/reel/17897903322328083/
+2026-06-17 20:28:01,828  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-17 20:28:01,828  [INFO]  🤖 POV Bot running.
+2026-06-18 12:28:24,605  [INFO]  ==================================================
+2026-06-18 12:28:24,607  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-18 12:28:24,607  [INFO]  ==================================================
+2026-06-18 12:28:24,607  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-18 12:28:24,607  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-18 12:28:24,608  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-18 12:28:24,608  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-18 12:28:24,608  [INFO]  🎭 POV pipeline starting…
+2026-06-18 12:28:24,609  [INFO]  📿 Shayari: 'rishton ka toota hua silsila' | urban | query: empty street night fog
+2026-06-18 12:28:25,487  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-18 12:28:25,497  [INFO]  🎵 Music query: sad lofi piano instrumental music
+2026-06-18 12:28:25,497  [INFO]  📝 Shayari lines: ['Rishton ka toota hua silsila ab tanhaiyon ka saathi hai', 'Har pal mein dard ka ehsaas aur yaadon ka bojh badhta hai', 'Tere jaane ke baad woh khali jagah ab mujhe maar dalti hai', 'Ab khamoshi hi mere dil ki awaaz ban gayi hai']
+2026-06-18 12:28:25,497  [INFO]  🎵 Music query from Groq: sad lofi piano instrumental music
+2026-06-18 12:28:35,774  [INFO]  ✅ POV clip: assets/pov/36637655.mp4
+2026-06-18 12:30:49,523  [INFO]  🎥 Shayari BG loaded
+2026-06-18 12:31:31,571  [INFO]  🎵 Music mood: sad
+2026-06-18 12:31:31,571  [INFO]  🎵 Searching music: 'sad lofi piano instrumental music no copyright'
+2026-06-18 12:31:42,249  [INFO]  🎵 Music ready: assets/music/sad_lofi_piano_instrumental_music_no_cop.mp3 (1016KB)
+2026-06-18 12:31:42,580  [INFO]  🎵 Music ready: output\pov_20260618_122824_music.mp3
+2026-06-18 12:31:42,651  [INFO]  🎵 Music added: sad mood
+2026-06-18 12:31:54,153  [INFO]  ✅ Shayari saved: output\pov_20260618_122824.mp4
+2026-06-18 12:31:54,499  [INFO]  📿 Type: Shayari
+2026-06-18 12:31:55,786  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-18 12:31:55,840  [INFO]  📤 Uploading to YouTube: Rishton ka toota hua silsila ab tanhaiyon ka saathi hai #Shorts
+2026-06-18 12:32:03,718  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/wdVQmjIkCCc
+2026-06-18 12:32:03,718  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/wdVQmjIkCCc
+2026-06-18 12:32:10,173  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-18 12:32:26,668  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781766145/autoshorts/isfv5sg6c0ptyrokauqc.mp4
+2026-06-18 12:32:26,668  [INFO]  📤 Creating Instagram Reel container…
+2026-06-18 12:32:27,665  [INFO]  📦 Container created: 18115122826714875
+2026-06-18 12:32:33,422  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 12:32:39,107  [INFO]  ⏳ Container status: FINISHED
+2026-06-18 12:32:46,500  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18026443124829639/
+2026-06-18 12:32:47,421  [INFO]  🗑️  Cloudinary video deleted
+2026-06-18 12:32:47,422  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18026443124829639/
+2026-06-18 12:32:47,422  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/wdVQmjIkCCc | Instagram: https://www.instagram.com/reel/18026443124829639/
+2026-06-18 12:32:49,860  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-18 12:32:49,861  [INFO]  🤖 POV Bot running.
+2026-06-18 16:53:32,221  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-18 16:53:32,264  [INFO]  🎭 POV pipeline starting…
+2026-06-18 16:53:32,291  [INFO]  📿 Shayari: 'akela pan ki raat' | nature | query: river peaceful nature
+2026-06-18 16:53:33,175  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-18 16:53:33,181  [INFO]  🎵 Music query: sad guitar instrumental background music
+2026-06-18 16:53:33,181  [INFO]  📝 Shayari lines: ['Akeli raat mein tanhaai ke saaye rehte hain', 'Dard ki yaadein taaza ho jaati hain raat ki khamoshi mein', 'Raat ki aawaz sunke aansu nikal aate hain, yaad teri aati hai', 'Ek akeli raat mein khone ko kya nahin hai, bas yaadein rehti hain']
+2026-06-18 16:53:33,182  [INFO]  🎵 Music query from Groq: sad guitar instrumental background music
+2026-06-18 16:54:02,379  [INFO]  ✅ POV clip: assets/pov/33536363.mp4
+2026-06-18 16:55:54,648  [INFO]  🎥 Shayari BG loaded
+2026-06-18 16:56:37,118  [INFO]  🎵 Music mood: night
+2026-06-18 16:56:37,133  [INFO]  🎵 Searching music: 'sad guitar instrumental background music no copyright'
+2026-06-18 16:56:48,450  [INFO]  🎵 Music ready: assets/music/sad_guitar_instrumental_background_music.mp3 (1016KB)
+2026-06-18 16:56:48,984  [INFO]  🎵 Music ready: output\pov_20260618_165332_music.mp3
+2026-06-18 16:56:49,058  [INFO]  🎵 Music added: night mood
+2026-06-18 16:57:05,915  [INFO]  ✅ Shayari saved: output\pov_20260618_165332.mp4
+2026-06-18 16:57:06,386  [INFO]  📿 Type: Shayari
+2026-06-18 16:57:08,052  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-18 16:57:08,137  [INFO]  📤 Uploading to YouTube: Akeli raat mein tanhaai ke saaye rehte hain #Shorts
+2026-06-18 16:57:25,562  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/tbJkEF37OuM
+2026-06-18 16:57:25,563  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/tbJkEF37OuM
+2026-06-18 16:57:32,390  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-18 16:58:03,409  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781782082/autoshorts/m647vdhyaspvce75untm.mp4
+2026-06-18 16:58:03,409  [INFO]  📤 Creating Instagram Reel container…
+2026-06-18 16:58:04,603  [INFO]  📦 Container created: 18115170409714875
+2026-06-18 16:58:10,311  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:16,005  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:21,804  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:27,547  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:33,230  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:39,015  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:44,791  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:51,011  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:58:56,731  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 16:59:02,669  [INFO]  ⏳ Container status: FINISHED
+2026-06-18 16:59:09,505  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18090481526372597/
+2026-06-18 16:59:10,282  [INFO]  🗑️  Cloudinary video deleted
+2026-06-18 16:59:10,285  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18090481526372597/
+2026-06-18 16:59:10,285  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/tbJkEF37OuM | Instagram: https://www.instagram.com/reel/18090481526372597/
+2026-06-18 16:59:12,722  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-18 20:00:06,639  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-18 20:00:06,639  [INFO]  🎭 POV pipeline starting…
+2026-06-18 20:00:06,639  [INFO]  📿 Shayari: 'dil ka bojh' | nature | query: night sky stars milky
+2026-06-18 20:00:07,329  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-18 20:00:07,346  [INFO]  🎵 Music query: sad instrumental piano music no copyright
+2026-06-18 20:00:07,346  [INFO]  📝 Shayari lines: ['Dil ka bojh kabhi kam nahi hota hai', 'Yaadon ke bojh ne mujhe neecha daba diya', 'Raaton mein teri aawaz mujhe sataati hai', 'Ab khamoshi hi meri saathi ban gayi hai']
+2026-06-18 20:00:07,346  [INFO]  🎵 Music query from Groq: sad instrumental piano music no copyright
+2026-06-18 20:00:14,197  [INFO]  ✅ POV clip: assets/pov/16998437.mp4
+2026-06-18 20:00:20,930  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/16998437.mp4, 6220800 bytes wanted but 0 bytes read,at frame 270/272, at time 9.00/9.05 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-18 20:00:20,953  [WARNING]  C:\Users\b2hkr\AppData\Local\Programs\Python\Python311\Lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file assets/pov/16998437.mp4, 6220800 bytes wanted but 0 bytes read,at frame 271/272, at time 9.03/9.05 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2026-06-18 20:00:28,989  [INFO]  🎥 Shayari BG loaded
+2026-06-18 20:01:11,754  [INFO]  🎵 Music mood: sad
+2026-06-18 20:01:11,762  [INFO]  🎵 Searching music: 'sad instrumental piano music no copyright'
+2026-06-18 20:01:23,474  [INFO]  🎵 Music ready: assets/music/sad_instrumental_piano_music_no_copyrigh.mp3 (1016KB)
+2026-06-18 20:01:23,956  [INFO]  🎵 Music ready: output\pov_20260618_200006_music.mp3
+2026-06-18 20:01:24,031  [INFO]  🎵 Music added: sad mood
+2026-06-18 20:01:42,043  [INFO]  ✅ Shayari saved: output\pov_20260618_200006.mp4
+2026-06-18 20:01:42,383  [INFO]  📿 Type: Shayari
+2026-06-18 20:01:43,093  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-18 20:01:43,102  [INFO]  📤 Uploading to YouTube: Dil ka bojh kabhi kam nahi hota hai #Shorts
+2026-06-18 20:02:02,595  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/em1W105QtQk
+2026-06-18 20:02:02,595  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/em1W105QtQk
+2026-06-18 20:02:10,661  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-18 20:02:52,613  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781793170/autoshorts/nodgbrnxi6f61icbf5pj.mp4
+2026-06-18 20:02:52,613  [INFO]  📤 Creating Instagram Reel container…
+2026-06-18 20:02:54,032  [INFO]  📦 Container created: 18115210705714875
+2026-06-18 20:02:59,915  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:05,637  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:11,552  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:17,491  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:23,327  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:29,063  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:34,709  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:40,322  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:45,969  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:51,664  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:03:57,611  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:04:03,412  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:04:09,208  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-18 20:04:15,049  [INFO]  ⏳ Container status: FINISHED
+2026-06-18 20:04:22,915  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18412905532198161/
+2026-06-18 20:04:24,169  [INFO]  🗑️  Cloudinary video deleted
+2026-06-18 20:04:24,172  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18412905532198161/
+2026-06-18 20:04:24,172  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/em1W105QtQk | Instagram: https://www.instagram.com/reel/18412905532198161/
+2026-06-18 20:04:26,570  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 13:33:29,745  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 13:33:29,752  [INFO]  🎭 POV pipeline starting…
+2026-06-19 13:33:29,761  [INFO]  🎬 POV: 'you realized some people are seasonal' | friendship | hinglish | nature
+2026-06-19 13:33:30,534  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-19 13:33:30,548  [INFO]  📝 Lines: ['POV: you realized some people are seasonal', 'Doston ke saath time bitaya, memories banaye', 'Par jab zarurat padi, koi yaad nahi aaya', 'Tumhari zarurat ka mai intezaar tha', 'Lekin unke liye tum bas ek chapter the', 'Ab bas ek sukoon bhari tanhai reh gayi']
+2026-06-19 13:36:30,073  [INFO]  ✅ POV clip: assets/pov/30068609.mp4
+2026-06-19 13:38:15,824  [INFO]  🎥 BG frames loaded
+2026-06-19 13:39:02,771  [WARNING]  Ambient mix failed: Error in file output\pov_20260619_133329_ambient.mp3, Accessing time t=17.13-17.17 seconds, with clip duration=17 seconds, 
+2026-06-19 13:39:02,846  [INFO]  🎤 POV audio: 25.5s
+2026-06-19 13:39:28,726  [INFO]  ✅ POV saved: output\pov_20260619_133329.mp4
+2026-06-19 13:39:28,929  [INFO]  🎭 Type: POV
+2026-06-19 13:39:29,702  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-19 13:39:29,781  [INFO]  📤 Uploading to YouTube: POV: you realized some people are seasonal #Shorts
+2026-06-19 13:40:12,648  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/q9lR5_g673o
+2026-06-19 13:40:12,648  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/q9lR5_g673o
+2026-06-19 13:40:24,602  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-19 13:41:28,799  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781856684/autoshorts/qhaqay7alkieggatqfxa.mp4
+2026-06-19 13:41:28,799  [INFO]  📤 Creating Instagram Reel container…
+2026-06-19 13:41:31,249  [INFO]  📦 Container created: 18115395376714875
+2026-06-19 13:41:37,395  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 13:41:43,538  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 13:41:49,466  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 13:41:55,313  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 13:42:01,049  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 13:42:06,684  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 13:42:12,416  [INFO]  ⏳ Container status: FINISHED
+2026-06-19 13:42:22,551  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18008098895866229/
+2026-06-19 13:42:23,164  [INFO]  🗑️  Cloudinary video deleted
+2026-06-19 13:42:23,167  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18008098895866229/
+2026-06-19 13:42:23,167  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/q9lR5_g673o | Instagram: https://www.instagram.com/reel/18008098895866229/
+2026-06-19 13:42:25,510  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 16:13:21,577  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 16:13:21,577  [INFO]  🎭 POV pipeline starting…
+2026-06-19 16:13:21,578  [INFO]  🎬 POV: 'you said I'm fine but meant please ask me again' | love | hinglish | urban
+2026-06-19 16:13:22,337  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-19 16:13:22,344  [INFO]  📝 Lines: ['POV: you said main theek hun', 'lekin dil ko lagta hai ki', 'kuch toh chupa rahe ho', '"tumhe kya hai" phir se poochho', 'bas itna kehna tha tumse', 'silent nights with unspoken pyaar']
+2026-06-19 16:14:17,577  [INFO]  ✅ POV clip: assets/pov/15019286.mp4
+2026-06-19 16:15:45,800  [INFO]  🎥 BG frames loaded
+2026-06-19 16:16:24,456  [WARNING]  Ambient mix failed: Error in file output\pov_20260619_161321_ambient.mp3, Accessing time t=17.11-17.16 seconds, with clip duration=17 seconds, 
+2026-06-19 16:16:24,530  [INFO]  🎤 POV audio: 19.5s
+2026-06-19 16:16:36,164  [INFO]  ✅ POV saved: output\pov_20260619_161321.mp4
+2026-06-19 16:16:36,354  [INFO]  🎭 Type: POV
+2026-06-19 16:16:36,955  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-19 16:16:36,989  [INFO]  📤 Uploading to YouTube: POV: you said main theek hun #Shorts
+2026-06-19 16:16:44,518  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/vYlVWMD6LUw
+2026-06-19 16:16:44,518  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/vYlVWMD6LUw
+2026-06-19 16:16:56,712  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-19 16:17:10,072  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781866028/autoshorts/ytevmvdk0po6hlg7iy6s.mp4
+2026-06-19 16:17:10,073  [INFO]  📤 Creating Instagram Reel container…
+2026-06-19 16:17:11,344  [INFO]  📦 Container created: 18115421221714875
+2026-06-19 16:17:17,253  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 16:17:22,984  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 16:17:28,586  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 16:17:34,281  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 16:17:40,318  [INFO]  ⏳ Container status: FINISHED
+2026-06-19 16:17:48,708  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17886655914576390/
+2026-06-19 16:17:49,328  [INFO]  🗑️  Cloudinary video deleted
+2026-06-19 16:17:49,330  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/17886655914576390/
+2026-06-19 16:17:49,330  [INFO]  🎉 POV Done! YouTube: https://www.youtube.com/shorts/vYlVWMD6LUw | Instagram: https://www.instagram.com/reel/17886655914576390/
+2026-06-19 16:17:51,570  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 19:37:47,280  [INFO]  ==================================================
+2026-06-19 19:37:47,281  [INFO]    POV BOT — 3 videos/day → YouTube + Instagram
+2026-06-19 19:37:47,282  [INFO]  ==================================================
+2026-06-19 19:37:47,282  [INFO]  ⏰ POV scheduled at 10:00
+2026-06-19 19:37:47,283  [INFO]  ⏰ POV scheduled at 15:30
+2026-06-19 19:37:47,283  [INFO]  ⏰ POV scheduled at 20:00
+2026-06-19 19:37:47,283  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 19:37:47,283  [INFO]  🎭 POV pipeline starting…
+2026-06-19 19:37:47,284  [INFO]  📿 Shayari: 'intezaar ka dard' | urban | query: train window moving landscape
+2026-06-19 19:37:48,645  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-19 19:37:48,695  [INFO]  🎵 Music query: sad lofi piano instrumental music
+2026-06-19 19:37:48,695  [INFO]  📝 Shayari lines: ['Tere intezaar mein din guzar jaate hain', 'Tanha raaton mein teri yaad aati hai', 'Raat ke andhere mein teri aawaz sunkar jag jaata hun', 'Dil ke dard ko sehna seekh liya hai ab']
+2026-06-19 19:37:48,696  [INFO]  🎵 Music query from Groq: sad lofi piano instrumental music
+2026-06-19 19:38:25,719  [INFO]  ✅ POV clip: assets/pov/34800955.mp4
+2026-06-19 19:40:20,636  [INFO]  🎥 Shayari BG loaded
+2026-06-19 19:41:07,956  [INFO]  🎵 Music mood: rain
+2026-06-19 19:41:07,974  [INFO]  🎵 Music cached: assets/music/sad_lofi_piano_instrumental_music_no_cop.mp3
+2026-06-19 19:41:08,421  [INFO]  🎵 Music ready: output\pov_20260619_193747_music.mp3
+2026-06-19 19:41:08,511  [INFO]  🎵 Music added: rain mood
+2026-06-19 19:41:24,130  [INFO]  ✅ Shayari saved: output\pov_20260619_193747.mp4
+2026-06-19 19:41:24,400  [INFO]  📿 Type: Shayari
+2026-06-19 19:41:26,680  [ERROR]  ❌ POV YouTube failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2026-06-19 19:41:36,974  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-19 19:42:27,182  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781878345/autoshorts/t9ncndnavow5fg2wjqhd.mp4
+2026-06-19 19:42:27,182  [INFO]  📤 Creating Instagram Reel container…
+2026-06-19 19:42:28,508  [INFO]  📦 Container created: 18115461736714875
+2026-06-19 19:42:34,298  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 19:42:40,081  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 19:42:45,920  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 19:42:51,755  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 19:42:57,592  [INFO]  ⏳ Container status: FINISHED
+2026-06-19 19:43:05,323  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18413678386146048/
+2026-06-19 19:43:06,091  [INFO]  🗑️  Cloudinary video deleted
+2026-06-19 19:43:06,113  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18413678386146048/
+2026-06-19 19:43:06,114  [INFO]  🎉 POV Done! YouTube: N/A | Instagram: https://www.instagram.com/reel/18413678386146048/
+2026-06-19 19:43:08,857  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 19:43:08,857  [INFO]  🤖 POV Bot running.
+2026-06-19 20:00:12,000  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-19 20:00:12,000  [INFO]  🎭 POV pipeline starting…
+2026-06-19 20:00:12,001  [INFO]  📿 Shayari: 'woh jo reh gaya andar' | nature | query: rain window bokeh
+2026-06-19 20:00:13,236  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-19 20:00:13,244  [INFO]  🎵 Music query: sad guitar instrumental background music
+2026-06-19 20:00:13,244  [INFO]  📝 Shayari lines: ['Woh jo reh gaya andar dard ke saath jeeta hai', 'Khamoshi mein chalte hain, aansu piye jaate hain', 'Raat ki tanhai mein usi ki yaad aati hai', 'Dil ki gahraaiyon mein woh chehra sama jaata hai']
+2026-06-19 20:00:13,244  [INFO]  🎵 Music query from Groq: sad guitar instrumental background music
+2026-06-19 20:00:32,694  [INFO]  ✅ POV clip: assets/pov/18222676.mp4
+2026-06-19 20:00:45,008  [INFO]  🎥 Shayari BG loaded
+2026-06-19 20:01:34,704  [INFO]  🎵 Music mood: sad
+2026-06-19 20:01:34,705  [INFO]  🎵 Music cached: assets/music/sad_guitar_instrumental_background_music.mp3
+2026-06-19 20:01:35,127  [INFO]  🎵 Music ready: output\pov_20260619_200012_music.mp3
+2026-06-19 20:01:35,216  [INFO]  🎵 Music added: sad mood
+2026-06-19 20:01:49,670  [INFO]  ✅ Shayari saved: output\pov_20260619_200012.mp4
+2026-06-19 20:01:49,889  [INFO]  📿 Type: Shayari
+2026-06-19 20:01:50,550  [ERROR]  ❌ POV YouTube failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2026-06-19 20:02:01,064  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-19 20:02:17,884  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1781879536/autoshorts/ipjq8itvxpuyb6nulegy.mp4
+2026-06-19 20:02:17,884  [INFO]  📤 Creating Instagram Reel container…
+2026-06-19 20:02:19,074  [INFO]  📦 Container created: 18115467073714875
+2026-06-19 20:02:25,113  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:02:30,795  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:02:36,370  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:02:42,033  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:02:47,641  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:02:53,478  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:02:59,317  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:03:05,154  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:03:10,992  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:03:16,835  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:03:22,767  [INFO]  ⏳ Container status: IN_PROGRESS
+2026-06-19 20:03:28,705  [INFO]  ⏳ Container status: FINISHED
+2026-06-19 20:03:36,282  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/17989036448989645/
+2026-06-19 20:03:37,613  [INFO]  🗑️  Cloudinary video deleted
+2026-06-19 20:03:37,616  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/17989036448989645/
+2026-06-19 20:03:37,617  [INFO]  🎉 POV Done! YouTube: N/A | Instagram: https://www.instagram.com/reel/17989036448989645/
+2026-06-19 20:03:40,006  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

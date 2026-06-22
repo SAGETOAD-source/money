@@ -1,6 +1,210 @@
 {
   "posts": [
     {
+      "id": 32,
+      "timestamp": "2026-06-17T22:22:16.647909",
+      "topic": "7 things about red flags that will blow your mind",
+      "niche": "relationships",
+      "video": "output\\20260617_221108_7 things about red flags that will blow .mp4",
+      "youtube": {
+        "id": "tevZjglMGhk",
+        "url": "https://www.youtube.com/shorts/tevZjglMGhk"
+      },
+      "instagram": null
+    },
+    {
+      "id": 31,
+      "timestamp": "2026-06-17T21:17:40.514729",
+      "topic": "Nobody tells you this about Dark Personality Traits",
+      "niche": "facts",
+      "video": "output\\20260617_210029_Nobody tells you this about Dark Persona.mp4",
+      "youtube": {
+        "id": "6rV33ENrqBs",
+        "url": "https://www.youtube.com/shorts/6rV33ENrqBs"
+      },
+      "instagram": null
+    },
+    {
+      "id": 30,
+      "timestamp": "2026-06-17T21:00:18.544626",
+      "topic": "5 things about Haunted Houses that will blow your mind",
+      "niche": "horror",
+      "video": "output\\20260617_204536_5 things about Haunted Houses that will .mp4",
+      "youtube": {
+        "id": "cImGO988LBk",
+        "url": "https://www.youtube.com/shorts/cImGO988LBk"
+      },
+      "instagram": null
+    },
+    {
+      "id": 29,
+      "timestamp": "2026-06-17T20:41:55.486529",
+      "topic": "What happens to your the secret training habits after of the world's best footballers",
+      "niche": "mystery",
+      "video": "output\\20260617_202823_What happens to your the secret training.mp4",
+      "youtube": {
+        "id": "usa0YQOJn2M",
+        "url": "https://www.youtube.com/shorts/usa0YQOJn2M"
+      },
+      "instagram": null
+    },
+    {
+      "id": 28,
+      "timestamp": "2026-06-13T13:20:01.742990",
+      "topic": "Nobody tells you this about NFL Offseason Updates",
+      "niche": "facts",
+      "video": "output\\20260613_115630_Nobody tells you this about NFL Offseaso.mp4",
+      "youtube": {
+        "id": "eZc1UfM8FU0",
+        "url": "https://www.youtube.com/shorts/eZc1UfM8FU0"
+      },
+      "instagram": null
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-06-13T11:56:28.119556",
+      "topic": "Why you've been doing Joker wrong your whole life",
+      "niche": "movies",
+      "video": "output\\20260613_025055_Why you_ve been doing Joker wrong your w.mp4",
+      "youtube": {
+        "id": "PrDRVC98fSI",
+        "url": "https://www.youtube.com/shorts/PrDRVC98fSI"
+      },
+      "instagram": null
+    },
+    {
+      "id": 26,
+      "timestamp": "2026-06-12T17:26:23.824109",
+      "topic": "The shocking truth about Haunted Houses Explained",
+      "niche": "horror",
+      "video": "output\\20260612_170211_The shocking truth about Haunted Houses .mp4",
+      "youtube": {
+        "id": "8fbjtC1M2Yk",
+        "url": "https://www.youtube.com/shorts/8fbjtC1M2Yk"
+      },
+      "instagram": null
+    },
+    {
+      "id": 25,
+      "timestamp": "2026-06-10T19:34:09.704559",
+      "topic": "Nobody tells you this about ancient civilizations",
+      "niche": "mystery",
+      "video": "output\\20260610_192452_Nobody tells you this about ancient civi.mp4",
+      "youtube": {
+        "id": "_mH7f-C7NJ4",
+        "url": "https://www.youtube.com/shorts/_mH7f-C7NJ4"
+      },
+      "instagram": null
+    },
+    {
+      "id": 24,
+      "timestamp": "2026-06-10T18:56:06.056520",
+      "topic": "3 things about what happens to your consciousness that will blow your mind",
+      "niche": "movies",
+      "video": "output\\20260610_184657_3 things about what happens to your cons.mp4",
+      "youtube": {
+        "id": "2KqNvm-u8t8",
+        "url": "https://www.youtube.com/shorts/2KqNvm-u8t8"
+      },
+      "instagram": null
+    },
+    {
+      "id": 23,
+      "timestamp": "2026-06-10T18:40:09.144558",
+      "topic": "Nobody tells you this about confirmation bias",
+      "niche": "psychology",
+      "video": "output\\20260610_182816_Nobody tells you this about confirmation.mp4",
+      "youtube": {
+        "id": "Tj5SaQEjY6o",
+        "url": "https://www.youtube.com/shorts/Tj5SaQEjY6o"
+      },
+      "instagram": null
+    },
+    {
+      "id": 22,
+      "timestamp": "2026-06-10T18:22:10.308208",
+      "topic": "Nobody tells you this about the secret training habits",
+      "niche": "mystery",
+      "video": "output\\20260610_175600_Nobody tells you this about the secret t.mp4",
+      "youtube": {
+        "id": "x2QYfWNaeMI",
+        "url": "https://www.youtube.com/shorts/x2QYfWNaeMI"
+      },
+      "instagram": null
+    },
+    {
+      "id": 21,
+      "timestamp": "2026-06-10T17:54:16.274640",
+      "topic": "Why you've been doing Neymar's dribbling technique wrong your whole life",
+      "niche": "football",
+      "video": "output\\20260610_174644_Why you_ve been doing Neymar_s dribbling.mp4",
+      "youtube": {
+        "id": "qJQ5uO0Q-ao",
+        "url": "https://www.youtube.com/shorts/qJQ5uO0Q-ao"
+      },
+      "instagram": null
+    },
+    {
+      "id": 20,
+      "timestamp": "2026-06-10T17:46:12.834175",
+      "topic": "The real reason Messi's brain works the way it does",
+      "niche": "facts",
+      "video": "output\\20260610_173448_The real reason Messi_s brain works the .mp4",
+      "youtube": {
+        "id": "ufglQ2hNkOI",
+        "url": "https://www.youtube.com/shorts/ufglQ2hNkOI"
+      },
+      "instagram": null
+    },
+    {
+      "id": 19,
+      "timestamp": "2026-06-10T16:06:34.927238",
+      "topic": "Why you've been doing attachment styles wrong your whole life",
+      "niche": "relationships",
+      "video": "output\\20260610_155434_Why you_ve been doing attachment styles .mp4",
+      "youtube": {
+        "id": "vePZu8JC9to",
+        "url": "https://www.youtube.com/shorts/vePZu8JC9to"
+      },
+      "instagram": null
+    },
+    {
+      "id": 18,
+      "timestamp": "2026-06-10T12:11:43.913447",
+      "topic": "The the anxious-avoidant trap secret nobody talks about",
+      "niche": "relatable",
+      "video": "output\\20260610_115029_The the anxious-avoidant trap secret nob.mp4",
+      "youtube": {
+        "id": "BHT14sv2UM0",
+        "url": "https://www.youtube.com/shorts/BHT14sv2UM0"
+      },
+      "instagram": null
+    },
+    {
+      "id": 17,
+      "timestamp": "2026-06-10T02:27:01.536361",
+      "topic": "The shocking truth about the dark web",
+      "niche": "relatable",
+      "video": "output\\20260610_021549_The shocking truth about the dark web.mp4",
+      "youtube": {
+        "id": "fqsYmrg2OAM",
+        "url": "https://www.youtube.com/shorts/fqsYmrg2OAM"
+      },
+      "instagram": null
+    },
+    {
+      "id": 16,
+      "timestamp": "2026-06-09T23:27:30.224790",
+      "topic": "Why you've been doing The Dark Knight wrong your whole life",
+      "niche": "relatable",
+      "video": "output\\20260609_231412_Why you_ve been doing The Dark Knight wr.mp4",
+      "youtube": {
+        "id": "Nfitcl1ayew",
+        "url": "https://www.youtube.com/shorts/Nfitcl1ayew"
+      },
+      "instagram": null
+    },
+    {
       "id": 15,
       "timestamp": "2026-06-06T20:23:31.937138",
       "topic": "Why you've been doing the psychology of loneliness wrong your whole life",
@@ -206,8 +410,8 @@
     }
   ],
   "stats": {
-    "total": 15,
-    "today": 6,
-    "last_run": "2026-06-06T20:23:31.937165"
+    "total": 32,
+    "today": 4,
+    "last_run": "2026-06-17T22:22:16.647909"
   }
 }

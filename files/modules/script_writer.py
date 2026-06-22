@@ -166,11 +166,14 @@ Follow if this kept you up tonight."""
 
 def write_title(topic: str) -> str:
     templates = [
-        f"This {topic} fact will SHOCK you",
-        f"Nobody talks about this {topic} secret",
-        f"The {topic} truth they hide from you",
-        f"I can't believe this about {topic}",
-        f"{topic.title()} — the fact that changes everything",
+        f"This {topic} will keep you up tonight",
+        f"Nobody survived to explain {topic}. Almost.",
+        f"The {topic} secret they buried",
+        f"Most people don't know this about {topic}",
+        f"{topic.title()} — the truth nobody tells you",
+        f"The dark side of {topic} nobody talks about",
+        f"What {topic} does to your mind is terrifying",
+        f"This {topic} changed everything. Here's why.",
     ]
     return random.choice(templates)[:100]
 

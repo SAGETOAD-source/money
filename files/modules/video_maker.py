@@ -30,6 +30,7 @@ NICHE_KEYWORDS = {
     "mystery":     ["dark secret", "conspiracy shadow", "hidden truth", "ancient mystery"],
     "horror":      ["dark forest night", "abandoned building", "shadow horror", "dark corridor creepy"],
     "movies":      ["cinema film reel", "dramatic silhouette", "emotional face close", "dark dramatic light"],
+    "football":    ["football stadium crowd", "soccer player running", "football training", "stadium lights night", "football goal celebration"],
     "tech":        ["technology abstract", "artificial intelligence", "futuristic city", "digital data"],
     "science":     ["science laboratory", "space galaxy", "dna biology", "brain neuron"],
     "motivation":  ["mountain sunrise", "running athletics", "success winner", "city skyline"],
@@ -45,6 +46,7 @@ PALETTES = {
     "mystery":      {"accent": (60,180,255),  "accent2": (120,210,255)},
     "horror":       {"accent": (180,0,0),     "accent2": (255,60,60)},
     "movies":       {"accent": (255,200,0),   "accent2": (255,230,80)},
+    "football":     {"accent": (0,200,80),    "accent2": (80,255,140)},
     "tech":         {"accent": (0,210,255),   "accent2": (80,240,255)},
     "motivation":   {"accent": (255,70,90),   "accent2": (255,130,150)},
     "default":      {"accent": (140,80,255),  "accent2": (190,130,255)},
@@ -69,6 +71,38 @@ def gfont(size, bold=False):
     _FC[k] = f; return f
 
 # ── Pexels video downloader ───────────────────────────────────────────────────
+
+def download_pixabay_video(query: str, pixabay_key: str,
+                           cache_dir: str = "assets/videos") -> str | None:
+    """Fallback video source when Pexels has no good match."""
+    if not pixabay_key or pixabay_key.startswith("YOUR"):
+        return None
+    os.makedirs(cache_dir, exist_ok=True)
+    try:
+        r = requests.get("https://pixabay.com/api/videos/",
+            params={"key": pixabay_key, "q": query, "per_page": 10,
+                    "video_type": "film", "orientation": "vertical"},
+            timeout=10)
+        hits = r.json().get("hits", [])
+        if not hits: return None
+        video = random.choice(hits[:5])
+        # Pick medium quality
+        videos = video.get("videos", {})
+        url = (videos.get("medium") or videos.get("small") or {}).get("url")
+        if not url: return None
+        vid_id = video["id"]
+        path = f"{cache_dir}/px_{vid_id}.mp4"
+        if os.path.exists(path): return path
+        resp = requests.get(url, stream=True, timeout=30)
+        with open(path, "wb") as f:
+            for chunk in resp.iter_content(65536): f.write(chunk)
+        logger.info(f"✅ Pixabay clip: {path}")
+        return path
+    except Exception as e:
+        logger.warning(f"Pixabay error: {e}")
+        return None
+
+
 def extract_video_query(topic: str, niche: str) -> str:
     """Extract the best search query from the topic for Pexels."""
     topic_lower = topic.lower()
@@ -401,6 +435,11 @@ def build_video(topic: str, script: str, niche: str,
         # Per-scene: pick background video matched to this scene's text
         scene_query = extract_video_query(text, niche)
         bg_path = download_pexels_video(topic, niche, pexels_key, prebuilt_query=scene_query) if pexels_key else None
+        # Fallback to Pixabay if Pexels returned nothing
+        if not bg_path:
+            pixabay_key = getattr(__import__("config"), "PIXABAY_API_KEY", None)
+            if pixabay_key:
+                bg_path = download_pixabay_video(scene_query, pixabay_key)
         logger.info(f"🎥 Scene {i+1} bg: '{scene_query}'")
 
         use_bg = bool(bg_path)

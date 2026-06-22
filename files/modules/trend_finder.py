@@ -96,6 +96,20 @@ NICHE_SUBJECTS = {
         ("Hereditary", "having hidden symbols in every scene"),
         ("Black Swan", "being about perfectionism destroying people"),
     ],
+    "football": [
+        ("Ronaldo's mental strength", "making him unstoppable"),
+        ("Messi's brain", "processing football differently from everyone"),
+        ("Neymar's dribbling technique", "being impossible to defend"),
+        ("prime Ronaldo", "having an inhuman work ethic"),
+        ("Messi's left foot", "being the most lethal weapon in football"),
+        ("how Ronaldo trains", "while everyone else sleeps"),
+        ("the psychology of penalty kicks", "breaking players mentally"),
+        ("why prime Ronaldo was feared", "by every defender on earth"),
+        ("Messi's vision", "seeing the game 3 seconds ahead"),
+        ("the dark side of football", "nobody talks about"),
+        ("how top footballers recover mentally", "after a loss"),
+        ("the secret training habits", "of the world's best footballers"),
+    ],
     "facts": [
         ("the human brain", "sleeping"),
         ("the ocean", "going 10km deep"),
@@ -125,21 +139,38 @@ def get_trending_topics(count: int = 5) -> list:
     """Return `count` viral-ready topic strings."""
     topics = []
 
-    # Try real Google Trends (mix in 1-2 real trends)
+    # Try real trends via Groq web search
     try:
-        from pytrends.request import TrendReq
-        pt = TrendReq(hl='en-US', tz=330, timeout=(10, 25))
-        df = pt.trending_searches(pn=TRENDS_REGION.lower())
-        real = df[0].tolist()[:3]
+        from groq import Groq
+        from config import GROQ_API_KEY
+        import json
+
+        client = Groq(api_key=GROQ_API_KEY)
+        response = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{
+                "role": "user",
+                "content": (
+                    "List 3 real trending topics RIGHT NOW on YouTube Shorts and Instagram Reels "
+                    "in these niches: psychology, relationships, mystery, horror, movies, football. "
+                    "Reply with ONLY a JSON array of 3 short topic strings, no explanation. "
+                    "Example: [\"topic one\", \"topic two\", \"topic three\"]"
+                )
+            }],
+            max_tokens=120,
+            temperature=0.7,
+        )
+        raw = response.choices[0].message.content.strip()
+        # Strip markdown fences if present
+        raw = raw.replace("```json", "").replace("```", "").strip()
+        real = json.loads(raw)
         for trend in real[:2]:
-            niche = random.choice(NICHES)
-            # Wrap real trend in a viral formula
             formula = random.choice(VIRAL_FORMULAS)
             topic = formula.format(subject=trend, event="going viral", number=5)
             topics.append(topic)
-        logger.info(f"✅ Got real trends: {real[:2]}")
+        logger.info(f"✅ Got real trends via Groq: {real[:2]}")
     except Exception as e:
-        logger.warning(f"⚠️  Google Trends unavailable: {e}")
+        logger.warning(f"⚠️  Groq trend fetch failed: {e}")
 
     # Fill rest with formula-based viral topics
     while len(topics) < count:
@@ -160,6 +191,7 @@ def pick_niche_for_topic(topic: str) -> str:
         "relationships": ["relationship", "red flag", "attachment", "love", "leave", "cheat", "toxic", "partner", "dating", "breakup"],
         "mystery":       ["secret", "hidden", "government", "ancient", "conspiracy", "simulation", "paranormal", "bermuda", "nasa", "mystery"],
         "facts":         ["brain", "ocean", "heart", "body", "space", "time", "dna"],
+        "football":      ["football", "ronaldo", "messi", "neymar", "soccer", "striker", "penalty", "footballer", "premier", "champions"],
     }
     for niche, keywords in keyword_map.items():
         if any(k in t for k in keywords):

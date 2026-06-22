@@ -27,3 +27,49 @@
 2026-06-06 17:14:39,453  [INFO]  🎉 Manga Done! YouTube: https://www.youtube.com/shorts/t1q-jaFYH_s | Instagram: https://www.instagram.com/reel/17944921872206293/
 2026-06-06 17:14:39,467  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2026-06-06 17:14:39,467  [INFO]  🤖 Manga Bot running.
+2026-06-06 21:44:53,279  [INFO]  ==================================================
+2026-06-06 21:44:53,279  [INFO]    MANGA BOT — 1 video/day → YouTube + Instagram
+2026-06-06 21:44:53,279  [INFO]  ==================================================
+2026-06-06 21:44:53,280  [INFO]  ⏰ Manga scheduled at 13:00
+2026-06-06 21:44:53,280  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 21:44:53,280  [INFO]  📖 Manga pipeline starting…
+2026-06-06 21:44:53,280  [INFO]  📖 One Piece | action | query: warrior silhouette dark
+2026-06-06 21:44:54,206  [INFO]  HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 21:44:54,214  [INFO]  ✅ Manga script: 50 words
+2026-06-06 21:45:25,807  [INFO]  ✅ Manga clip: assets/manga/6813181.mp4
+2026-06-06 21:47:44,905  [INFO]  🎤 Audio: 31.3s
+2026-06-06 21:48:05,711  [INFO]  ✅ Manga video: output\manga_20260606_214453.mp4
+2026-06-06 21:48:08,581  [INFO]  file_cache is only supported with oauth2client<4.0.0
+2026-06-06 21:48:08,588  [INFO]  📤 Uploading to YouTube: One Piece hid its real meaning in plain sight for 25 years. #Shorts
+2026-06-06 21:48:24,914  [INFO]  ✅ YouTube upload done → https://www.youtube.com/shorts/luUUqZZEHq8
+2026-06-06 21:48:24,915  [INFO]  ✅ POV YouTube → https://www.youtube.com/shorts/luUUqZZEHq8
+2026-06-06 21:48:39,015  [INFO]  ☁️  Uploading to Cloudinary…
+2026-06-06 21:49:02,209  [INFO]  ☁️  Cloudinary URL: https://res.cloudinary.com/dq95prkj8/video/upload/v1780762740/autoshorts/ulybem83v1ysabu0hmle.mp4
+2026-06-06 21:49:02,209  [INFO]  📤 Creating Instagram Reel container…
+2026-06-06 21:49:03,538  [INFO]  📦 Container created: 17971457307061986
+2026-06-06 21:49:09,690  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:15,528  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:21,672  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:27,713  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:33,552  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:39,278  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:45,531  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:51,373  [INFO]  ⏳ Container status: 
+2026-06-06 21:49:57,307  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:03,042  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:08,879  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:14,614  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:20,364  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:26,187  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:32,019  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:37,859  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:43,593  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:49,635  [INFO]  ⏳ Container status: 
+2026-06-06 21:50:55,678  [INFO]  ⏳ Container status: 
+2026-06-06 21:51:01,411  [INFO]  ⏳ Container status: 
+2026-06-06 21:51:09,296  [INFO]  ✅ Instagram upload done → https://www.instagram.com/reel/18130816708598383/
+2026-06-06 21:51:09,914  [INFO]  🗑️  Cloudinary video deleted
+2026-06-06 21:51:09,945  [INFO]  ✅ POV Instagram → https://www.instagram.com/reel/18130816708598383/
+2026-06-06 21:51:09,945  [INFO]  🎉 Manga Done! YouTube: https://www.youtube.com/shorts/luUUqZZEHq8 | Instagram: https://www.instagram.com/reel/18130816708598383/
+2026-06-06 21:51:09,952  [INFO]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-06 21:51:09,952  [INFO]  🤖 Manga Bot running.

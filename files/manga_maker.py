@@ -78,6 +78,26 @@ MANGA_SERIES = [
      "hooks": ["Attack on Titan's ending was planned from chapter one.",
                "Eren Yeager was the villain the whole time. The clues were there.",
                "The hidden symbolism in AoT nobody talks about."]},
+    {"title": "Naruto", "type": "manga",
+     "hooks": ["Naruto's pain arc is the deepest thing in shounen manga.",
+               "Pain's speech in Naruto still hits harder than anything.",
+               "Why Itachi's sacrifice was the most heartbreaking moment in manga."]},
+    {"title": "Death Note", "type": "manga",
+     "hooks": ["Death Note is not about justice. It never was.",
+               "Light Yagami lost the moment he picked up the notebook.",
+               "The psychological game between Light and L is unmatched."]},
+    {"title": "Demon Slayer", "type": "manga",
+     "hooks": ["The real tragedy of Demon Slayer is in the backstory.",
+               "Tanjiro's kindness in a brutal world is the whole point.",
+               "The Mugen Train arc hits different when you understand the theme."]},
+    {"title": "Blue Lock", "type": "manga",
+     "hooks": ["Blue Lock is the most psychologically intense sports manga.",
+               "Isagi's evolution in Blue Lock is unlike any sports protagonist.",
+               "Blue Lock asks one question: what does it mean to be the best?"]},
+    {"title": "Spy x Family", "type": "manga",
+     "hooks": ["Spy x Family hides its emotional depth behind comedy.",
+               "Anya's smile in Spy x Family carries more weight than you think.",
+               "The Forger family dynamic is the most wholesome thing in manga."]},
 ]
 
 # ── Pexels queries per mood ────────────────────────────────────────────────────
@@ -92,30 +112,31 @@ MANGA_VISUALS = {
                   "silhouette power dramatic", "glowing eyes dark"],
 }
 
-MANGA_SYSTEM_PROMPT = """You are a viral manga/manhwa narrator on YouTube Shorts.
-You explain the MOST GRIPPING moment, arc, or hidden meaning from a series.
-Your goal: make non-readers desperate to read it. Make readers feel seen.
+MANGA_SYSTEM_PROMPT = """You are the most passionate manga/manhwa narrator on the internet.
+You explain the MOST EMOTIONALLY DEVASTATING or HYPE moment from a series.
+Your goal: non-readers must start reading. Readers must feel deeply understood.
 
-STYLE: Dramatic narrator. Build tension like a movie trailer. Personal, passionate.
+STYLE: Like a best friend who can't stop talking about their favorite series.
+Passionate. Building. Emotional. Never dry or encyclopedic.
 
 FORMAT (follow exactly):
-- Line 1: HOOK — one line that makes them stop scrolling
+- Line 1: HOOK — stops the scroll completely
 - [blank line]
-- Lines 2-3: SETUP — the situation, the stakes
+- Lines 2-3: THE SETUP — who, what, why it matters. Build the stakes.
 - [blank line]
-- Lines 4-5: THE MOMENT — the scene/twist/revelation that hits hardest
+- Lines 4-5: THE MOMENT — the scene/revelation that destroyed everyone emotionally
 - [blank line]
-- Lines 6-7: THE IMPACT — why this matters, what it means
+- Lines 6-7: WHY IT HITS — the deeper meaning, what the author was saying
 - [blank line]
-- Last line: CTA — "read it. you'll understand." or "follow for more."
+- Last line: "read it. nothing will prepare you." or "follow for more."
 
 STRICT RULES:
-- Output ONLY spoken words
-- Max 8 words per sentence
-- ALWAYS complete all sections
-- Sound like someone who genuinely loves this series
-- Make them FEEL something
-- Never spoil everything — leave them wanting more"""
+- Output ONLY spoken words — no chapter numbers, no technical terms
+- Max 8 words per sentence — punchy and urgent
+- ALWAYS complete ALL sections — never stop early
+- Sound like someone physically unable to shut up about this series
+- Leave them wanting more — never spoil the ending
+- Use emotion words: devastating, broke everyone, nobody recovered, hit different"""
 
 
 def generate_manga_script(series: dict, hook: str) -> str:
