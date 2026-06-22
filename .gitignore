@@ -1,0 +1,16 @@
+# Secrets
+files/config.py
+files/client_secret.json
+files/youtube_token.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+files/logs/
+
+# Generated outputs
+files/output/
+files/assets/ai_frames/
+files/assets/ai_videos/
